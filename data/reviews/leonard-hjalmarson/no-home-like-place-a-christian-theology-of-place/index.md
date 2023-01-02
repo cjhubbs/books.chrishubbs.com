@@ -1,0 +1,21 @@
+---
+book:
+  author: Leonard Hjalmarson
+  cover_image_url: ''
+  goodreads: '26151211'
+  isbn13: '9780692393611'
+  isbn9: 0692393617
+  owned: ''
+  pages: '260'
+  publication_year: '2015'
+  series: ''
+  series_position: '2015'
+  spine_color: ''
+  tags: ''
+  title: 'No Home Like Place: A Christian Theology of Place'
+plan:
+  date_added: 2023-01-01
+review:
+  date_read: '2021-03-06'
+  rating: '3'
+---
