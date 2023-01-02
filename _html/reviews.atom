@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://books.rixx.de/feed.atom</id>
+  <title>log(book): rixx's book log</title>
+  <updated>2022-12-23T00:00:00Z</updated>
+  <author>
+    <name>Tobias Kunze</name>
+    <email>r@rixx.de</email>
+  </author>
+  <link href="https://books.rixx.de/" rel="alternate"/>
+  <link href="https://books.rixx.de/feed.atom" rel="self"/><entry>
+      <title>Slow Horses</title>
+      <link href="https://books.rixx.de/mick-herron/slow-horses/" rel="alternate"/>
+      <id>urn:uuid:e08c0d33-484b-75d0-c539-60ad458a7849</id>
+      <updated>2022-12-23T00:00:00Z</updated>
+      <content type="html">I finished reading Slow Horses by Mick Herron.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Strangers in Their Own Land: Anger and Mourning on the American Right</title>
+      <link href="https://books.rixx.de/arlie-russell-hochschild/strangers-in-their-own-land-anger-and-mourning-on-the-american-right/" rel="alternate"/>
+      <id>urn:uuid:8a35b750-452d-d7c4-18c6-a9a008278631</id>
+      <updated>2022-11-24T00:00:00Z</updated>
+      <content type="html">I finished reading Strangers in Their Own Land: Anger and Mourning on the American Right by Arlie Russell Hochschild.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Changing Our Mind: Definitive 3rd Edition of the Landmark Call for Inclusion of Lgbtq Christians with Response to Critics</title>
+      <link href="https://books.rixx.de/david-p-gushee/changing-our-mind-definitive-3rd-edition-of-the-landmark-call-for-inclusion-of-lgbtq-christians-with-response-to-critics/" rel="alternate"/>
+      <id>urn:uuid:ae2934c8-fb62-2f46-855f-b6e06d4fd3a9</id>
+      <updated>2022-11-20T00:00:00Z</updated>
+      <content type="html">I finished reading Changing Our Mind: Definitive 3rd Edition of the Landmark Call for Inclusion of Lgbtq Christians with Response to Critics by David P. Gushee.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>A Thicker Jesus</title>
+      <link href="https://books.rixx.de/glen-h-stassen/a-thicker-jesus/" rel="alternate"/>
+      <id>urn:uuid:d39e8698-75b3-9cdb-01af-dd834af527fe</id>
+      <updated>2022-11-18T00:00:00Z</updated>
+      <content type="html">I finished reading A Thicker Jesus by Glen H. Stassen.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Destined for Joy: The Gospel of Universal Salvation</title>
+      <link href="https://books.rixx.de/alvin-f-kimel/destined-for-joy-the-gospel-of-universal-salvation/" rel="alternate"/>
+      <id>urn:uuid:10b2e314-030b-c816-7fd1-4555e052cb51</id>
+      <updated>2022-11-06T00:00:00Z</updated>
+      <content type="html">I finished reading Destined for Joy: The Gospel of Universal Salvation by Alvin F. Kimel.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>A Prayer for the Crown-Shy</title>
+      <link href="https://books.rixx.de/becky-chambers/a-prayer-for-the-crown-shy/" rel="alternate"/>
+      <id>urn:uuid:23b5a894-876b-08a9-93e5-44cb760d6803</id>
+      <updated>2022-10-15T00:00:00Z</updated>
+      <content type="html">I finished reading A Prayer for the Crown-Shy by Becky Chambers.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Small Things Like These</title>
+      <link href="https://books.rixx.de/claire-keegan/small-things-like-these/" rel="alternate"/>
+      <id>urn:uuid:4abfea34-68a4-f7bd-fac5-58831781a2d6</id>
+      <updated>2022-10-13T00:00:00Z</updated>
+      <content type="html">I finished reading Small Things Like These by Claire Keegan.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Sea of Tranquility</title>
+      <link href="https://books.rixx.de/emily-st-john-mandel/sea-of-tranquility/" rel="alternate"/>
+      <id>urn:uuid:7ac349db-a474-4695-1f3b-72d05652e2c5</id>
+      <updated>2022-10-11T00:00:00Z</updated>
+      <content type="html">I finished reading Sea of Tranquility by Emily St. John Mandel.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Coffin Dancer</title>
+      <link href="https://books.rixx.de/jeffery-deaver/the-coffin-dancer/" rel="alternate"/>
+      <id>urn:uuid:73a384f3-8f1c-e06b-1cdf-916d289f2afc</id>
+      <updated>2022-10-02T00:00:00Z</updated>
+      <content type="html">I finished reading The Coffin Dancer by Jeffery Deaver.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>A Psalm for the Wild-Built</title>
+      <link href="https://books.rixx.de/becky-chambers/a-psalm-for-the-wild-built/" rel="alternate"/>
+      <id>urn:uuid:268d595d-c929-780c-b851-f0ba9e9de72d</id>
+      <updated>2022-09-28T00:00:00Z</updated>
+      <content type="html">I finished reading A Psalm for the Wild-Built by Becky Chambers.
+
+        
+
+        
+
+        &lt;p&gt;Simply lovely and delightful. It’s somehow as if Wendell Berry started writing sci-fi short stories. I will be coming back to this one for sure.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Life of Saint Teresa of Avila: A Biography</title>
+      <link href="https://books.rixx.de/carlos-eire/the-life-of-saint-teresa-of-avila-a-biography/" rel="alternate"/>
+      <id>urn:uuid:62b89c8e-8e35-5b71-c3f7-6bd0cc454d2e</id>
+      <updated>2022-09-25T00:00:00Z</updated>
+      <content type="html">I finished reading The Life of Saint Teresa of Avila: A Biography by Carlos Eire.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Blue Diamond (The Daughter of Sherlock Holmes Mysteries #6)</title>
+      <link href="https://books.rixx.de/leonard-goldberg/the-blue-diamond-the-daughter-of-sherlock-holmes-mysteries-6/" rel="alternate"/>
+      <id>urn:uuid:49d2c224-6e81-8bc1-12e7-ff9e8aac6247</id>
+      <updated>2022-09-17T00:00:00Z</updated>
+      <content type="html">I finished reading The Blue Diamond (The Daughter of Sherlock Holmes Mysteries #6) by Leonard Goldberg.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>History and Eschatology: Jesus and the Promise of Natural Theology</title>
+      <link href="https://books.rixx.de/n-t-wright/history-and-eschatology-jesus-and-the-promise-of-natural-theology/" rel="alternate"/>
+      <id>urn:uuid:395eb994-3774-895d-d5c3-630fbd40ded8</id>
+      <updated>2022-09-17T00:00:00Z</updated>
+      <content type="html">I finished reading History and Eschatology: Jesus and the Promise of Natural Theology by N.T. Wright.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Faith Victorious</title>
+      <link href="https://books.rixx.de/lennart-pinomaa/faith-victorious/" rel="alternate"/>
+      <id>urn:uuid:a82745d6-ee31-2227-c68e-1c96ef271a31</id>
+      <updated>2022-09-05T00:00:00Z</updated>
+      <content type="html">I finished reading Faith Victorious by Lennart Pinomaa.
+
+        
+
+        
+
+        &lt;p&gt;Perhaps it’s a fair summary of Luther’s teaching, but the author fawns over Luther to the point it feels disgusting.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Late Medieval English Church: Vitality and Vulnerability Before the Break with Rome</title>
+      <link href="https://books.rixx.de/g-w-bernard/the-late-medieval-english-church-vitality-and-vulnerability-before-the-break-with-rome/" rel="alternate"/>
+      <id>urn:uuid:0a91b75a-a3be-c71d-07be-66c6a9dac083</id>
+      <updated>2022-09-03T00:00:00Z</updated>
+      <content type="html">I finished reading The Late Medieval English Church: Vitality and Vulnerability Before the Break with Rome by G.W. Bernard.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Love over Fear: Facing Monsters, Befriending Enemies, and Healing Our Polarized World</title>
+      <link href="https://books.rixx.de/dan-white-jr/love-over-fear-facing-monsters-befriending-enemies-and-healing-our-polarized-world/" rel="alternate"/>
+      <id>urn:uuid:9395c4bb-852f-100b-16e6-75245fb62ea9</id>
+      <updated>2022-08-28T00:00:00Z</updated>
+      <content type="html">I finished reading Love over Fear: Facing Monsters, Befriending Enemies, and Healing Our Polarized World by Dan White Jr..
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Dark Interval: Towards a Theology of Story</title>
+      <link href="https://books.rixx.de/john-dominic-crossan/the-dark-interval-towards-a-theology-of-story/" rel="alternate"/>
+      <id>urn:uuid:578694cd-3c7d-d5a7-8176-897e0913a337</id>
+      <updated>2022-08-26T00:00:00Z</updated>
+      <content type="html">I finished reading The Dark Interval: Towards a Theology of Story by John Dominic Crossan.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win</title>
+      <link href="https://books.rixx.de/gene-kim/the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win/" rel="alternate"/>
+      <id>urn:uuid:4779303e-098a-3709-be94-00e42a637c91</id>
+      <updated>2022-08-14T00:00:00Z</updated>
+      <content type="html">I finished reading The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win by Gene Kim.
+
+        
+
+        
+
+        &lt;p&gt;One step above the typical corporate training video; sort of a casual primer on lean thinking and DevOps. Michael Crichton would’ve made it a lot more interesting.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>Once a Thief</title>
+      <link href="https://books.rixx.de/christopher-reich/once-a-thief/" rel="alternate"/>
+      <id>urn:uuid:7dc0b7ac-dbfe-110e-b16a-eff43109a173</id>
+      <updated>2022-08-11T00:00:00Z</updated>
+      <content type="html">I finished reading Once a Thief by Christopher Reich.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Invention of Religion: Faith and Covenant in the Book of Exodus</title>
+      <link href="https://books.rixx.de/jan-assmann/the-invention-of-religion-faith-and-covenant-in-the-book-of-exodus/" rel="alternate"/>
+      <id>urn:uuid:4aec153b-aeba-d742-00b2-4a0cad0708f4</id>
+      <updated>2022-08-11T00:00:00Z</updated>
+      <content type="html">I finished reading The Invention of Religion: Faith and Covenant in the Book of Exodus by Jan Assmann.
+
+        
+
+        
+
+        
+
+        
+        
+    </content>
+    </entry></feed>

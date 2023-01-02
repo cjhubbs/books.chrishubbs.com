@@ -76,13 +76,13 @@ ENV.filters["smartypants"] = smartypants.smartypants
 def render(template_name, path, **context):
     template = ENV.get_template(template_name)
     html = template.render(**context)
-    out_path = pathlib.Path("../_html") / path
+    out_path = pathlib.Path("_html") / path
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(html)
 
 
 def render_string(path, string):
-    out_path = pathlib.Path("../_html") / path
+    out_path = pathlib.Path("_html") / path
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(string)
 
