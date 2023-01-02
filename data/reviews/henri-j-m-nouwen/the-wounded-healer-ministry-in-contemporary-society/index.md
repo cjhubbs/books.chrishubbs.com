@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-09-27'
-  rating: '4'
+  date_read:
+  - 2014-09-27
+  rating: 4
 ---
 
 The first half of this little volume seems very dated, but the second half strongly makes up for it. An encouraging read on ministry to others.

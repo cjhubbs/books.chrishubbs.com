@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-09-13'
-  rating: '5'
+  date_read:
+  - 2016-09-13
+  rating: 5
 ---
 
 Excellent story, in a combination of alt history and thriller. The end happens a little bit quickly but for such a well-thought-out universe I am forgive that.

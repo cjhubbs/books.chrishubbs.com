@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-10-04'
-  rating: '4'
+  date_read:
+  - 2011-10-04
+  rating: 4
 ---
 
 Eminently readable and accessible account of the past 30 years of cosmological study. Fascinating stuff.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2012-09-08'
-  rating: '5'
+  date_read:
+  - 2012-09-08
+  rating: 5
 ---
 
 Brilliant stuff from Marilynne Robinson. While less engaging when she uses the middle of the book to heap praise on John Calvin, the final essay, 'The Tyranny of Petty Coercion', is worth 5 stars all by itself.

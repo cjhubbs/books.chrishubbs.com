@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2021-08-08'
-  rating: '5'
+  date_read:
+  - 2021-08-08
+  rating: 5
 ---
 
 As someone who grew up in 1990’s evangelical purity culture, this book is such a breath of fresh air. It’s a call to reconsider so many unhealthy messages and dynamics purity culture created, and to live a life of wisdom and discernment in community. <br/><br/>While the author remains more conservative than I do on several of these topics, I would happily put this book over and over in the hands of its target audience: members of the evangelical culture I grew up in.

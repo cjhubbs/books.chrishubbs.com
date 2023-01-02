@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-01-05'
-  rating: '2'
+  date_read:
+  - 2016-01-05
+  rating: 2
 ---
 
 A rather pretentious discussion of the art of moviemaking and what we should look for as we watch movies. Not too hard to get through but feels very snobby.

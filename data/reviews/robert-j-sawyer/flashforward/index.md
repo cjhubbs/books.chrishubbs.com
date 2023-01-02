@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-03-06'
-  rating: '3'
+  date_read:
+  - 2011-03-06
+  rating: 3
 ---
 
 Having watched the short-lived ABC television series "based on" this book, I was curious to see how Sawyer (an author I really like) actually envisioned the topic.  Thankfully, all of the soap opera and cop drama aspects of the TV series disappeared and instead what we got was a short story exploring (just a bit) the science aspects, and mostly asking this question: how would people respond if they got a brief glimpse of their future?<br/><br/>Flashforward is a easy entertaining read.  Not as good as some of Sawyer's other stuff (the Hominids trilogy is my particular favorite), but still worth a read.

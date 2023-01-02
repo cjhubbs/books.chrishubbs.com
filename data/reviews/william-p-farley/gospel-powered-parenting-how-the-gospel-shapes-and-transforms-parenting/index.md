@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-10-09'
-  rating: '4'
+  date_read:
+  - 2011-10-09
+  rating: 4
 ---
 
 A solid but not groundbreaking book; good in the reminder that we need to be more focused on inculcating the gospel than good morals into our children. Fairly thin in practical examples of to-dos, but a useful compendium.

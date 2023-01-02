@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-12-28'
-  rating: '5'
+  date_read:
+  - 2010-12-28
+  rating: 5
 ---
 
 A fantastic challenging read that will transform the way I think about Grace. Capon mixes storytelling with theologising quite effectively, driving his points home with insight and humor.<br/><br/>I'm not sure I'm on board with his conclusions on eschatology in the last bit of the book, but the first two-thirds are quite enough to warrant five stars for this fantastic volume.

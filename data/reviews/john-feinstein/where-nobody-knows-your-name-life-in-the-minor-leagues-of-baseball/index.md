@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-07-18'
-  rating: '3'
+  date_read:
+  - 2014-07-18
+  rating: 3
 ---
 
 Some entertaining stories and enlightening details about life in the minor leagues. However, the book is too long, gets repetitive in stories, phraseology, and tone, and suffers from sloppy editing.

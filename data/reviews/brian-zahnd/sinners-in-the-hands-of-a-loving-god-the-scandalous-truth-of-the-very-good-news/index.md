@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-12-19'
-  rating: '4'
+  date_read:
+  - 2017-12-19
+  rating: 4
 ---
 
 Zahnd’s response to the Puritan and Calvinist view of a wrathful God. He paints with broad strokes, but his overall argument is compelling. If you’ve listened to his sermons over the past couple years this content will sound very familiar.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2013-09-29'
-  rating: '3'
+  date_read:
+  - 2013-09-29
+  rating: 3
 ---
 
 Solid start to the series, but very little happens here. Interesting world and characters set up, but this is really just Act 1 of a single story, not a fully-formed story on its own.

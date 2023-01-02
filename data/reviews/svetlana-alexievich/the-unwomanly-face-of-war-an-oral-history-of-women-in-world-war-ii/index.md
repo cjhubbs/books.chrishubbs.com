@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-08-17'
-  rating: '5'
+  date_read:
+  - 2017-08-17
+  rating: 5
 ---
 
 Brutal, heartbreaking oral history of Soviet women who fought in WW2. Hard to fathom but painfully detailed. War is hell.

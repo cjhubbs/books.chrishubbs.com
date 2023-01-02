@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2022-09-28'
-  rating: '5'
+  date_read:
+  - 2022-09-28
+  rating: 5
 ---
 
 Simply lovely and delightful. It’s somehow as if Wendell Berry started writing sci-fi short stories. I will be coming back to this one for sure.

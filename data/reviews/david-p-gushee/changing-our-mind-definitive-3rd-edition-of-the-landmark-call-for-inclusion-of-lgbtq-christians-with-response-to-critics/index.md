@@ -6,7 +6,7 @@ book:
   isbn13: '9781942011842'
   isbn9: '1942011849'
   owned: ''
-  pages: ''
+  pages: 0
   publication_year: '2017'
   series: ''
   series_position: '2017'
@@ -17,6 +17,7 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2022-11-20'
-  rating: '5'
+  date_read:
+  - 2022-11-20
+  rating: 5
 ---

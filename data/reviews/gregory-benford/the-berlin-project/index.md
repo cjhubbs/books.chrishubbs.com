@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-11-23'
-  rating: '4'
+  date_read:
+  - 2017-11-23
+  rating: 4
 ---
 
 Fascinating alt-history of the Manhattan Project and WWII written by a nuclear scientist with first-hand knowledge of many of the characters in the book. The line between fact and fiction feels blurry for quite a while before things clearly move to the “alt”.

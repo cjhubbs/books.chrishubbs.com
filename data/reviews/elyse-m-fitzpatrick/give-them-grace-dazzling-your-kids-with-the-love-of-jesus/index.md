@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-02-09'
-  rating: '3'
+  date_read:
+  - 2014-02-09
+  rating: 3
 ---
 
 Great basic idea, but stylistically painful, with long scripted parent/child conversations that are laughably unrealistic. <br/><br/>I want to adopt some of the ideas here, but the book as a whole was a bit tiresome.

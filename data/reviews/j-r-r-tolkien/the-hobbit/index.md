@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-03-27'
-  rating: '5'
+  date_read:
+  - 2014-03-27
+  rating: 5
 ---
 
 Read this one out loud to the family. Such a delight.

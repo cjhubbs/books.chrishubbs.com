@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-03-23'
-  rating: '3'
+  date_read:
+  - 2014-03-23
+  rating: 3
 ---
 
 Solid, valuable book, worthwhile resource. Not particularly groundbreaking but thorough and well worked out.

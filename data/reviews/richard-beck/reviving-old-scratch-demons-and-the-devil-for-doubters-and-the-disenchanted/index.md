@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-10-01'
-  rating: '4'
+  date_read:
+  - 2016-10-01
+  rating: 4
 ---
 
 Wonderful insights from Beck on what spiritual warfare looks like, and on how we can live to resist the devil by acts of love toward our neighbor. The last chapter was worth the price all by itself.

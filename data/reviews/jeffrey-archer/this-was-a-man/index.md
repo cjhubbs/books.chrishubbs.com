@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-12-13'
-  rating: '4'
+  date_read:
+  - 2016-12-13
+  rating: 4
 ---
 
 A fitting conclusion to the series. Archer is a master storyteller.

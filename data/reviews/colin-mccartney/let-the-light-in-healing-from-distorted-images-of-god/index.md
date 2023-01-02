@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2022-06-26'
-  rating: '5'
+  date_read:
+  - 2022-06-26
+  rating: 5
 ---
 
 A very readable, accessible summary of the deconstructed evangelicalism in the stream of Greg Boyd, Brian Zahnd, and Brad Jersak. This is the one to give a friend who is struggling with the inherent inconsistencies of popular evangelical teaching to provide a good introduction before diving into the deep end.

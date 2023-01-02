@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2013-11-07'
-  rating: '3'
+  date_read:
+  - 2013-11-07
+  rating: 3
 ---
 
 Interesting overview of atonement views without being particularly persuasive towards Jones' own position.

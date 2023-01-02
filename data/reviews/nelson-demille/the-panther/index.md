@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2013-05-03'
-  rating: '1'
+  date_read:
+  - 2013-05-03
+  rating: 1
 ---
 
 Plot is thinner than thin. Hundreds of pages and nothing happens except we get a tour of Yemen and page after page of insufferable narrative. It's as if Mr DeMille had a quota of smart-ass internal dialog per page that he had to fill. If you cut out half of it, the book would shorten by 20% and still be just as boring. <br/><br/>I'm ashamed I wasted as much time on this one as I did. Avoid.

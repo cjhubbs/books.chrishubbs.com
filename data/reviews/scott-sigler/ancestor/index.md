@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2012-05-31'
-  rating: '3'
+  date_read:
+  - 2012-05-31
+  rating: 3
 ---
 
 A fast-paced horror thriller. No surprises to be had here - this is straight-up predictable creature horror, and not as horrific as it could've been.

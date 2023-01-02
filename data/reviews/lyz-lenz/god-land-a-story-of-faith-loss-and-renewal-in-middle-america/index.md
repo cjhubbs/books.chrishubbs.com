@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2019-08-04'
-  rating: '5'
+  date_read:
+  - 2019-08-04
+  rating: 5
 ---
 
 God Land is an insightful and challenging critique of Christianity in Middle America. Lyz Lenz clearly still loves her Midwestern home, but laments that the predominant Christian voices are conflating Republicanism, gun culture, and male-only leadership with the message of Jesus.<br/><br/>God Land doesn't try to paint an overly cheery "we just shouldn't let politics divide us" picture. Lenz's own story illustrates how divisive these issues can be on a personal level. She doesn't pull punches as she recounts the end of her marriage, leaving one church, having a church plant die, and her struggles to find supportive community.<br/><br/>God Land's clear affection for Middle America and portraits of small-town Americans combined with Lenz' beautiful prose and painfully honest diagnosis make it a must-read in 2019 America.

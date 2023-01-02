@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-02-21'
-  rating: '4'
+  date_read:
+  - 2010-02-21
+  rating: 4
 ---
 
 A short, fascinating read about the obsessive pianist's quest for the perfect piano, and the piano technician who maintained it for him.

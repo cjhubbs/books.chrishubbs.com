@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-10-16'
-  rating: '4'
+  date_read:
+  - 2010-10-16
+  rating: 4
 ---
 
 Lots of characters to keep track of, but ultimately satisfying. Good end to the trilogy.

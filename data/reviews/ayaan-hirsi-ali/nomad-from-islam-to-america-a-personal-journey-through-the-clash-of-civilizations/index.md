@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-05-30'
-  rating: '2'
+  date_read:
+  - 2010-05-30
+  rating: 2
 ---
 
 If Hirsi Ali's previous book, <i>Infidel</i>, was a smashing Movie on DVD, Nomad would be the DVD extra features and director's commentary. Hirsi Ali reinforces her point that strict adherence to Islam will cause subjugatioin and oppression of women. Fair point, but makes for a dull book. Read<i> Infidel</i> instead.

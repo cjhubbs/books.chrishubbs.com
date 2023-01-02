@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2019-01-26'
-  rating: '5'
+  date_read:
+  - 2019-01-26
+  rating: 5
 ---
 
 An excellent overview of the history of the American church’s compromise with racism. Should be mandatory reading in evangelical churches across the country.

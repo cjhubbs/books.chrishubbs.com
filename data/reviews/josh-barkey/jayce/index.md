@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-12-29'
-  rating: '1'
+  date_read:
+  - 2014-12-29
+  rating: 1
 ---
 
 Underdeveloped idea with little semblance of a plot. Weird omniscient narration that drops in from time to time. First and third acts are almost nonexistent and are completely unbelievable. This book needed a good editor and about twice as much content.

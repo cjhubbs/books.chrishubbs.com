@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2007-05-08'
-  rating: '5'
+  date_read:
+  - 2007-05-08
+  rating: 5
 ---
 
 This one is fun, especially if you don't know the twist at the end.  Not my favorite OSC, but well worth reading.

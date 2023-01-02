@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-02-21'
-  rating: '2'
+  date_read:
+  - 2010-02-21
+  rating: 2
 ---
 
 I've been a big fan of Bova's scifi, so I went ahead and picked this one up when I saw it on the library shelf.  This is Bova's foray into the military thriller genre, and, after reading it, my conclusion is that he should leave that genre to Larry Bond, Dale Brown, et al, and stick to writing sci-fi.<br/><br/>The plot was thin, the characters flat, the story just interesting enough to keep reading without actually being fascinating enough to be engaging.  Not particularly recommended.

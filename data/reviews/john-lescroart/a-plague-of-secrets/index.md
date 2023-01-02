@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2009-11-30'
-  rating: '4'
+  date_read:
+  - 2009-11-30
+  rating: 4
 ---
 
 Nothing profound here, just a solid legal thriller from one of my favorites.  The Hardy/Glitzky pairing, while unlikely, is a fun one; always enjoyable.

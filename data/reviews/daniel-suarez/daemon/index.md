@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-07-17'
-  rating: '5'
+  date_read:
+  - 2010-07-17
+  rating: 5
 ---
 
 A well-detailed techno-thriller; something akin to what we'd get if Tom Clancy had written about 21st century cyber technology instead of 1980's military hardware.  Fascinatingly complex, but plausible enough to be gripping.  Looking forward to the sequel.

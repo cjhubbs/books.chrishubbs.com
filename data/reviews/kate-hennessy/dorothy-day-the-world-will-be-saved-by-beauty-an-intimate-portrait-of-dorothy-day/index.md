@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-04-28'
-  rating: '3'
+  date_read:
+  - 2017-04-28
+  rating: 3
 ---
 
 Disappointing. Maybe if you're already familiar with Dorothy Day this is a good insight into her home life and family. But if (like me) you knew nothing about Day coming in, there's precious little explanation of what she did or how she became such a revered figure.

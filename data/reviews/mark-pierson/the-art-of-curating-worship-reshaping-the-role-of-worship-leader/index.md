@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-09-01'
-  rating: '4'
+  date_read:
+  - 2017-09-01
+  rating: 4
 ---
 
 Made me think more about the intent of worship and planning for it than any book I’ve read in a while. Good stuff.

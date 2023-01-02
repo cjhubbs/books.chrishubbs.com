@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2015-05-26'
-  rating: '4'
+  date_read:
+  - 2015-05-26
+  rating: 4
 ---
 
 Can't give the book 5 stars - reserved for truly great books - but neither can I penalize Reilly. He knows what he doing in this genre and brings us another semi-plausible page-turner. <br/><br/>As usual, it feels like a fast bloody action movie transcribed down into a book, which gets tiring as a steady diet, but is fun from time to time. <br/><br/>Easy, quick, fluffy reading.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-01-07'
-  rating: '3'
+  date_read:
+  - 2017-01-07
+  rating: 3
 ---
 
 Griffin continues to drag out his series. An entertaining story, but really just a light afternoon read.

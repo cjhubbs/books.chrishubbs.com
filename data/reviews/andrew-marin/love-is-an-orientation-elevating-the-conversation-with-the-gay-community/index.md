@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2009-10-10'
-  rating: '4'
+  date_read:
+  - 2009-10-10
+  rating: 4
 ---
 
 This is an important book. Andrew Marin makes his point about needing to put our first priority on showing love as much by what he specifically does not say as by what he does say.  Marin has put actions to his words over the past several years, and his example stands as a challenge to the rest of us.  Good, good stuff.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-06-03'
-  rating: '5'
+  date_read:
+  - 2010-06-03
+  rating: 5
 ---
 
 Such a fun read. The oral history format allows the story to be told in little episodes that come together into the full picture. I have never read anything quite like it. Brilliant, a fun read, very good story.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-11-06'
-  rating: '3'
+  date_read:
+  - 2010-11-06
+  rating: 3
 ---
 
 Ah, Dale Brown. Another cookie cutter plot, with ineffective politicians who despise the military techno-gear until it's too late. If the technology and the political scenarios weren't so interesting, I'd have given up on you by now. As it is... Three stars.

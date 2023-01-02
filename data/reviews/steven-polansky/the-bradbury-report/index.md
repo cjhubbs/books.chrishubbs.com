@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-07-27'
-  rating: '2'
+  date_read:
+  - 2010-07-27
+  rating: 2
 ---
 
 Trying to be futuristic and dystopian, this book only succeeds in being dry, dull, and uninteresting. Meh.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-01-02'
-  rating: '3'
+  date_read:
+  - 2010-01-02
+  rating: 3
 ---
 
 Nothing particularly breathtaking here, not the best book in the Pendergast series from Preston & Child, but still entertaining fun.

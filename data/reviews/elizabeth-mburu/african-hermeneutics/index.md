@@ -6,7 +6,7 @@ book:
   isbn13: '9781783684649'
   isbn9: 178368464X
   owned: ''
-  pages: ''
+  pages: 0
   publication_year: '2019'
   series: ''
   series_position: '2019'
@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2021-11-24'
-  rating: '3'
+  date_read:
+  - 2021-11-24
+  rating: 3
 ---
 
 A basic evangelical hermeneutics book. I was expecting more “African” thought than was here. A little disappointed in the first chapter when the author says that Christianity has only been in Africa for 100 years. Such a limited view of Christianity!

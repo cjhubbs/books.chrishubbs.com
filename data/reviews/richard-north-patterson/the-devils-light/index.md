@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-05-08'
-  rating: '2'
+  date_read:
+  - 2011-05-08
+  rating: 2
 ---
 
 Not <i>bad</i>, but not great either.  Patterson should really stay away from spy thrillers.  He doesn't hold up well in comparison to the masters of the genre.

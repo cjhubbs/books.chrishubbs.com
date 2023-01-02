@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-12-04'
-  rating: '4'
+  date_read:
+  - 2017-12-04
+  rating: 4
 ---
 
 An even-handed 20th century history of Palestine. Very readable and engaging.

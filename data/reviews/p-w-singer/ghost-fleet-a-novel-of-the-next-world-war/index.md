@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2015-09-08'
-  rating: '4'
+  date_read:
+  - 2015-09-08
+  rating: 4
 ---
 
 A modern take on the genre that Tom Clancy did best with Red Storm Rising. The authors here get the technology right but the various character threads are underdeveloped, as is the broader political picture. <br/><br/>An entertaining 400 pages, but it makes me nostalgic for the sort of thing Clancy and Larry Bond would do with the same scenario and 1000 pages.

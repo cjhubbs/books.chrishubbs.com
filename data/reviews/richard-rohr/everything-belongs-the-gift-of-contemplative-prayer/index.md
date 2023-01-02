@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2015-04-09'
-  rating: '5'
+  date_read:
+  - 2015-04-09
+  rating: 5
 ---
 
 Gonna be chewing on this one for a while. I can understand both why people love Rohr so much and also why he gives people the heebie jeebies.

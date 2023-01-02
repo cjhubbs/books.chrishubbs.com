@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2009-10-02'
-  rating: '4'
+  date_read:
+  - 2009-10-02
+  rating: 4
 ---
 
 Andrew really hit his stride with North! Or Be Eaten.  This volume takes the Wingfeather series far beyond just being a kids story and provides some very memorable characters and scenes that will be with me for a long time to come.

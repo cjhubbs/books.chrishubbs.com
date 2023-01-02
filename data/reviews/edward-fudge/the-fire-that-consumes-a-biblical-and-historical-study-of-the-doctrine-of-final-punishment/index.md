@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-08-31'
-  rating: '4'
+  date_read:
+  - 2016-08-31
+  rating: 4
 ---
 
 A bit dated, but thorough, workmanlike and persuasive.

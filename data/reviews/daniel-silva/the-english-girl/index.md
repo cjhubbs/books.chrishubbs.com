@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2013-11-19'
-  rating: '3'
+  date_read:
+  - 2013-11-19
+  rating: 3
 ---
 
 Silva's writing remains high quality, but his plots have begun to suffer, as any series will when stretched on through a dozen books. Not bad, but not great.

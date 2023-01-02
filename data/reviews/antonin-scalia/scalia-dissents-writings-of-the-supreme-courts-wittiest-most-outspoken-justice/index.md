@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-04-18'
-  rating: '4'
+  date_read:
+  - 2016-04-18
+  rating: 4
 ---
 
 Extra star for Scalia's wit and verve; almost took that star back for the authors fawning introduction and conclusion.

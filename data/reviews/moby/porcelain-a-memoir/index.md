@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-05-26'
-  rating: '3'
+  date_read:
+  - 2016-05-26
+  rating: 3
 ---
 
 Vignette after vignette of a searching life. So empty. Really sad.

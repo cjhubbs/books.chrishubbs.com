@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2020-03-19'
-  rating: '5'
+  date_read:
+  - 2020-03-19
+  rating: 5
 ---
 
 Excellent, readable memoir from a fascinating and remarkable woman.

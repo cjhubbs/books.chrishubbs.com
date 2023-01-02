@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-02-08'
-  rating: '3'
+  date_read:
+  - 2016-02-08
+  rating: 3
 ---
 
 Quite interesting when it provides a historical record of the first two female Supreme Court justices. But the author is not content to simply record history; she insists on moralizing all the way through. This gets quite tiresome, especially in the last quarter of the book.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2022-09-05'
-  rating: '3'
+  date_read:
+  - 2022-09-05
+  rating: 3
 ---
 
 Perhaps it’s a fair summary of Luther’s teaching, but the author fawns over Luther to the point it feels disgusting.

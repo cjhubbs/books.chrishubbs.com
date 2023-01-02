@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-06-17'
-  rating: '3'
+  date_read:
+  - 2014-06-17
+  rating: 3
 ---
 
 Take one part NT Wright's work on the Kingdom of God, one part Richard Beck's thoughts on scapegoats, add in a few questionable interpretations of some of Jesus' parables, avoid questions about how the personal view interacts with the political view/necessity of violence, and you have this book. Well intentioned but ultimately lacking.

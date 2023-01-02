@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-03-05'
-  rating: '5'
+  date_read:
+  - 2014-03-05
+  rating: 5
 ---
 
 Fantastic, engaging read about a truly fascinating man.

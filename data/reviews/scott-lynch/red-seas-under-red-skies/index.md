@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2012-01-08'
-  rating: '4'
+  date_read:
+  - 2012-01-08
+  rating: 4
 ---
 
 An entertaining con game story, but not as compelling as the first book in the series ("The Lies of Locke Lamora").  A lot of plot layers to keep track of, and while the pirate angles are entertaining, it doesn't quite live up to the original.  Still, a fun read.

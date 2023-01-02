@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2015-03-07'
-  rating: '5'
+  date_read:
+  - 2015-03-07
+  rating: 5
 ---
 
 A little hit man thriller set in a dystopian future that very creatively explores the question of what it means to be alive. Well written and paced, with a narrator unlike any you've read before.

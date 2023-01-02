@@ -1,4 +1,6 @@
 /__pycache__
 /venv
 /.vscode
+/.DS_Store
+/scripts/__pycache__
 

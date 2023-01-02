@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-09-05'
-  rating: '3'
+  date_read:
+  - 2011-09-05
+  rating: 3
 ---
 
 A solid history of a fascinating subject. The middle third of the book gets bogged down with too much detailed explanation, but the last third picks up the pace quite nicely.

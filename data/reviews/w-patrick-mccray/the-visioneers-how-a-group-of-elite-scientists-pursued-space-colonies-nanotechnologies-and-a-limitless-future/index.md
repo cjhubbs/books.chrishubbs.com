@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2021-03-12'
-  rating: '3'
+  date_read:
+  - 2021-03-12
+  rating: 3
 ---
 
 Only 8 years old and yet it feels quite dated. Technology moves fast.

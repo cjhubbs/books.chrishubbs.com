@@ -16,6 +16,7 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-01-06'
-  rating: '1'
+  date_read:
+  - 2010-01-06
+  rating: 1
 ---

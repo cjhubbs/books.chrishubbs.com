@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-10-23'
-  rating: '2'
+  date_read:
+  - 2010-10-23
+  rating: 2
 ---
 
 Disappointing and lame. Very thin plotting combined with insufficient action makes for a lame story. Preston can do better, and he should have in this case.

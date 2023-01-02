@@ -6,7 +6,7 @@ book:
   isbn13: '9780871132291'
   isbn9: 087113229X
   owned: ''
-  pages: ''
+  pages: 0
   publication_year: '1990'
   series: ''
   series_position: '1990'
@@ -17,6 +17,7 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2019-03-04'
-  rating: '5'
+  date_read:
+  - 2019-03-04
+  rating: 5
 ---

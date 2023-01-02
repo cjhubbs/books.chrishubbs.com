@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2012-08-07'
-  rating: '4'
+  date_read:
+  - 2012-08-07
+  rating: 4
 ---
 
 Absolutely brutal account of a Marine officer's tour of duty in Ramadi, Iraq.

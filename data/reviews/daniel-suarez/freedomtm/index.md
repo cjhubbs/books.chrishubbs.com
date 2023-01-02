@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-08-07'
-  rating: '4'
+  date_read:
+  - 2010-08-07
+  rating: 4
 ---
 
 An excellent follow-up to Suarez' debut novel /Daemon/.  How will the various world powers react to the massive online 'darknet' that is organizing and coordinating millions of users?  Great stuff.

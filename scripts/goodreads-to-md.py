@@ -81,7 +81,7 @@ if __name__ == "__main__":
             metadata['book']['tags'] = ''
             metadata['book']['title'] = long_title
             metadata['book']['cover_image_url'] = ''
-            metadata['review']['date_read'] = date_added 
+            metadata['review']['date_read'] = [dt.datetime.strptime(date_added, "%Y-%m-%d").date()] 
             metadata['review']['rating'] = l[7]
             metadata['plan']['date_added'] = ''
 

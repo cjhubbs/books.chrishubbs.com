@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-03-14'
-  rating: '4'
+  date_read:
+  - 2011-03-14
+  rating: 4
 ---
 
 In just a short book, Dan Brennan makes a strong case for throwing out almost everything you've learned from the evangelical church about cross-gender friendships outside of marriage.  While at times it felt like he was trying to stretch his material enough to make it book-length, his argument resonates with me.  It's worth considering how much more our own lives (and the church!) would flourish if these friendships were encouraged rather than dismissed.

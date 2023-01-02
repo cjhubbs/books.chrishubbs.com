@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-02-11'
-  rating: '4'
+  date_read:
+  - 2017-02-11
+  rating: 4
 ---
 
 Man, that was intense.

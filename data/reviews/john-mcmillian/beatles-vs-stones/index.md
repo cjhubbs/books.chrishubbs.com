@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-03-21'
-  rating: '4'
+  date_read:
+  - 2014-03-21
+  rating: 4
 ---
 
 A short, easy read chronicling the relationship between the 1960's two biggest bands.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2022-03-05'
-  rating: '4'
+  date_read:
+  - 2022-03-05
+  rating: 4
 ---
 
 A little dated, but very readable.

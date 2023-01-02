@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2013-12-01'
-  rating: '4'
+  date_read:
+  - 2013-12-01
+  rating: 4
 ---
 
 Maybe a little more on the nose than it needed to be, still, an engaging story. If Michael Crichton were still living and chose to turn his writing skills toward the topic of social media, this is the type of story we'd get. An entertaining read.

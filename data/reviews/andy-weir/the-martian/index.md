@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2015-09-16'
-  rating: '4'
+  date_read:
+  - 2015-09-16
+  rating: 4
 ---
 
 Equal parts space thriller and science procedural, The Martian is an entertaining read.

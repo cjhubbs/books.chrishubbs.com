@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2011-01-24'
-  rating: '4'
+  date_read:
+  - 2011-01-24
+  rating: 4
 ---
 
 Orson Scott Card knows how to tell a story.  He weaves a plausible (but unique) universe, interesting characters, and intriguing plot.  Can't wait for the second book.

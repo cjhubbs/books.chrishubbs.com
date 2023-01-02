@@ -6,7 +6,7 @@ book:
   isbn13: '9780807220290'
   isbn9: 0807220299
   owned: ''
-  pages: ''
+  pages: 0
   publication_year: '2003'
   series: Harry Potter
   series_position: '2003'
@@ -16,6 +16,7 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-01-06'
-  rating: '4'
+  date_read:
+  - 2010-01-06
+  rating: 4
 ---

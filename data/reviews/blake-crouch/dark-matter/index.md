@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-12-15'
-  rating: '3'
+  date_read:
+  - 2016-12-15
+  rating: 3
 ---
 
 Part multiverse sci-fi, part thriller. Neither part quite fleshed out enough to be satisfying. Not bad, but not great either.

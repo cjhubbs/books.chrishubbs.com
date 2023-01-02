@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-09-01'
-  rating: '4'
+  date_read:
+  - 2010-09-01
+  rating: 4
 ---
 
 Lots of detail, solid plotting, nice twist ending... Good stuff from Forsyth.

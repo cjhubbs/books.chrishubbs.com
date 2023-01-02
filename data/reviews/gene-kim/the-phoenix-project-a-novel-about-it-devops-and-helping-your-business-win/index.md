@@ -17,8 +17,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2022-08-14'
-  rating: '3'
+  date_read:
+  - 2022-08-14
+  rating: 3
 ---
 
 One step above the typical corporate training video; sort of a casual primer on lean thinking and DevOps. Michael Crichton would’ve made it a lot more interesting.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2019-07-29'
-  rating: '3'
+  date_read:
+  - 2019-07-29
+  rating: 3
 ---
 
 Not exactly sure what Puhalo is working to accomplish with this little book. The bulk of it is spent describing the genetic causes of transgender, homosexual, and asexual conditions. Not quite a scientific treatise, nor quite a theological one. He needs a third section to the book to explain the “so what?” from a theological perspective.

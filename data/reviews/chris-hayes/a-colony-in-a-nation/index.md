@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-08-20'
-  rating: '4'
+  date_read:
+  - 2017-08-20
+  rating: 4
 ---
 
 A fair description of the problems of an uneven system of policing and justice in America. No real clear proposed solutions, but sometimes just clearly describing the problem is a sufficient start.

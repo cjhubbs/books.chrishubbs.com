@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2009-12-13'
-  rating: '3'
+  date_read:
+  - 2009-12-13
+  rating: 3
 ---
 
 Everybody's gonna kill me for only giving it three stars, but honestly it didn't do a lot for me.  It's a nice story, well told, etc, etc...  but not something that just blew me away.  Guess 30 year old men aren't really the target audience, anyway.

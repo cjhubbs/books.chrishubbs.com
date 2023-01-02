@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2015-09-13'
-  rating: '5'
+  date_read:
+  - 2015-09-13
+  rating: 5
 ---
 
 A follow up to The Three Body Problem that exceeds it in every way. Immense in scope and brilliantly plotted. Wonderful stuff.

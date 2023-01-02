@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-11-30'
-  rating: '3'
+  date_read:
+  - 2010-11-30
+  rating: 3
 ---
 
 This follow-up to "The Unincorporated Man" was interesting but not as great as the first book.  "Man" got to set up the universe and explore the (rather fascinating) idea of personal incorporation and how it would affect society.  Now in "War", the people and ideas get lost to an extent as the story becomes a saga of system-wide war.  Still an engaging story...  but not as high on my list as the first book.

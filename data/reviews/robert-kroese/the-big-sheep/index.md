@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2016-11-25'
-  rating: '3'
+  date_read:
+  - 2016-11-25
+  rating: 3
 ---
 
 Quick and entertaining, but takes a long time in the setup and packs all the interesting stuff into the last 20% of the book.

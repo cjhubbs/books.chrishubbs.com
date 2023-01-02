@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2017-01-19'
-  rating: '5'
+  date_read:
+  - 2017-01-19
+  rating: 5
 ---
 
 Zinn is clearly not trying to be evenhanded, but this volume is a great counterbalance to any standard American history. Engagingly written, still timely.

@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2014-11-29'
-  rating: '4'
+  date_read:
+  - 2014-11-29
+  rating: 4
 ---
 
 Archer is getting formulaic with this series now that he's through volume 4, but the plots are so entertaining that it's hard to complain too much.

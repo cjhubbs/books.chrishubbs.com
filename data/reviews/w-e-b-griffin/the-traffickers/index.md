@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2009-12-22'
-  rating: '4'
+  date_read:
+  - 2009-12-22
+  rating: 4
 ---
 
 Yeah, so I'm a sucker for WEB Griffin, and especially his Investigators series.  Now, just because I give this 4 stars and Pride & Prejudice only 3 doesn't mean that I think this is objectively a better piece of literature - far from it.  Nothing profound or brilliant. However, I found this quite entertaining - a fun read.

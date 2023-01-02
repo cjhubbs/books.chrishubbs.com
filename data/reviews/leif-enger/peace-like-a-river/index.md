@@ -16,8 +16,9 @@ book:
 plan:
   date_added: 2023-01-01
 review:
-  date_read: '2010-03-24'
-  rating: '5'
+  date_read:
+  - 2010-03-24
+  rating: 5
 ---
 
 A beautiful story, beautifully told. Highly recommended.
