@@ -317,6 +317,23 @@ class Review:
             )
         return False
 
+    def get_google_info(self,isbn):
+        with suppress(Exception):
+            url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{self.isbn}"
+            data = requests.get(url).json()['items'][0]['volumeInfo']
+            self.metadata['book']['title'] = data['title']
+            self.metadata['book']['author'] = data['authors'][0]
+            self.metadata['book']['pages'] = str(data['pageCount'])
+            self.metadata['book']['publication_year'] = data['publishedDate'][0:4]
+            self.metadata['book']['owned'] = ''
+            self.metadata['book']['series'] = ''
+            self.metadata['book']['series_position'] = ''
+            self.metadata['book']['tags'] = ''
+            self.metadata['plan'] = {}
+            self.metadata['plan']['date_added'] = dt.date.today()
+            return True
+
+
     def find_google_cover(self, force_new=False):
         if not self.isbn:
             return False
