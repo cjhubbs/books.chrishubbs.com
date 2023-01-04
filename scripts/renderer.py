@@ -86,6 +86,7 @@ def build_site(db=None, **kwargs):
             "review.html",
             Path(review.id) / "index.html",
             review=review,
+            draw_shelf=True,
             title=f"Review of {review.metadata['book']['title']}",
             active="read",
         )
@@ -119,6 +120,7 @@ def build_site(db=None, **kwargs):
             f"lists/{tag.slug}/index.html",
             tag=tag,
             reviews=reviews,
+            draw_shelf=True,
             active="lists",
             title="List: " + (tag.metadata.get("title") or tag.slug),
         )
@@ -134,6 +136,7 @@ def build_site(db=None, **kwargs):
         "stats.html",
         "stats/index.html",
         grid=grid,
+        draw_shelf=True,
         table=table,
         active="stats",
     )
@@ -156,12 +159,14 @@ def build_site(db=None, **kwargs):
         template.render(
             "list_reviews.html",
             f"reviews/{year or 'other'}/index.html",
+            draw_shelf=True,
             **kwargs,
         )
         year_stats = stats.get_year_stats(year, reviews)
         template.render(
             "year_stats.html",
             f"reviews/{year or 'other'}/stats/index.html",
+            draw_shelf=True,
             stats=year_stats,
             **kwargs,
         )
@@ -169,6 +174,7 @@ def build_site(db=None, **kwargs):
             template.render(
                 "list_reviews.html",
                 "reviews/index.html",
+                draw_shelf=True,
                 **kwargs,
             )
 
@@ -190,6 +196,7 @@ def build_site(db=None, **kwargs):
     template.render(
         "list_by_title.html",
         "reviews/by-title/index.html",
+        draw_shelf=True,
         reviews=title_reviews,
         all_years=all_years,
         title="Books by title",
@@ -211,6 +218,7 @@ def build_site(db=None, **kwargs):
     template.render(
         "list_by_author.html",
         "reviews/by-author/index.html",
+        draw_shelf=True,
         reviews=author_reviews,
         all_years=all_years,
         title="Books by author",
@@ -222,6 +230,7 @@ def build_site(db=None, **kwargs):
         template.render(
             "author.html",
             f"{reviews[0].author_slug}/index.html",
+            draw_shelf=True,
             author=author,
             reviews=sorted(
                 reviews,
@@ -261,6 +270,7 @@ def build_site(db=None, **kwargs):
     template.render(
         "list_by_series.html",
         "reviews/by-series/index.html",
+        draw_shelf=True,
         reviews=series_reviews,
         all_years=all_years,
         title="Books by series",
@@ -290,6 +300,7 @@ def build_site(db=None, **kwargs):
     template.render(
         "list_to_read.html",
         "to-read/index.html",
+        draw_shelf=False,
         mapped_plans=mapped_plans,
         title="Books I want to read",
         active="to-read",
@@ -310,6 +321,7 @@ def build_site(db=None, **kwargs):
     template.render(
         "index.html",
         "index.html",
+        draw_shelf=False,
         text=open("data/index.md").read(),
         reviews=all_reviews[:5],
         shelf_books=sorted(all_reviews, key=lambda x: x.metadata["book"]["author"]),
