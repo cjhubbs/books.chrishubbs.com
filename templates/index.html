@@ -4,7 +4,9 @@
 
 <h1>Welcome to log(book)!</h1>
 
-{% include "_shelf.html" %}
+{% if draw_shelf %}
+  {% include "_shelf.html" %}
+{% endif %}
 
 {{ text | render_markdown | safe }}
 
