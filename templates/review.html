@@ -1,22 +1,19 @@
 {% extends "base.html" %}
 
 {% block head_content %}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@rixxtr"/>
-<meta name="twitter:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
 
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://books.rixx.de/{{ review.id }}/">
+<meta property="og:url" content="https://books.chrishubbs.com/{{ review.id }}/">
 <meta property="og:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
 {% if review.metadata.review.tldr %}
 <meta name="og:description" content="Review: {{ review.metadata.review.tldr }}" />
 {% endif %}
 {% if review.cover_path %}
-<meta name="twitter:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
-<meta property="og:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
+<meta name="twitter:image" content="https://books.chrishubbs.com/{{ review.id }}/square.png"/>
+<meta property="og:image" content="https://books.chrishubbs.com/{{ review.id }}/square.png"/>
 {% endif %}
 
-<link rel="canonical" href="https://books.rixx.de/{{ review.id }}/"/>
+<link rel="canonical" href="https://books.chrishubbs.com/{{ review.id }}/"/>
 {% endblock %}
 
 {% block content %}
@@ -146,12 +143,12 @@
         {% endif %}
 
         {% if review.metadata.social.twitter.id %}
-          {% set status_url="https://twitter.com/rixxtr/status/" + review.metadata.social.twitter.id %}
+          {% set status_url="https://twitter.com/cjhubbs/status/" + review.metadata.social.twitter.id %}
           {% with
             network="twitter",
-            author="Tobias",
-            nick="@rixxtr",
-            author_link="https://twitter.com/rixxtr",
+            author="Chris",
+            nick="@cjhubbs",
+            author_link="https://twitter.com/cjhubbs",
             content=review.metadata.social.twitter.text
           %}
             {% include "_social.html" %}
@@ -159,12 +156,12 @@
         {% endif %}
 
         {% if review.metadata.social.mastodon.id %}
-          {% set status_url="https://chaos.social/@rixx/" + review.metadata.social.mastodon.id %}
+          {% set status_url="https://iowadon.org/@cjhubbs/" + review.metadata.social.mastodon.id %}
           {% with
             network="mastodon",
-            author="rixx",
-            nick="@rixx@chaos.social",
-            author_link="https://chaos.social/@rixx",
+            author="cjhubbs",
+            nick="@cjhubbs@iowadon.org",
+            author_link="https://iowadon.org/@cjhubbs",
             content=review.metadata.social.mastodon.text
           %}
             {% include "_social.html" %}
