@@ -13,7 +13,7 @@ body {
   min-height: 100vh;
   line-height: 1.4;
   font-size: 1.3em;
-  font-family: 'Palatino';
+  font-family: 'Lato';
   /*font-family: 'EB Garamond 12';*/
   -moz-font-feature-settings: "liga", "calt", "xtex";
   -webkit-font-feature-settings: "liga", "calt", "xtex";
@@ -192,7 +192,7 @@ footer {
 
 button {
   /*font-family: 'EB Garamond SC 8';*/
-  font-family: 'Palatino';
+  font-family: 'Lato';
   color: #990000;
   background-color: white;
   border: 1px solid #00a7a7;
@@ -220,7 +220,7 @@ button {
 
 .external-link {
   position: absolute;
-  top: 10px;
+  top: 150px;
   right: 10px;
 }
 hr + .external-link {
@@ -294,7 +294,7 @@ hr + .external-link {
 }
 
 .book-metadata p.title {
-  font-family: 'Palatino';
+  font-family: 'Lato';
   /*font-family: 'EB Garamond SC 8';*/
   color: #990000;
   margin: 4px 0;
@@ -393,7 +393,7 @@ header a {
   padding: 0 24px;
   color: #222;
   text-decoration: none;
-  font-family: 'Palatino';
+  font-family: 'Lato';
   /*font-family: 'EB Garamond SC 8';*/
 }
 #nav-links a.active, #nav-links a:hover {
@@ -404,7 +404,7 @@ header a {
   position: absolute;
   margin: 3px;
   align-items: baseline;
-  font-family: 'Palatino';
+  font-family: 'Lato';
   /*font-family: 'EB Garamond SC 12';*/
 }
 #sidenav-left {
@@ -870,7 +870,7 @@ header a {
   color: #222;
   line-height: 1.4;
   font-size: 0.9em;
-  font-family: 'Palatino';
+  font-family: 'Lato';
   /*font-family: 'EB Garamond 12';*/
 }
 #search-results .book-result {
@@ -889,7 +889,7 @@ header a {
   color: #222;
   line-height: 1.4;
   font-size: 0.8em;
-  font-family: 'Palatino';
+  font-family: 'Lato';
   /*font-family: 'EB Garamond 12';*/
 }
 
