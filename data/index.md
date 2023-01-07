@@ -1,5 +1,7 @@
 Hi, I'm Chris. I love books.
 
+<div id="headshot"><img src="/static/chris.jpg" height="300"/></div>
+
 I was going to say I love _reading_ books, but I own far too many that I haven't yet read, so maybe the first statement is more accurate.
 
 I've been keeping track of my reading through various means since 2007. At various times I've used my blog, Goodreads, and iOS apps, and never been 100% happy with any of them. I'm sure I won't be 100% happy with this site, either, but it's my favorite so far!

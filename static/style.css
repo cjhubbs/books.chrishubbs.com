@@ -220,7 +220,7 @@ button {
 
 .external-link {
   position: absolute;
-  top: 150px;
+  top: 10px;
   right: 10px;
 }
 hr + .external-link {
@@ -1221,4 +1221,9 @@ a#mastodon-linkback {
   #social-article input:checked + #social label#toggle {
     border: 1px solid white;
   }
+}
+
+div#headshot {
+  padding: 1em;
+  float: right;
 }
