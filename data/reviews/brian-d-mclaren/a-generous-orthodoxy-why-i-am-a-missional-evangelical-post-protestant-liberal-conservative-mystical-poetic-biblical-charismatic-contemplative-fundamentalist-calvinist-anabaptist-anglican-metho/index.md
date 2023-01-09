@@ -12,9 +12,7 @@ book:
   series_position: '2004'
   spine_color: '#5d483b'
   tags: ''
-  title: 'A Generous Orthodoxy: Why I Am a Missional, Evangelical, Post/Protestant,
-    Liberal/Conservative, Mystical/Poetic, Biblical, Charismatic/Contemplative, Fundamentalist/Calvinist,
-    Anabaptist/Anglican, Metho'
+  title: 'A Generous Orthodoxy'
 plan:
   date_added: 2023-01-01
 review:
