@@ -12,7 +12,7 @@ body {
   background-color: white;
   min-height: 100vh;
   line-height: 1.4;
-  font-size: 1.3em;
+  font-size: 1em;
   font-family: 'Lato';
   /*font-family: 'EB Garamond 12';*/
   -moz-font-feature-settings: "liga", "calt", "xtex";
@@ -59,10 +59,10 @@ article details p:nth-child(2)::first-letter,
 .initial::first-letter,
 pre.code + p::first-letter {
   font-size: 5.15em;
-  font-family: 'Kanzlei';
+  font-family: 'Creation';
   padding-right: 3px;
   float: left;
-  color: #990000;
+  /*color: #990000;*/
   text-indent: 0;
   line-height: .8em;
 }
@@ -418,6 +418,8 @@ header a {
 #sidenav-right {
   float: right;
   right: 0;
+  font-size: 32px;
+  margin-right: 12px;
 }
 #sidenav-right > * {
   margin-left: 16px;

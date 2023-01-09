@@ -20,3 +20,5 @@ review:
   - 2009-06-17
   rating: 4
 ---
+
+Bond was the unseen hand behind a lot of Tom Clancy’s best stuff, and he proves it here.

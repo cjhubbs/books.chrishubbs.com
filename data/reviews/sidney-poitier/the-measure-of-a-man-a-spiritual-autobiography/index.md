@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-05-19
   rating: 3
 ---
+I picked this one up because I was curious what he would put in a “spiritual autobiograpy”. It ends up being a strong dose of moralism (“the measure of a man is how he provides for his family”) mixed with a lot of naturalistic theism (“there is a god that we see in nature”). Poitier may be “a good man”, but, sadly, seems quite muddled spiritually.

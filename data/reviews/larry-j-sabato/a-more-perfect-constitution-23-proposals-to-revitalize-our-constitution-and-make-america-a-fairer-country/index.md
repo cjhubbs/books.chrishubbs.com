@@ -18,6 +18,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-01
   rating: 4
 ---
+
+A fascinating book. I’m not sure I agree with all his assumptions about what’s “fair”, but on the whole there are some good suggestions in there. I should really think about interacting with it in a longer blog post.

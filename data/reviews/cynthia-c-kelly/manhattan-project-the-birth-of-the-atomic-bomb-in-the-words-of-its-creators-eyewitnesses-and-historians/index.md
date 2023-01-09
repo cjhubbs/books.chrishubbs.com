@@ -18,6 +18,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-11-24
   rating: 2
 ---
+
+A compilation of bits and pieces from a multitude of writers surrounding the US development of the first atomic bomb. What could have been rather dry history stays lively and interesting as you get differing voices and viewpoints.

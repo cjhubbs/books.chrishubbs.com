@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-03-15
   rating: 3
 ---
+
+Somehow along the way I’ve missed most of Hemingway’s stuff. Ultimately a sad, somewhat depressing story, but he draws beautiful word pictures.

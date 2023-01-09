@@ -9,7 +9,7 @@ book:
   pages: '350'
   publication_year: '2007'
   series: John Rain
-  series_position: '2007'
+  series_position: '6'
   spine_color: ''
   tags: ''
   title: The Killer Ascendant

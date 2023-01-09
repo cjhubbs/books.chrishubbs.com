@@ -9,7 +9,7 @@ book:
   pages: '400'
   publication_year: '2015'
   series: Badge of Honor
-  series_position: '2015'
+  series_position: '12'
   spine_color: '#a4a65d'
   tags: ''
   title: Deadly Assets

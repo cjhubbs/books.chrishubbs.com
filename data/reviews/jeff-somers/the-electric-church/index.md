@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-04
   rating: 3
 ---
+A dystopian near-future sci-fi-ish novel (almost cyberpunk, but not quite enough cyber) about a “church” that converts you by taking your brain and plugging it into a cyborg. Darn good story.

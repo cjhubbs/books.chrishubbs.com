@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-12-12
   rating: 2
 ---
+A spy novel set in Spain; the intrigue centers around the Basque separatist group ETA. Just interesting enough to keep me involved – not interesting enough to get me to read it very quickly.

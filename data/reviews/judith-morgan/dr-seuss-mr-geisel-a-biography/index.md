@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-09-17
   rating: 4
 ---
+
+A biography of that writer we all know and love, Dr. Seuss. A fascinating picture of a man who wasn’t really interested in fame and hated the spotlight, but loved wit, wordplay, and cartooning.

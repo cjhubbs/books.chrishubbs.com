@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '1999'
   series: Jack Ryan
-  series_position: '1999'
+  series_position: '1'
   spine_color: '#d93e44'
   tags: ''
   title: The Hunt for Red October

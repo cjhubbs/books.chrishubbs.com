@@ -9,7 +9,7 @@ book:
   pages: '352'
   publication_year: '2007'
   series: ''
-  series_position: '2007'
+  series_position: ''
   spine_color: '#8c8eb0'
   tags: ''
   title: In War Times
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-05-21
   rating: 5
 ---
+
+Now _this_ was a heck of a book. Wrapping multiple time continuums up with jazz music in the setting of World War II… thoughtful, insightful. Excellent. In my top 2 for the year this far.

@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-24
   rating: 3
 ---
+
+I think we can all admit by now that _The Davinci Code_ spawned a whole new genre of ancient-religious-mysticism thrillers. This is another one. I swore off Steve Berry a few books above for yet another novel bashing Christianity. This one was much better written than any of Berry’s novels, and the plot centered on Jewish mysticism rather than Christian. So far, so good, I’m thinking. But guess who the bad guys end up being? That’s right, radical, “right-wing” Christians. *sigh* Still, pretty well written. Entertaining.

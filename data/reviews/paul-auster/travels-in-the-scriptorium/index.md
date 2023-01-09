@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-01
   rating: 2
 ---
+
+A short, baffling, almost recursive story. I’m not sure what else to say about it. It wasn’t bad; it was, though, rather curious.

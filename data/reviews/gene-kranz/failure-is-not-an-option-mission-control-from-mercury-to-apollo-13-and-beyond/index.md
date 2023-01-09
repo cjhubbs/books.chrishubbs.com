@@ -18,6 +18,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-07-11
   rating: 4
 ---
+A memoir by the storied NASA flight controller.
+
+

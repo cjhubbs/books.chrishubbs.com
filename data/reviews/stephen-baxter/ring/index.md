@@ -9,7 +9,7 @@ book:
   pages: '502'
   publication_year: '2001'
   series: Xeelee Sequence
-  series_position: '2001'
+  series_position: '4'
   spine_color: '#d5ae4b'
   tags: ''
   title: Ring
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-01-05
   rating: 4
 ---
+Full review [here](https://www.chrishubbs.com/2009/01/10/book-review-ring-by-stephen-baxter/).

@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-08-14
   rating: 4
 ---
+
+The author, himself a former Navy SEAL, takes us on a journey through the five phases of an Army Special Forces (aka Green Berets) training course. I find this sort of stuff fascinating, and Couch’s ear for dialogue makes it all the more enjoyable.

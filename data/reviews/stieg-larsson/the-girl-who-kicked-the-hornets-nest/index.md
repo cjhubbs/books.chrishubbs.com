@@ -9,10 +9,10 @@ book:
   pages: '566'
   publication_year: '2010'
   series: Millennium
-  series_position: '2010'
+  series_position: '3'
   spine_color: '#aba3a4'
   tags: ''
-  title: The Girl Who Kicked the Hornet\'s Nest
+  title: "The Girl Who Kicked the Hornet's Nest"
 plan:
   date_added: 2023-01-01
 review:

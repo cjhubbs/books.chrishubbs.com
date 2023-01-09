@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-05
   rating: 3
 ---
+A spirited defense of amillennialism, with arguments for why the other common positions are incorrect. Quite readable, seemingly fair. Leaves me with much to ponder.

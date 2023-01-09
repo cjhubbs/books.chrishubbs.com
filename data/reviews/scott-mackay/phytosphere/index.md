@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-07
   rating: 2
 ---
+A short sci-fi novel that reads like a script to a cheesy SciFi channel made-for-TV movie. The basics: aliens want to emigrate to Earth, but can’t come to an agreement with the UN on where they will be allowed to live. So, they generate a “phytosphere” (i.e. a green, growing shroud) around the earth to kill off everything. Much more time spent on the drama of crisis on earth than in the actual sci-fi stuff. Kinda lame, but still moderately entertaining.

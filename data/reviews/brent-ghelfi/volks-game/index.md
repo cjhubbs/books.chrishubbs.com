@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-05
   rating: 3
 ---
+
+The review on the front said “Brent Ghelfi writes like Dostoevsky’s hooligan great-grandson on speed.” How can you resist a line like that? The hero of this international thriller is a rather bad Russian guy. It’s hip and hooligan for sure. It was OK, I enjoyed some of the characters, but it had a little too much off-color material for my taste.

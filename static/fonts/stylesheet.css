@@ -149,4 +149,10 @@
        url('../fonts/lato-v23-latin-900italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/lato-v23-latin-900italic.svg#Lato') format('svg'); /* Legacy iOS */
 }
+@font-face {
+  font-family: 'creation';
+  src: url('/path-to/creation.woff2') format('woff2'),
+       url('/path-to/creation.woff') format('woff'),
+       url('/path-to/creation.ttf')  format('truetype');
+}
 

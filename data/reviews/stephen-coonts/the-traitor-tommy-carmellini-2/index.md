@@ -8,15 +8,17 @@ book:
   owned: ''
   pages: '384'
   publication_year: '2006'
-  series: ''
-  series_position: '2006'
+  series: Tommy Carmellini
+  series_position: '2'
   spine_color: '#e5c387'
   tags: ''
-  title: 'The Traitor (Tommy Carmellini #2)'
+  title: The Traitor
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-02-06
   rating: 3
 ---
+
+Coonts has managed to succeed where Tom Clancy failed: continuing a series even after the main character has been promoted too far to be useful. How? Introduce a new character (in this case, Tommy Carmellini), and keep Jake Grafton around as a minor player. It works.

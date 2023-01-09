@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-02-02
   rating: 4
 ---
+Full review [here](https://www.chrishubbs.com/2009/02/04/book-review-the-anglo-files-a-field-guide-to-the-british-by-sarah-lyall/).

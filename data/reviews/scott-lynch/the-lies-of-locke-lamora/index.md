@@ -9,7 +9,7 @@ book:
   pages: '722'
   publication_year: '2007'
   series: Gentleman Bastard
-  series_position: '2007'
+  series_position: '1'
   spine_color: '#876952'
   tags: ''
   title: The Lies of Locke Lamora

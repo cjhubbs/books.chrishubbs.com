@@ -1,7 +1,7 @@
 ---
 book:
   author: Ian Tregillis
-  cover_image_url: ''
+  cover_image_url: http://books.google.com/books/content?id=uS5XrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   goodreads: '25318815'
   isbn13: '9780316248013'
   isbn9: 0316248010
@@ -10,7 +10,7 @@ book:
   publication_year: '2015'
   series: The Alchemy Wars
   series_position: '2015'
-  spine_color: ''
+  spine_color: '#0e8acb'
   tags: ''
   title: The Rising
 plan:

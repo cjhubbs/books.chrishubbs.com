@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-09
   rating: 3
 ---
+
+A short, quick, read by the man who was the primary concert piano technician for Steinway for many years. He worked closely with Horowitz, Rubinstein, and Van Cliburn. Some nice stories and anecdotes.

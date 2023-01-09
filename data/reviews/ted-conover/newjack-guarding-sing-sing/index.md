@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-12-19
   rating: 4
 ---
+A journalist is refused access to Sing Sing and the Correctional Officer’s school to write a story… so he applies to become a Correctional Officer, and works as a guard at New York’s Sing Sing maximum-security prison for a year. Fascinating book.

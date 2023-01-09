@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-22
   rating: 3
 ---
+I was pretty excited to get my hands on this one. I have very much enjoyed Keller’s teaching, especially as it relates to urban ministry and reaching postmoderns with the gospel. Maybe I was expecting too much from this book, but it left me unimpressed. I wanted something new, insightful; Keller rehashed the stuff we’ve all read already, quoting extensively from C. S. Lewis, Alvin Plantinga, and a few others. This might be a good book to give to your thinking friend who is wrestling with the ideas of Christianity, but for me, it was only OK.

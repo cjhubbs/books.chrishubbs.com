@@ -12,7 +12,7 @@ book:
   series_position: '2005'
   spine_color: ''
   tags: ''
-  title: A People\'s History of the United States
+  title: "A People's History of the United States"
 plan:
   date_added: 2023-01-01
 review:

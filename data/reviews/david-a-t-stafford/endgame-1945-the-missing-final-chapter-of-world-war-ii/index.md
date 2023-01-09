@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-06-20
   rating: 3
 ---
+An interesting read about WWII in the period when the war was basically but not totally over, the mop-up in Germany, the liberation of the death camps, and the like. A period not usually covered in detail.

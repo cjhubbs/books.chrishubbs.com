@@ -9,7 +9,7 @@ book:
   pages: '512'
   publication_year: '2009'
   series: Scot Harvath
-  series_position: '2009'
+  series_position: '7'
   spine_color: '#c4b897'
   tags: ''
   title: The Last Patriot
@@ -17,6 +17,6 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-03-05
   rating: 3
 ---

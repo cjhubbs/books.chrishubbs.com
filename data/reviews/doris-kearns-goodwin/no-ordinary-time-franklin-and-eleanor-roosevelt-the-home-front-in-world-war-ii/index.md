@@ -18,6 +18,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-28
   rating: 3
 ---
+
+A history of the American experience in 1940-1944, through the lens of the Roosevelt White House. DKG knows how to tell a story by pulling in the lives of the people surrounding the “name” players. (Another good example of this is her more recent book on Lincoln.) Interesting stuff. I don’t read enough history.

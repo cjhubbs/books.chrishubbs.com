@@ -9,7 +9,7 @@ book:
   pages: '370'
   publication_year: '2007'
   series: Jeremy Logan
-  series_position: '2007'
+  series_position: ''
   spine_color: '#824d39'
   tags: ''
   title: Deep Storm
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-08
   rating: 2
 ---
+
+I’ve enjoyed Child’s stuff in the past – this one was just OK. Crichton’s Sphere is a better undersea thriller, and the sci-fi aspect of this one was almost nil. Meh.

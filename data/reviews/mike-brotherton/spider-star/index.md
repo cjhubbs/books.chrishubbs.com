@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-09-17
   rating: 3
 ---
+
+A futuristic sci-fi about space travel and encountering other species. It took a long time to set up (too long, really), but the last 50 pages or so were a good payoff. Not awesome, not bad.

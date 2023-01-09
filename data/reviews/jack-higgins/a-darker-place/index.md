@@ -9,7 +9,7 @@ book:
   pages: '337'
   publication_year: '2009'
   series: Sean Dillion
-  series_position: '2009'
+  series_position: '16'
   spine_color: '#6b4f4a'
   tags: ''
   title: A Darker Place
@@ -17,6 +17,6 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
-  rating: 0
+  - 2009-03-21
+  rating: 4
 ---

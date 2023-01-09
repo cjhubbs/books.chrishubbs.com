@@ -9,7 +9,7 @@ book:
   pages: '969'
   publication_year: '2002'
   series: A Song of Ice and Fire
-  series_position: '2002'
+  series_position: '2'
   spine_color: '#bf8f38'
   tags: ''
   title: A Clash of Kings

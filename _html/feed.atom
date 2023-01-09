@@ -2,13 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-01-06T00:00:00Z</updated>
+  <updated>2023-01-07T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Still Just a Geek</title>
+      <link href="https://books.chrishubbs.com/wil-wheaton/still-just-a-geek/" rel="alternate"/>
+      <id>urn:uuid:6cd14d8a-f29c-e194-25e3-30d614b0f2b5</id>
+      <updated>2023-01-07T00:00:00Z</updated>
+      <content type="html">I finished reading Still Just a Geek by Wil Wheaton.
+
+        
+
+        
+
+        &lt;p&gt;Wil Wheaton is one of those guys I just admire. He&amp;rsquo;s been so open about his challenges with his parents, his mental health, his career&amp;hellip; and equally so open about his love for his family and his care for others who struggle. His updated, annotated memoir is a combination of his old blog posts, narrative pulling it together, and copious, almost &lt;em&gt;Infinite Jest&lt;/em&gt;-ian footnotes. It&amp;rsquo;s a delight.&lt;/p&gt;
+&lt;p&gt;Making me equally happy is Wil&amp;rsquo;s assurance that Patrick Stewart, Jonathan Frakes, Levar Burton, Michael Dorn, Brent Spiner, and so many more from the ST:TNG cast are, in reality, as good if not better people than the roles they played on TV.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Every Good Boy Does Fine</title>
       <link href="https://books.chrishubbs.com/jeremy-denk/every-good-boy-does-fine/" rel="alternate"/>
       <id>urn:uuid:e97fba9b-30b1-a9a1-4ec8-b4a9108c5acd</id>
@@ -310,22 +327,6 @@
         
 
         &lt;p&gt;One step above the typical corporate training video; sort of a casual primer on lean thinking and DevOps. Michael Crichton would’ve made it a lot more interesting.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Invention of Religion: Faith and Covenant in the Book of Exodus</title>
-      <link href="https://books.chrishubbs.com/jan-assmann/the-invention-of-religion-faith-and-covenant-in-the-book-of-exodus/" rel="alternate"/>
-      <id>urn:uuid:4aec153b-aeba-d742-00b2-4a0cad0708f4</id>
-      <updated>2022-08-11T00:00:00Z</updated>
-      <content type="html">I finished reading The Invention of Religion: Faith and Covenant in the Book of Exodus by Jan Assmann.
-
-        
-
-        
-
-        
 
         
         

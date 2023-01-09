@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-11
   rating: 3
 ---
+
+This post-9/11 novel revolves around a brilliant computer hacker and an equally brilliant government computer expert who join forces to hold off the *next* attack. A bit uneven, yeah, but quite a novel for a first-time author. A fun read.

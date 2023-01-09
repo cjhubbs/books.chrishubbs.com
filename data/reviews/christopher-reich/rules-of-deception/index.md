@@ -9,7 +9,7 @@ book:
   pages: '390'
   publication_year: '2008'
   series: Jonathan Ransom
-  series_position: '2008'
+  series_position: '1'
   spine_color: '#c8432c'
   tags: ''
   title: Rules of Deception
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-20
   rating: 4
 ---
+I’ve been a fan of Reich’s since his very first book, and this one does not disappoint in pacing or twistiness. The one disappointment is Reich’s compulsion to make a wacko evangelical Christian the villain of the book. Still, I enjoyed the story.

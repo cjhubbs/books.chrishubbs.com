@@ -7,9 +7,9 @@ book:
   isbn9: 0684800713
   owned: ''
   pages: '251'
-  publication_year: '2003'
+  publication_year: '1995'
   series: ''
-  series_position: '2003'
+  series_position: ''
   spine_color: '#e1c082'
   tags: ''
   title: The Sun Also Rises
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-05-22
   rating: 4
 ---
+
+I can never decide whether I’m bored with Hemingway or whether I really like him. This time, his spare prose won me over. Now I need to re-listen to Andy Osenga’s _Marilyn_.

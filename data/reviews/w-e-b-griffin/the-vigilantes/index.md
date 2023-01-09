@@ -9,7 +9,7 @@ book:
   pages: '342'
   publication_year: '2010'
   series: Badge of Honor
-  series_position: '2010'
+  series_position: '10'
   spine_color: '#8d894a'
   tags: ''
   title: The Vigilantes

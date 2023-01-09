@@ -9,7 +9,7 @@ book:
   pages: '351'
   publication_year: '2007'
   series: Sherlock Holmes
-  series_position: '2007'
+  series_position: ''
   spine_color: '#866c38'
   tags: ''
   title: 'The Execution of Sherlock Holmes: And Other New Adventures of the Great
@@ -18,6 +18,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-12
   rating: 4
 ---
+
+Newly-written Sherlock Holmes stories are nearly their own genre these days. I’ve read a bunch of them, but few come as close to replicating Arthur Conan Doyle’s voice of John Watson, M. D., as does Mr. Thomas. Enjoyable little stories.

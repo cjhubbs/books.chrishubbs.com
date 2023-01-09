@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-10
   rating: 4
 ---
+This Norwegian author weaves a darn good detective story that ties in neo-Nazis with the Norwegian presence on both sides of the WWII battlefield. I really enjoyed this book – will be looking for others by Nesbo.

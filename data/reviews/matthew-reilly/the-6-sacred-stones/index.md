@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-04-02
   rating: 3
 ---
+Reilly’s genre is something I’ll call “non-stop action thriller”. His books read like a Jason Statham movie on speed. He uses more italics and exclamation points than even the Hardy Boys did. But his books are entertaining escapist reads, and this one didn’t disappoint. It did mislead a bit, though: they only dealt with the first three stones in this story, and leave you cliffhanging at the end of the book. Now I’ve gotta wait for him to publish the next one…

@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-11-17
   rating: 2
 ---
+
+I’ve enjoyed most of Mills’ novels, so I picked this one (his latest) up. I was mildly disappointed. The basic idea is that an environmental terrorist gets his hands on an oil-eating bacteria and contaminates all the worlds oil wells, causing a massive world oil shortage. The problem is that Mills can’t decide whether he wants to write his usual thriller or an environmental missive. The result is a hodge-podge that isn’t all that thrilling, is only mildly preachy, and fails to really explore how the world might change if oil was suddenly scarce.

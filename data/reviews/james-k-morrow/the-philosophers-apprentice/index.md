@@ -12,11 +12,12 @@ book:
   series_position: '2008'
   spine_color: '#ebd29e'
   tags: ''
-  title: The Philosopher\'s Apprentice
+  title: "The Philosopher's Apprentice"
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2009-01-24
   rating: 3
 ---
+Full review [here](https://www.chrishubbs.com/2009/01/25/book-review-the-philosophers-apprentice-by-james-morrow/).

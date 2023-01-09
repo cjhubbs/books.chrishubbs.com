@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-09-29
   rating: 3
 ---
+
+This is a hard novel to describe, not because it’s nondescript, but because short descriptions would leave out so much. It’s a story about rabbits. Let’s try this on for size: if Tolkien were to have written a story the length of one of the LotR books, and set it in modern day, and narrowed the scope from “save the world” to “find a new place to live” and written it about rabbits instead of hobbits, you might get something like Watership Down. I enjoyed it.

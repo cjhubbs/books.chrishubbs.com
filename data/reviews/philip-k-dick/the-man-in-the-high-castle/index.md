@@ -17,6 +17,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-05-10
   rating: 3
 ---
+An early entry in the alt-history genre, and it’s an amazing story. What if the Germans and Japanese had won WWII?
+
+

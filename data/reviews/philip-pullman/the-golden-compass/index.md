@@ -9,7 +9,7 @@ book:
   pages: '399'
   publication_year: '1996'
   series: His Dark Materials
-  series_position: '1996'
+  series_position: '1'
   spine_color: '#16264b'
   tags: ''
   title: The Golden Compass

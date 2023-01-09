@@ -9,7 +9,7 @@ book:
   pages: 0
   publication_year: '2003'
   series: Harry Potter
-  series_position: '2003'
+  series_position: '5'
   spine_color: '#1267c4'
   tags: ''
   title: Harry Potter and the Order of the Phoenix
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-08-12
   rating: 4
 ---
+
+This one is darker than the previous books, but the story really starts to develop here. It feels less like a standalone story and more like a piece of a longer saga. Good stuff.

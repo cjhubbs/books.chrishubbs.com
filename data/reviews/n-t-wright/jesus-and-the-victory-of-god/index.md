@@ -9,7 +9,7 @@ book:
   pages: '741'
   publication_year: '1996'
   series: Christian Origins and the Question of God
-  series_position: '1996'
+  series_position: '2'
   spine_color: '#4c162d'
   tags: ''
   title: Jesus and the Victory of God
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-01-24
   rating: 5
 ---
+Full review [here](https://www.chrishubbs.com/2009/01/27/book-review-jesus-and-the-victory-of-god-by-n-t-wright/).

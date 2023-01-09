@@ -9,7 +9,7 @@ book:
   pages: '1177'
   publication_year: '2003'
   series: A Song of Ice and Fire
-  series_position: '2003'
+  series_position: '3'
   spine_color: '#256245'
   tags: ''
   title: A Storm of Swords

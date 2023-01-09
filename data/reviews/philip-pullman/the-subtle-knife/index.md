@@ -9,7 +9,7 @@ book:
   pages: '326'
   publication_year: '1997'
   series: His Dark Materials
-  series_position: '1997'
+  series_position: '2'
   spine_color: '#353592'
   tags: ''
   title: The Subtle Knife

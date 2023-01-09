@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-05
   rating: 4
 ---
+I do so enjoy Preston’s stuff. In this story, the crew running a new superconducting supercollider appear to be getting a message from God when they run the collider. But it is really God? Maybe not… Good stuff.

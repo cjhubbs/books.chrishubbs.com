@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-28
   rating: 5
 ---
+
+No, I didn’t read this one because Oprah recommended it. But I’d heard talk of McCarthy and realized I’d never read anything of his, so I grabbed this one. Wowza. Dark, harrowing, but not entirely despairing. A chilling picture of the post-apocalyptic experience.

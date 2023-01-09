@@ -116,7 +116,7 @@ class Review:
         self.metadata = post.metadata
         self.text = post.content
         self.plot = ""
-        if not self.entry_type:
+        if not self.entry_type and not (str(self.path)=='data/index.md'):
             self.entry_type = self.entry_type_from_path()
         if self.plot_path:
             try:
@@ -184,7 +184,7 @@ class Review:
         valid_entry_types = ("reviews", "to-read")
         entry_type = self.path.parent.parent.parent.name
         if entry_type not in valid_entry_types:
-            raise Exception(f"Wrong path for review: {entry_type}")
+            raise Exception(f"Wrong path for review: {entry_type} " + str(self.path))
         return entry_type
 
     def change_entry_type(
@@ -302,6 +302,7 @@ class Review:
             else:
                 subprocess.check_call(["convert", filename, destination])
 
+        os.chmod(destination,0o644)
         self.metadata["book"]["cover_image_url"] = cover_image_url
         del self.cover_path
         choose_spine_color(self)

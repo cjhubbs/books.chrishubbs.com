@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-06-23
   rating: 3
 ---
+
+I’d never read anything by Mr. Smith before; just picked this one up from the library on a whim. It was actually a lot of fun and reminiscent of Ludlum’s classic Bourne stuff. Set back in the Cold War, a well-written and plotted story of politics, romance, intrigue, and blackmail. Entertaining.

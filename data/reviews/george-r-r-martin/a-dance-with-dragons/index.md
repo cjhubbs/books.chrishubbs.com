@@ -9,7 +9,7 @@ book:
   pages: '1125'
   publication_year: '2011'
   series: A Song of Ice and Fire
-  series_position: '2011'
+  series_position: '5'
   spine_color: ''
   tags: ''
   title: A Dance with Dragons

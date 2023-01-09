@@ -9,7 +9,7 @@ book:
   pages: '368'
   publication_year: '2007'
   series: ''
-  series_position: '2007'
+  series_position: '2'
   spine_color: '#d20a07'
   tags: ''
   title: 'Strip Search (Susan Pulaski #2)'
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-09
   rating: 3
 ---
+How does this guy crank out so many books so fast? This other series focuses on a police psychologist and her sidekick, an autistic young man who is a mathematical savant. A quick, easy, fun read.

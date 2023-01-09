@@ -8,15 +8,16 @@ book:
   owned: ''
   pages: '428'
   publication_year: '2007'
-  series: ''
-  series_position: '2007'
+  series: 'Kathryn Dance'
+  series_position: '1'
   spine_color: '#d12f24'
   tags: ''
-  title: 'The Sleeping Doll (Kathryn Dance #1)'
+  title: 'The Sleeping Doll'
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-07
   rating: 3
 ---
+Sometimes you just need a good escapist thriller. This one stars a woman who is a gifted interrogator and is on the hunt for a scary cult leader. Fun stuff.

@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-08-03
   rating: 3
 ---
+Basic medical thriller. Only sorta thrilling, if you ask me.

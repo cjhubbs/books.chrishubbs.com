@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-04-30
   rating: 2
 ---
+Supposedly this guy has written a lot of books, but this was my first encounter with him. I slogged through, but didn’t enjoy it all that much.

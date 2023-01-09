@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-27
   rating: 2
 ---
+Extended review [here](https://www.chrishubbs.com/2008/08/28/book-review-wild-goose-chase/).

@@ -9,7 +9,7 @@ book:
   pages: '357'
   publication_year: '2008'
   series: Dan Lenson
-  series_position: '2008'
+  series_position: '11'
   spine_color: '#a76b3d'
   tags: ''
   title: The Weapon
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-02-16
   rating: 3
 ---
+Review [here](https://www.chrishubbs.com/2009/02/18/book-i-read-the-weapon-by-david-poyer/).

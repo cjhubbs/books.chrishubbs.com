@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-11-28
   rating: 3
 ---
+Berry is a charming, simple writer. A joy to read.

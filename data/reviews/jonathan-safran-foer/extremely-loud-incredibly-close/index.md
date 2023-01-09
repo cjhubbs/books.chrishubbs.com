@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-07
   rating: 3
 ---
+
+Ryan recommended this one to me, and it was well worth the read. A unique storytelling style and voice provide a story about an exceptional boy dealing with the personal aftermath of 9/11.

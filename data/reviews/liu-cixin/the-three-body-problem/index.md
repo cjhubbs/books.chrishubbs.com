@@ -9,7 +9,7 @@ book:
   pages: '399'
   publication_year: '2014'
   series: Remembrance of Earth’s Past
-  series_position: '2014'
+  series_position: '1'
   spine_color: '#8fb441'
   tags: ''
   title: The Three-Body Problem

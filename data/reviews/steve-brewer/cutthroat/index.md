@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-17
   rating: 3
 ---
+Nothing fancy here – just a straightforward crime adventure thriller. A good read, though – a likable hero, reasonable plot, good characters. I’d read this guy again.

@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-11-21
   rating: 3
 ---
+A companion book to his The Case for Amillenialism, which I read earlier this year, in this book Riddlebarger examines the different perspectives on the Antichrist and argues for a traditional Reformed Presbyterian view. Nothing earthshattering, but good stuff.

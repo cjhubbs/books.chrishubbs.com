@@ -9,7 +9,7 @@ book:
   pages: '288'
   publication_year: '2007'
   series: Crosstime Traffic
-  series_position: '2007'
+  series_position: ''
   spine_color: '#45231e'
   tags: ''
   title: The Gladiator
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-18
   rating: 3
 ---
+
+An OK story – I just have a hard time getting into the “Crosstime” genre. The basic idea is that the Communists win the Cold War, and this is set some 150 years in the future. When you get down to it, there’s not that much story, which is probably what annoys me.

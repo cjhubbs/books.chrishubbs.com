@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-16
   rating: 3
 ---
+
+I’ve been a fan of RNP’s novels for a while – generally lengthy (which I like) and detailed/twisted enough to be enjoyable. This story, though, was less a twisted novel and more an excursus into the politics of the Middle East wrapped in a slim fictional wrapper. Still an interesting read, though – he did a lot of research, and the characters and situations, while fictional in detail, are undoubtedly representative of real people.

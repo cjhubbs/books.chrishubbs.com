@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-17
   rating: 4
 ---
+A really interesting biography of an Iowa native who played a big role in America’s early space exploration and discovered the earth’s radiation belts. A very good read.

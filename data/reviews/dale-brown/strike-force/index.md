@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-08-07
   rating: 2
 ---
+
+I enjoy Brown’s novels for being a bit forward-looking, and yeah, for the sweet technology. However, his plots are getting tired; every book for the last several has been the general with all the cool toys saving the world whilst facing opposition from a political and military establishment that distrusts him. It worked the first few times, but now, it’s getting a bit threadbare.

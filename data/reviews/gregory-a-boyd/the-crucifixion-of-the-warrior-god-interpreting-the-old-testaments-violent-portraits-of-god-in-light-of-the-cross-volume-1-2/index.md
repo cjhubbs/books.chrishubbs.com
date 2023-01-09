@@ -12,8 +12,8 @@ book:
   series_position: '2017'
   spine_color: ''
   tags: ''
-  title: 'The Crucifixion of the Warrior God: Interpreting the Old Testament\''s Violent
-    Portraits of God in Light of the Cross, Volume 1 & 2'
+  title: "The Crucifixion of the Warrior God: Interpreting the Old Testament's Violent
+    Portraits of God in Light of the Cross, Volume 1 & 2"
 plan:
   date_added: 2023-01-01
 review:

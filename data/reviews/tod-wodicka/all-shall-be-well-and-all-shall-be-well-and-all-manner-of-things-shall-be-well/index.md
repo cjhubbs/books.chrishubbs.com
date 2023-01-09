@@ -18,6 +18,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-30
   rating: 2
 ---
+
+Not sure what prompted me to pick this one up. It’s an odd little story about a guy who is a medieval times reenactor, except that he’s so uncomfortable with modern life that he prefers to stay in character all the time. Of course, this wreaks havoc with his family. Overall a messed-up, depressing story. Very odd.

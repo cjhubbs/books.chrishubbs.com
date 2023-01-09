@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-02-07
   rating: 4
 ---
+Full review [here](https://www.chrishubbs.com/2009/02/11/book-review-ender-in-exile-by-orson-scott-card/).

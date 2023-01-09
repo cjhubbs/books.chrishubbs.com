@@ -3,9 +3,9 @@ book:
   author: Jon Krakauer
   cover_image_url: ''
   goodreads: '1898'
-  isbn13: ''
+  isbn13: 978-0385494786
   isbn9: ''
-  owned: ''
+  owned: 'true'
   pages: '368'
   publication_year: '1999'
   series: ''
@@ -17,6 +17,6 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-01-07
   rating: 3
 ---

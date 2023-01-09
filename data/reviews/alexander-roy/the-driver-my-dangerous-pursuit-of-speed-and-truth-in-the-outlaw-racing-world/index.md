@@ -18,6 +18,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-12
   rating: 3
 ---
+This guy drove/raced in a bunch of fairly illegal road rallies, and eventually set a record by driving from New York to San Francisco in 31 hours, 4 minutes. Yowza.
+
+

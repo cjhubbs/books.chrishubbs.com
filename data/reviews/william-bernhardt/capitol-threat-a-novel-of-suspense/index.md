@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-01-31
   rating: 3
 ---
+I enjoy the Ben Kincaid series, though I’m a bit concerned that Bernhardt is following a similar path with Kincaid that Tom Clancy did with Jack Ryan – a series of job promotions that ultimately dead-ends because you can’t go any higher. Still, a fun read.

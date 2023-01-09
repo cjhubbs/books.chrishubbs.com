@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-19
   rating: 2
 ---
+
+Tangentially in the DaVinci Code genre, this one focuses on a long-lost ancient manuscript, but at least this time religion isn’t involved. Scholars and mobsters cross continents and unravel codes in search of the lost play of William Shakespeare. I dug it for a while, but by the end it was losing me. Just OK, really, not great.

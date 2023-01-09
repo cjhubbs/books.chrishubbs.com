@@ -9,7 +9,7 @@ book:
   pages: '480'
   publication_year: '2008'
   series: Millennium
-  series_position: '2008'
+  series_position: '1'
   spine_color: '#f1e374'
   tags: ''
   title: The Girl with the Dragon Tattoo

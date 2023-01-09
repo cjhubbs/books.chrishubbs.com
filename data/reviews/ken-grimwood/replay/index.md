@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-04-30
   rating: 5
 ---
+Full review [here](https://www.chrishubbs.com/2009/05/04/book-review-replay-by-ken-grimwood/).

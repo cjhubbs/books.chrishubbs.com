@@ -9,7 +9,7 @@ book:
   pages: '17'
   publication_year: '2007'
   series: Harry Potter
-  series_position: '2007'
+  series_position: '4'
   spine_color: '#b08053'
   tags: ''
   title: Harry Potter and the Goblet of Fire
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-08-04
   rating: 4
 ---
+
+With this installment in the HP series, Rowling seems to have realized that she has the opportunity to hook readers who are older than 12. Ergo, 800+ pages, a slightly more complicated, less formulaic novel. This is my favorite so far. Three more to go.

@@ -18,6 +18,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-01-12
   rating: 4
 ---
+A fascinating real-life story about a man who lost his sight in a chemical explosion at the age of three, lived as a blind man for 40 years, and then was given the opportunity to regain his sight. More amazing the more I think about it. Worth reading.

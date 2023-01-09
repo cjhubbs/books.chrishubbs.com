@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-17
   rating: 2
 ---
+With his return to the legal genre and the two-word title, I had hopes that Grisham’s story would be a return to his stories of old, stories where the heroes battle difficult struggles but still prevail. No such luck. Grisham has continued to decide to be preachy rather than tell a good story. Disappointing.

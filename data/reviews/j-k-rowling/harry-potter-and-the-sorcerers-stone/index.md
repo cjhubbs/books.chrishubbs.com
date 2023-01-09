@@ -9,14 +9,16 @@ book:
   pages: '7'
   publication_year: '1999'
   series: Harry Potter
-  series_position: '1999'
+  series_position: '1'
   spine_color: ''
   tags: ''
-  title: Harry Potter and the Sorcerer\'s Stone
+  title: Harry Potter and the Sorcerer's Stone
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-12
   rating: 4
 ---
+
+I have resisted the HP craze until now, but with all the furor both for and against the books, I figured it was time to read them for myself. You know what? It was a fun book. Fairly imaginative, good characters, fun to read. I’ll go ahead and read the next one.

@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-18
   rating: 2
 ---
+
+Baldacci’s investigative thrillers have always been of medium quality to me – readable, enjoyable, but not great. This one continues the trend. Too much agonizing over psychologists, too unlikely a plot. Meh.

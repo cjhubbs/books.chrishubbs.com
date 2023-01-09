@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-19
   rating: 3
 ---
+Irving says that the inspiration for this one came from his wife hearing a news story about a man who got a hand transplant and wondering “what would happen if the donor’s family wanted visitation rights?”. A charming little story in its own way, though Irving is far too sex-obsessed for my tastes.

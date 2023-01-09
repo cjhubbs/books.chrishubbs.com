@@ -18,6 +18,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-10
   rating: 3
 ---
+
+This biography of Johannes Kepler chronicles how his faith interacted with his scientific discoveries, and the persecution he went through as a Lutheran in a land dominated by Catholics. A well-written book, respectful of Kepler’s faith, and drawn from new, first-time translations of several of Kepler’s letters. Interesting stuff.

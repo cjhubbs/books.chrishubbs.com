@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-09-27
   rating: 1
 ---
+
+A cheap sort-of thriller about the possibilities of people being able to create and control the weather. Confusing, actually. I couldn’t keep track of the characters well at all. 🙁

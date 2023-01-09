@@ -9,7 +9,7 @@ book:
   pages: '323'
   publication_year: '2008'
   series: Time's Tapestry
-  series_position: '2008'
+  series_position: '3'
   spine_color: '#c59432'
   tags: ''
   title: Navigator
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-03
   rating: 3
 ---
+The continuation of Baxter’s alternate history series. Good stuff.

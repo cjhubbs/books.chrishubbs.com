@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-18
   rating: 1
 ---
+Full review [here](https://chrishubbs.com/2008/10/30/book-review-how-would-jesus-vote-by-d-james-kennedy/).

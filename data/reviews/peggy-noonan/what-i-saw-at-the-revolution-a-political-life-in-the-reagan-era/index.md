@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-05-19
   rating: 4
 ---
+A twenty-year old memoir of Noonan’s time as a speechwriter in the Reagan White House. Mostly I just love Noonan’s writing. So much fun to read.

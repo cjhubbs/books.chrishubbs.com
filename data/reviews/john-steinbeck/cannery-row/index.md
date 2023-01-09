@@ -17,6 +17,6 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-03-01
   rating: 4
 ---

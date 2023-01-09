@@ -8,15 +8,16 @@ book:
   owned: ''
   pages: '304'
   publication_year: '2006'
-  series: ''
-  series_position: '2006'
+  series: 'Echelon'
+  series_position: '1'
   spine_color: '#9db3c7'
   tags: ''
-  title: 'Echelon (Echelon #1)'
+  title: 'Echelon'
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-03-28
   rating: 3
 ---
+Good futuristic look at human integration with the internet, and at the possibilities for controlling/influencing the world through data manipulation. Good story.

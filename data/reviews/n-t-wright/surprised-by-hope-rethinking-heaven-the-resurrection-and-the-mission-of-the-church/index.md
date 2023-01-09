@@ -18,6 +18,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-06
   rating: 5
 ---
+Brilliant stuff. The first post of a review series is [here](https://www.chrishubbs.com/2008/03/06/wrestling-with-tom-an-american-evangelicals-coming-to-grips-with-n-t-wrights-surprised-by-hope/).

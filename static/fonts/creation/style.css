@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'creation';
+  src: url('/path-to/creation.woff2') format('woff2'),
+       url('/path-to/creation.woff') format('woff'),
+       url('/path-to/creation.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'creation', sans-serif;
+}

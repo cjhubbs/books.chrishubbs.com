@@ -1,7 +1,7 @@
 ---
 book:
   author: Robert J. Sawyer
-  cover_image_url: ''
+  cover_image_url: http://books.google.com/books/content?id=Q4jqsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   goodreads: '25734179'
   isbn13: '9780425256831'
   isbn9: 0425256839
@@ -10,7 +10,7 @@ book:
   publication_year: '2016'
   series: ''
   series_position: '2016'
-  spine_color: ''
+  spine_color: '#ab6642'
   tags: ''
   title: Quantum Night
 plan:

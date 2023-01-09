@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-14
   rating: 3
 ---
+See my extended review [here](https://www.chrishubbs.com/2008/03/18/on-the-edge-of-the-dark-sea-of-darkness/).

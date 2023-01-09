@@ -9,7 +9,7 @@ book:
   pages: '604'
   publication_year: '2016'
   series: Remembrance of Earth’s Past
-  series_position: '2016'
+  series_position: '3'
   spine_color: '#b9d0de'
   tags: ''
   title: Death\'s End

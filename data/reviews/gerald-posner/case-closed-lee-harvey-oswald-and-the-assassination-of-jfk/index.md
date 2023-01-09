@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-10
   rating: 3
 ---
+This book is probably 15 years old now, but new to me as it was on clearance for $2 at the used bookstore. I’m not up on all the Kennedy assassination conspiracy theories, but it seems to me like Posner did a pretty good job of documenting a case for Oswald as the single, independent assassin.

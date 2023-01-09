@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-22
   rating: 3
 ---
+Axworthy was a long-time member of the British foreign service and writes a fairly accessible history of Iran. Fascinating stuff.

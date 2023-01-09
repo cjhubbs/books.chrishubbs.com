@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-09-03
   rating: 2
 ---
+
+Pastor Richard bought this one for all of the elders and we’re gonna go through it together. I found it reasonable, but not exactly revolutionary. Frazee’s conclusion: live a community-based, integrated life, and restrict your work to half the day (he suggests 6 AM – 6 PM), saving the remaining hours for family time and sleep. A bit pie-in-the-sky, the more I think about it.

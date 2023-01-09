@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-11-27
   rating: 4
 ---
+Extended review [here](https://www.chrishubbs.com/2008/11/30/book-review-the-faith-of-barack-obama-by-stephen-mansfield/).

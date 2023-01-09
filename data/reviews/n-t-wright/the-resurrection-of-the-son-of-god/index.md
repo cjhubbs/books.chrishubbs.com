@@ -9,7 +9,7 @@ book:
   pages: '817'
   publication_year: '2003'
   series: Christian Origins and the Question of God
-  series_position: '2003'
+  series_position: '3'
   spine_color: '#9b8472'
   tags: ''
   title: The Resurrection of the Son of God

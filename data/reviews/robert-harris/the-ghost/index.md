@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-24
   rating: 3
 ---
+
+A small story of political intrigue framed around the experience of a ghost writer. Less detailed and complex (and therefore, less interesting) than I thought it might be.

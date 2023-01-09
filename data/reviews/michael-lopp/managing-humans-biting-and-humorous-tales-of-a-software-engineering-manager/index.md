@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-03-25
   rating: 4
 ---
+This book was recommended highly by Geof, and the author (who goes by his nom de cyber, Rands) is brilliant at Rands in Repose, so I finally bought it from Amazon and gave it a whirl. While Rands’ high-tech world of internet startups and quick-turn user applications is a long mile from my process-driven avionics development world, he still has good insights on management and nerds. A good read.

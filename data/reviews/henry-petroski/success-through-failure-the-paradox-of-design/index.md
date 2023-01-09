@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-07-21
   rating: 3
 ---
+Another look at how we learn things in engineering by learning from our failures. Not as interesting as his other book that I read this year.

@@ -9,7 +9,7 @@ book:
   pages: '406'
   publication_year: '2010'
   series: Daemon
-  series_position: '2010'
+  series_position: '2'
   spine_color: '#f09930'
   tags: ''
   title: Freedom™

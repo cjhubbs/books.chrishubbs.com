@@ -9,7 +9,7 @@ book:
   pages: '313'
   publication_year: '2007'
   series: ''
-  series_position: '2007'
+  series_position: ''
   spine_color: '#6e5e4d'
   tags: ''
   title: Rollback
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-14
   rating: 4
 ---
+
+I became a fan of Sawyer’s a few years ago, but this one cements him as one of my current favorites in the sci-fi genre. In Rollback, a husband and his famous scientist wife are offered the chance for gene therapy to “roll back” their aging process – to take them from age 85 to age 25. His rollback works – hers doesn’t. Sawyer does a good job of exploring the dilemmas and frustrations a man in that position would face. Fun reading.

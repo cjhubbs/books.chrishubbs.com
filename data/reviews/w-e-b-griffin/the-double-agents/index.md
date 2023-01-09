@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-09-22
   rating: 3
 ---
+
+I have long been a fan of Griffin’s various wartime series; they are some seriously good writing and characters. This one was a weaker effort; it felt less like a story in its own right and more like a bunch of narrative and character development that needed to happen to connect the previous book to the presumably-upcoming book. Ah well, still enjoyable.

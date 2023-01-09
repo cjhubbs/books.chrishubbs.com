@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-12-30
   rating: 4
 ---
+
+A rather lengthy, and somewhat thick look at the English language and language in general. He uses the study of words, particularly verbs, to give some insight on how the brain works and how we process things at a sub-language level. Interesting read.

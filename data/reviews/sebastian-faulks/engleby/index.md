@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-11-21
   rating: 3
 ---
+
+A rather interesting first-person narrative by a character who is a liar and cheat, and may or may not have had something to do with the disappearance of a girl.

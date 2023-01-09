@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-23
   rating: 3
 ---
+
+I’ve enjoyed the Jack Reacher series, and this one didn’t disappoint. Reacher is a retired Army investigator whose entire belongings are the toothbrush in his pocket and the clothes on his back. He wanders through life and runs into his share of trouble. This one was a pretty good story.

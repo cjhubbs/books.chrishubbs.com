@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-27
   rating: 5
 ---
+Archer gives a modern retelling of Dumas’ The Count of Monte Cristo, and it’s fantastic. I love his characters, and I love the fact that it’s so black and white. In a day where most novels have characters that seem good and you want to trust, who end up being traitors and villains, this novel gives you noble characters that you can trust. I loved it. My favorite novel of the year so far.

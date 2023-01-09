@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-26
   rating: 4
 ---
+
+A fascinating book of fantasy, set in Los Angeles and loosely based on A Midsummer Night’s Dream. Card consistently turns out some of my favorite prose.

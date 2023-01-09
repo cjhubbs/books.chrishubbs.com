@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-06
   rating: 4
 ---
+
+A collection of short sci-fi stories. This is the first time in recent memory that I’ve read sci-fi that really seemed to be tuned in to the present – Doctorow has managed to grab on to the realities of the internet age and project them just a bit into the future. Good stuff.

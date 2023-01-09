@@ -3,6 +3,7 @@ import inquirer
 import click 
 import glob
 import datetime as dt
+import os
 
 
 reviews = []
@@ -19,7 +20,8 @@ if __name__ == "__main__":
         isbns[r.metadata['book']['isbn13']] = r 
 
     questions = [
-        inquirer.Text("isbn", "Input the ISBN13:")
+        inquirer.Text("isbn", "Input the ISBN13:"),
+        inquirer.Text("read_date", "Date Read:", default=dt.date.today())
     ]
     entry_type = inquirer.list_input(
         message="What type of book is this?",
@@ -41,7 +43,7 @@ if __name__ == "__main__":
             click.echo("Found " + r.metadata['book']['title'])
         if entry_type == 'reviews':
             r.metadata['review'] = {}
-            r.metadata['review']['date_read'] =  [dt.date.today()]
+            r.metadata['review']['date_read'] =  [dt.datetime.strptime(response['read_date'],'%Y-%m-%d').date()]
             rating = inquirer.list_input(
                 message="What’s your rating?",
                 choices=[("⭐⭐⭐⭐⭐", 5), ("⭐⭐⭐⭐", 4), ("⭐⭐⭐", 3), ("⭐⭐", 2), ("⭐", 1)],
@@ -59,4 +61,5 @@ if __name__ == "__main__":
         r.save()
         r.find_google_cover()
         r.save()
+        os.system('vi' + ' "' + str(r.path) + '" </dev/tty >/dev/tty 2>&1')
         click.echo("Record created! Don't forget to write a review before publishing the site!")

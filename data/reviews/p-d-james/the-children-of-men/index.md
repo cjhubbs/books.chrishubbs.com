@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
-  rating: 3
+  - 2007-03-10
+  rating: 4
 ---
+
+I hear that the movie is only very loosely based on the book, but I’ll still be interested to see it (I haven’t seen it yet). This book wins points from me based on the criteria I mentioned in my previous review: the author predicates a novel idea, and then explores the “what-if’s”. In this case, “what would happen if the entire human race lost the ability to reproduce?” It’s a compelling question, and the author handles it pretty well. I enjoyed this book.

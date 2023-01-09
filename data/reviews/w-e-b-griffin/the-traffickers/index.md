@@ -9,7 +9,7 @@ book:
   pages: '338'
   publication_year: '2009'
   series: Badge of Honor
-  series_position: '2009'
+  series_position: '9'
   spine_color: '#4b6d98'
   tags: ''
   title: The Traffickers

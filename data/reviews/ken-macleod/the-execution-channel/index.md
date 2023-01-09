@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-29
   rating: 3
 ---
+
+The flyleaf of this book called it a “blogothriller”, and while I’m not exactly sure that’s a real genre yet, Macleod shows a good grasp for how online news sources and blogs might strategically be used in the future. A moderately entertaining book.

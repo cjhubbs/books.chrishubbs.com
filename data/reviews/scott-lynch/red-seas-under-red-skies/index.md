@@ -9,7 +9,7 @@ book:
   pages: '558'
   publication_year: '2007'
   series: Gentleman Bastard
-  series_position: '2007'
+  series_position: '2'
   spine_color: '#c56615'
   tags: ''
   title: Red Seas Under Red Skies

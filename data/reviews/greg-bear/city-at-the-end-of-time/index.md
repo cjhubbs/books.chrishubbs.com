@@ -17,6 +17,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-22
   rating: 3
 ---
+A sprawling fantasy epic about time- and reality-travelers nearing the end of the universe. Different, but enjoyable.
+
+

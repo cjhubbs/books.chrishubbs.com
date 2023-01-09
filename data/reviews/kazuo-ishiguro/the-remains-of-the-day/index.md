@@ -17,6 +17,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-26
   rating: 4
 ---
+I was glad to finally read the book version of a movie that I enjoyed. Ishiguro captures the focused dedication of an English butler in entertaining fashion. I am impressed by how closely the movie stayed to the novel; and the role of Stevens will always be played, in my head, by Sir Anthony Hopkins.
+
+

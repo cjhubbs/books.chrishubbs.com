@@ -9,7 +9,7 @@ book:
   pages: '503'
   publication_year: '2009'
   series: Millennium
-  series_position: '2009'
+  series_position: '2'
   spine_color: ''
   tags: ''
   title: The Girl Who Played with Fire

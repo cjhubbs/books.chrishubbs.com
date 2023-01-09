@@ -17,6 +17,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-31
   rating: 2
 ---
+A rather basic sort of thriller in which a husband is killed and his wife is piecing together information about the secrets he was keeping… the ones that ultimately led to his killing. Nothing too exciting, but moderately entertaining.
+
+

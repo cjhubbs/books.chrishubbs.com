@@ -9,7 +9,7 @@ book:
   pages: '160'
   publication_year: '2021'
   series: Monk & Robot
-  series_position: '2021'
+  series_position: '1'
   spine_color: ''
   tags: ''
   title: A Psalm for the Wild-Built

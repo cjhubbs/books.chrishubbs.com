@@ -8,15 +8,15 @@ book:
   owned: ''
   pages: '288'
   publication_year: '2007'
-  series: ''
-  series_position: '2007'
+  series: 'Empyre'
+  series_position: '2'
   spine_color: '#eecd45'
   tags: ''
-  title: 'Empyre (Echelon #2)'
+  title: 'Empyre'
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-04-02
   rating: 4
 ---

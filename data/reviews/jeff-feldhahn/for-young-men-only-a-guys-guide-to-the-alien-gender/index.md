@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-06
   rating: 3
 ---
+Full blog review posted [here](https://www.chrishubbs.com/2008/10/06/book-review-for-young-men-only/).

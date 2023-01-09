@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-04-16
   rating: 4
 ---
+I think this one may have been a re-read for me – parts of it seemed vaguely familiar. Still, worth the read. The emphasis in this volume is far more on the faith than the autobiography; most of the chapters address how he, as a thinker and intellectual, addresses and comes to grips with his (Roman Catholic) beliefs. Well written, insightful, good stuff.

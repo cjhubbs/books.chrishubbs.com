@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-03-01
   rating: 3
 ---
+
+Fun to read a novel dealing with medieval times that isn’t a DaVinci Code knock-off. This one, instead, dealt with Dracula. Nothing groundbreaking, but a good escapist novel.

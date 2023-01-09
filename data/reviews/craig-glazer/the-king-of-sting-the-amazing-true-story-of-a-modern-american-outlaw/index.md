@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2009-10-02
+  - 2009-01-10
   rating: 3
 ---
+Full review [here](https://www.chrishubbs.com/2009/01/11/book-review-the-king-of-sting-by-craig-glazer-and-sal-manna/).

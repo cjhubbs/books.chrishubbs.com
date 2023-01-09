@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-26
   rating: 4
 ---
+A very good but ultimately very sad biography of Charles M. Schulz, whose life seemed to bear out the aphorism that great art comes from troubled psyches. I didn’t realize how much _Peanuts_ represented Schulz’s life… interesting. Sad that a man who had so much to contribute spent his whole life feeling like no one loved him.

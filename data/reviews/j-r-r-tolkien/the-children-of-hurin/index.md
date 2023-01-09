@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-06-27
   rating: 5
 ---
+
+This was my first foray into Tolkien’s backhistory of LOTR; I haven’t tried the Simarillion or any of its kin in many years, and I never got through them in the first place. However, this volume of Tolkien is magnificent, accessible, and heartbreaking. A true epic.

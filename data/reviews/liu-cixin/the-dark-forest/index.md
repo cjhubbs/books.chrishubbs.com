@@ -9,7 +9,7 @@ book:
   pages: '512'
   publication_year: '2015'
   series: Remembrance of Earth’s Past
-  series_position: '2015'
+  series_position: '2'
   spine_color: ''
   tags: ''
   title: The Dark Forest

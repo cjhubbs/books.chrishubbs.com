@@ -9,7 +9,7 @@ book:
   pages: '360'
   publication_year: '2008'
   series: Patrick McLanahan
-  series_position: '2008'
+  series_position: '10'
   spine_color: '#b16b48'
   tags: ''
   title: Shadow Command
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-05-18
   rating: 2
 ---
+As much as the geek in me loves Dale Brown’s technology, the Patrick McLanahan story is getting very very old. Same story every time – McLanahan has his gadgets and goes off to save the world. The President and other Defense Department folks oppose him as a loose cannon. Blah blah blah.

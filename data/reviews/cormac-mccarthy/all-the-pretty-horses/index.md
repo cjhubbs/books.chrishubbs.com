@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-11-06
   rating: 4
 ---
+
+OK, so I didn’t really plan to read two McCarthy novels in a row, but I ditched the Salman Rushdie book about a hundred pages in. So instead I catch up on McCarthy. Superlatives fail me. Not a complex plot, but beautifully written and picturesque in a way you rarely find. I can understand why they rate McCarthy as one of the top American authors. Good stuff.

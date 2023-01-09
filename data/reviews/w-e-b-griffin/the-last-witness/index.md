@@ -9,7 +9,7 @@ book:
   pages: '344'
   publication_year: '2013'
   series: Badge of Honor
-  series_position: '2013'
+  series_position: '11'
   spine_color: '#387b8a'
   tags: ''
   title: The Last Witness

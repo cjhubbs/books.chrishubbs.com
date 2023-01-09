@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-07-23
   rating: 1
 ---
+
+Another airborne thriller with more holes in it than my fifteen-year-old shorts. Oh, and the villians: once again wacko “Christian fundamentalists”. Yawn.

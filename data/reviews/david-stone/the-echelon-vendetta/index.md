@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2007'
   series: Agent Micah Dalton
-  series_position: '2007'
+  series_position: '1'
   spine_color: '#bcc8a1'
   tags: ''
   title: The Echelon Vendetta
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-08-27
   rating: 2
 ---
+
+The flyleaf reviews made glowing comparisons to Ludlum and LeCarre. I’ve got a grain of salt here for ya. It wasn’t bad, but certainly not up to those lofty standards.

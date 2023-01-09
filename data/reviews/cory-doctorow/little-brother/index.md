@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-09
   rating: 3
 ---
+An anti-government-surveillance/pro-liberty (depending on which side of the ledger you’re on, I guess) piece of propaganda, gussied up as an entertaining short novel aimed at the teenage set. Complete with terrorist attacks, jackbooted Homeland Security agents, and waterboarding! Over the top, but still kinda fun. Also: the first book I’ve read as an e-book, on my iPod Touch.

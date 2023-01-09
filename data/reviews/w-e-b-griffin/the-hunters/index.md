@@ -9,7 +9,7 @@ book:
   pages: '515'
   publication_year: '2007'
   series: Presidential Agent
-  series_position: '2007'
+  series_position: '3'
   spine_color: '#ea0d07'
   tags: ''
   title: The Hunters
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-05-31
   rating: 3
 ---
+
+W.E.B. is probably my favorite author of this genre, especially now that Clancy isn’t writing any more. Good military adventure fiction.

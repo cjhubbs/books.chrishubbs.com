@@ -9,7 +9,7 @@ book:
   pages: '407'
   publication_year: '2007'
   series: The Dresden Files
-  series_position: '2007'
+  series_position: '9'
   spine_color: '#959fa9'
   tags: ''
   title: White Night
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-10-14
   rating: 3
 ---
+
+I decided to give the Dresden series another try, and I enjoyed this one. I should probably try to back up and read from the beginning – might help with the confusion level.

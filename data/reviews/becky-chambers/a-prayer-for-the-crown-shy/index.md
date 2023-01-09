@@ -9,7 +9,7 @@ book:
   pages: '149'
   publication_year: '2022'
   series: Monk & Robot
-  series_position: '2022'
+  series_position: '2'
   spine_color: '#caa646'
   tags: ''
   title: A Prayer for the Crown-Shy

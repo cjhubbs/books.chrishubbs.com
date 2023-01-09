@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-11-14
   rating: 2
 ---
+
+Gibson is one of those authors I know I’m supposed to like, but I struggle with really getting into his books. This one was OK – I was tempted to put it down half-way through, but I hate quitting books in the middle. Still, it took me a week to read it because I didn’t have any trouble putting it down to do other things.

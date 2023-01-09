@@ -9,7 +9,7 @@ book:
   pages: '407'
   publication_year: '2008'
   series: Jack Reacher
-  series_position: '2008'
+  series_position: '12'
   spine_color: '#c88645'
   tags: ''
   title: Nothing to Lose
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-08
   rating: 3
 ---
+I am a big fan of Child’s Jack Reacher series. Reacher is a wandering former military policeman who owns nothing more than the clothes on his back and the stuff in his pockets. There seems to always be another crime to solve or injustice to set right. Fun reading.

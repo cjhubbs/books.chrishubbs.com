@@ -9,7 +9,7 @@ book:
   pages: '835'
   publication_year: '2005'
   series: A Song of Ice and Fire
-  series_position: '2005'
+  series_position: '1'
   spine_color: '#c89944'
   tags: ''
   title: A Game of Thrones

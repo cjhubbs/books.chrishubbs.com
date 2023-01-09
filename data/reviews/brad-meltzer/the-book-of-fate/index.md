@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-28
   rating: 3
 ---
+
+I was taking a chance on this one; I have gotten sick of the _Davinci_-esque novels, but I have enjoyed Meltzer in the past. I wasn’t disappointed here; the whole thing with the Freemasons seems to have been hacked in just so the publisher could try to sell it as being in the _Davinci_ genre; in reality, it’s just a solid thriller/whodunit. An entertaining read.

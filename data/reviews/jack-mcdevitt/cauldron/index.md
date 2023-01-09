@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-06-08
   rating: 3
 ---
+A fun futurist space novel a la Arthur C. Clarke. A few hundred years in the future, a new space engine technology is discovered that allows travel to the far reaches of the universe. No big plot twists or over-arching story arc here, just an exploration of the setting. Pretty good read.

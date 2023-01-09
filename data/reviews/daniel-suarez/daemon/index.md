@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2009'
   series: Daemon
-  series_position: '2009'
+  series_position: '1'
   spine_color: '#30525f'
   tags: ''
   title: Daemon

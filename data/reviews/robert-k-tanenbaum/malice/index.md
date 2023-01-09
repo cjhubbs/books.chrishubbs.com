@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-11-30
   rating: 3
 ---
+
+The name sounds familiar, but I can’t remember reading one of this guy’s novels before. It was really quite good – a legal sort of thriller, complex in plot and flawless in execution. I’ll have to see what else he’s written.

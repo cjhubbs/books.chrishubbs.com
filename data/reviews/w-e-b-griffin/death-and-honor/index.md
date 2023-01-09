@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-02
   rating: 3
 ---
+Griffin remains a wonderful writer and he’s completely in his element with another book in his Honor Bound series, set in Argentina during WWII. An enjoyable read.

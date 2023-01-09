@@ -17,6 +17,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-04-22
   rating: 2
 ---
+I’ve enjoyed Lescroart’s books starring Dismas Hardy and Abe Glitzky for a while now, but this one was a bit of a disappointment. It’s a did-he-or-didn’t-he plot built around a soldier with Post-Traumatic Stress Disorder and his friend-turned-rival. A decent read, but not a very fulfilling ending.
+
+

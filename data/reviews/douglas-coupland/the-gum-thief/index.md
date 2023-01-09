@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-02-17
   rating: 3
 ---
+This is the first Coupland novel I’ve had the patience with/interest in to make it all the way through. A moderately interesting postmodern tale of shiftless people wrestling with meaningless lives.

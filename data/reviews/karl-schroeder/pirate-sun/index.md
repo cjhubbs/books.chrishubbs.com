@@ -9,7 +9,7 @@ book:
   pages: '320'
   publication_year: '2008'
   series: Virga
-  series_position: '2008'
+  series_position: '3'
   spine_color: '#85ab89'
   tags: ''
   title: Pirate Sun
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-10-13
   rating: 4
 ---
+The latest installment in the Virga series, which continues to fascinate me.

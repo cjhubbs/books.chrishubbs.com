@@ -6,10 +6,10 @@ book:
   isbn13: '9780807282328'
   isbn9: 0807282324
   owned: ''
-  pages: '13'
+  pages: '448'
   publication_year: '2000'
   series: Harry Potter
-  series_position: '2000'
+  series_position: '3'
   spine_color: '#0c8373'
   tags: ''
   title: Harry Potter and the Prisoner of Azkaban
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-07-24
   rating: 4
 ---
+
+This volume seems to be where Rowling decides to make the novels a little more involved. This one is more detailed and more complicated than the first two volumes, which to me makes it even more enjoyable. I’ll keep reading.

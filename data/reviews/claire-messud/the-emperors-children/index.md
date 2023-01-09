@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-02-20
   rating: 4
 ---
+
+This one explores morality and life choices in an intriguing way. Reminded me of _On Beauty_ from earlier this year – this one might have been better… tough call.

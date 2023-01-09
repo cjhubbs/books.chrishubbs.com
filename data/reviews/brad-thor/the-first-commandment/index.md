@@ -9,7 +9,7 @@ book:
   pages: '404'
   publication_year: '2007'
   series: Scot Harvath
-  series_position: '2007'
+  series_position: '6'
   spine_color: '#2b568c'
   tags: ''
   title: The First Commandment
@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-09-14
   rating: 3
 ---
+
+I’ve enjoyed this series; this one similarly does not disappoint. A fun read.

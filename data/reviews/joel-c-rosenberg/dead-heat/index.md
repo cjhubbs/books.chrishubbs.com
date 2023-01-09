@@ -9,7 +9,7 @@ book:
   pages: '400'
   publication_year: '2008'
   series: The Last Jihad
-  series_position: '2008'
+  series_position: '5'
   spine_color: '#22578d'
   tags: ''
   title: Dead Heat
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-05-22
   rating: 2
 ---
+OK, so I like stories where the authors actually go for the disaster scenario and then play out the results. Rosenberg’s first couple books in this series were pretty good; by this time, though, he’s getting far too preachy and dispensational. Ugh.

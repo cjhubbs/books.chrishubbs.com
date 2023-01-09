@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-08-29
   rating: 2
 ---
+You know what? I just didn’t get this one. At all. The first half of the story had me set up for something… and the second half fell flat. Meh.

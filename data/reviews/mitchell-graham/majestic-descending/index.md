@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-05-27
   rating: 4
 ---
+OK, I really liked this book. As an adventure/mystery-type story, it managed to keep a nice even pace, keeping me interested without being over the top. Nice little twist at the end.

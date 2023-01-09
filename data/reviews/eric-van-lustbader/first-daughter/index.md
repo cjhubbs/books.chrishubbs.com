@@ -9,7 +9,7 @@ book:
   pages: '400'
   publication_year: '2008'
   series: Jack McClure
-  series_position: '2008'
+  series_position: '1'
   spine_color: '#434e6f'
   tags: ''
   title: First Daughter
@@ -17,6 +17,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2008-09-20
   rating: 3
 ---
+Time for a cheap thriller to liven things up, and this one didn’t disappoint. A moderately interesting bad guy, a more-interesting protagonist. The story, focusing on the kidnapping of the president-elect’s daughter, is just almost implausible, but not quite. All in all, a decent story.

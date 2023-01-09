@@ -17,6 +17,8 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2007-09-08
   rating: 2
 ---
+
+I’m not quite sure about this one. I read through to the end, but my big motivation was just finishing the book, not because I was quite so interested in the story. An exploration of a brother-sister relationship and who we think we are. Meh.

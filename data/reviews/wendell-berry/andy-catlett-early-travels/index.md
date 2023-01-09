@@ -17,6 +17,9 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-01-06
+  - 2009-01-11
   rating: 4
 ---
+A charming short novel about a nine-year-old boy taking a trip to visit his grandparents. Set in the early 1940’s, Berry paints a very picturesque image of a simpler time.
+
+
