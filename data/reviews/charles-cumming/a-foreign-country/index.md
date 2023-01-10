@@ -9,7 +9,7 @@ book:
   pages: '357'
   publication_year: '2012'
   series: Thomas Kell
-  series_position: '2012'
+  series_position: '1'
   spine_color: '#a75761'
   tags: ''
   title: A Foreign Country

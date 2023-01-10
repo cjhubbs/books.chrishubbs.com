@@ -8,8 +8,8 @@ book:
   owned: ''
   pages: '420'
   publication_year: '2013'
-  series: Dewey Andreas
-  series_position: '2013'
+  series: 'Dewey Andreas'
+  series_position: '4'
   spine_color: '#5e2948'
   tags: ''
   title: Eye for an Eye

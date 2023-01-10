@@ -9,7 +9,7 @@ book:
   pages: '381'
   publication_year: '2008'
   series: Wyman Ford
-  series_position: '2008'
+  series_position: '2'
   spine_color: '#d67236'
   tags: ''
   title: Blasphemy

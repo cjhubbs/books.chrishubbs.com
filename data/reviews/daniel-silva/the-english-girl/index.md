@@ -9,7 +9,7 @@ book:
   pages: '482'
   publication_year: '2013'
   series: Gabriel Allon
-  series_position: '2013'
+  series_position: '13'
   spine_color: ''
   tags: ''
   title: The English Girl

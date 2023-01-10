@@ -9,7 +9,7 @@ book:
   pages: '462'
   publication_year: '2010'
   series: Unincorporated Man
-  series_position: '2010'
+  series_position: '2'
   spine_color: '#9f937c'
   tags: ''
   title: The Unincorporated War

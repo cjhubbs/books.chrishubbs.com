@@ -9,7 +9,7 @@ book:
   pages: '323'
   publication_year: '2007'
   series: Dan Lenson
-  series_position: '2007'
+  series_position: '10'
   spine_color: '#235486'
   tags: ''
   title: Korea Strait

@@ -9,7 +9,7 @@ book:
   pages: '158'
   publication_year: '2018'
   series: The Murderbot Diaries
-  series_position: '2018'
+  series_position: '3'
   spine_color: '#c1c8cc'
   tags: ''
   title: Rogue Protocol

@@ -9,7 +9,7 @@ book:
   pages: '320'
   publication_year: '2017'
   series: Kangaroo
-  series_position: '2017'
+  series_position: '2'
   spine_color: '#68894b'
   tags: ''
   title: Kangaroo Too

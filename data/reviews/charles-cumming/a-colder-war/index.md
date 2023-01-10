@@ -9,7 +9,7 @@ book:
   pages: '386'
   publication_year: '2014'
   series: Thomas Kell
-  series_position: '2014'
+  series_position: '2'
   spine_color: '#706b48'
   tags: ''
   title: A Colder War

@@ -12,7 +12,7 @@ book:
   series_position: '1997'
   spine_color: '#d6cead'
   tags: ''
-  title: 'Surely You\''re Joking, Mr. Feynman!: Adventures of a Curious Character'
+  title: "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
 plan:
   date_added: 2023-01-01
 review:

@@ -9,7 +9,7 @@ book:
   pages: '405'
   publication_year: '2011'
   series: Jack Reacher
-  series_position: '2011'
+  series_position: '16'
   spine_color: '#0d63b0'
   tags: ''
   title: The Affair

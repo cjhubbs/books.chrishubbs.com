@@ -12,7 +12,7 @@ book:
   series_position: '2017'
   spine_color: '#569c49'
   tags: ''
-  title: 'The Radium Girls: The Dark Story of America\''s Shining Women'
+  title: "The Radium Girls: The Dark Story of America's Shining Women"
 plan:
   date_added: 2023-01-01
 review:

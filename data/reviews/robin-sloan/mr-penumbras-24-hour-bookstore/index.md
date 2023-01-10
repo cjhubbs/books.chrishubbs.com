@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: '#f6ea28'
   tags: ''
-  title: Mr. Penumbra\'s 24-Hour Bookstore
+  title: "Mr. Penumbra's 24-Hour Bookstore"
 plan:
   date_added: 2023-01-01
 review:

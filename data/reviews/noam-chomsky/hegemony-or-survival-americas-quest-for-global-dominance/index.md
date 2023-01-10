@@ -12,7 +12,7 @@ book:
   series_position: '2004'
   spine_color: '#6d4650'
   tags: ''
-  title: 'Hegemony or Survival: America\''s Quest for Global Dominance'
+  title: "Hegemony or Survival: America's Quest for Global Dominance"
 plan:
   date_added: 2023-01-01
 review:

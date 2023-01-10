@@ -9,7 +9,7 @@ book:
   pages: '158'
   publication_year: '2018'
   series: The Murderbot Diaries
-  series_position: '2018'
+  series_position: '2'
   spine_color: '#c09162'
   tags: ''
   title: Artificial Condition

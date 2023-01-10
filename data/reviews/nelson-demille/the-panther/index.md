@@ -9,7 +9,7 @@ book:
   pages: '629'
   publication_year: '2012'
   series: John Corey
-  series_position: '2012'
+  series_position: '6'
   spine_color: '#9f9895'
   tags: ''
   title: The Panther

@@ -12,7 +12,7 @@ book:
   series_position: '2022'
   spine_color: '#c37932'
   tags: ''
-  title: 'Kristin Lavransdatter (Kristin Lavransdatter, #1-3)'
+  title: 'Kristin Lavransdatter'
 plan:
   date_added: 2023-01-01
 review:

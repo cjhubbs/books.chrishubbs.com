@@ -12,8 +12,8 @@ book:
   series_position: '2013'
   spine_color: '#6d605e'
   tags: ''
-  title: 'Evangelii gaudium: Esortazione apostolica sulla conclusione dell\''Anno
-    della fede'
+  title: "Evangelii gaudium: Esortazione apostolica sulla conclusione dell'Anno
+    della fede"
 plan:
   date_added: 2023-01-01
 review:

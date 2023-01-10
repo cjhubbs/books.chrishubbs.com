@@ -8,7 +8,7 @@ book:
   owned: ''
   pages: '337'
   publication_year: '2009'
-  series: Sean Dillion
+  series: Sean Dillon
   series_position: '16'
   spine_color: '#6b4f4a'
   tags: ''

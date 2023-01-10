@@ -9,7 +9,7 @@ book:
   pages: '352'
   publication_year: '2012'
   series: The Clifton Chronicles
-  series_position: '2012'
+  series_position: '2'
   spine_color: '#d2713d'
   tags: ''
   title: The Sins of the Father

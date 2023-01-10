@@ -12,8 +12,8 @@ book:
   series_position: '2012'
   spine_color: '#46a5c6'
   tags: ''
-  title: 'Runner\''s World Big Book of Marathon and Half-Marathon Training: Winning
-    Strategies, Inpiring Stories, and the Ultimate Training Tools'
+  title: "Runner's World Big Book of Marathon and Half-Marathon Training: Winning
+    Strategies, Inpiring Stories, and the Ultimate Training Tools"
 plan:
   date_added: 2023-01-01
 review:

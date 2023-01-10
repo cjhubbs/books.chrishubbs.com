@@ -9,7 +9,7 @@ book:
   pages: '358'
   publication_year: '2011'
   series: Halting State
-  series_position: '2011'
+  series_position: '2'
   spine_color: '#d6480f'
   tags: ''
   title: Rule 34

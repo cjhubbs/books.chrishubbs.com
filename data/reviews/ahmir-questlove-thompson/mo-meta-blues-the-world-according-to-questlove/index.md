@@ -12,7 +12,7 @@ book:
   series_position: '2013'
   spine_color: '#847d58'
   tags: ''
-  title: 'Mo\'' Meta Blues: The World According to Questlove'
+  title: "Mo' Meta Blues: The World According to Questlove"
 plan:
   date_added: 2023-01-01
 review:

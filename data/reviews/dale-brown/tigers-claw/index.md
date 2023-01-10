@@ -8,11 +8,11 @@ book:
   owned: ''
   pages: '400'
   publication_year: '2012'
-  series: 'Brad McLanahan #1; Patrick McLanahan'
-  series_position: '2012'
+  series: 'Brad McLanahan'
+  series_position: '1'
   spine_color: '#833938'
   tags: ''
-  title: Tiger\'s Claw
+  title: "Tiger's Claw"
 plan:
   date_added: 2023-01-01
 review:

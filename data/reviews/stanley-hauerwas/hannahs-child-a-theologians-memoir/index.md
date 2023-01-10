@@ -12,7 +12,7 @@ book:
   series_position: '2010'
   spine_color: '#937c7a'
   tags: ''
-  title: 'Hannah\''s Child: A Theologian\''s Memoir'
+  title: "Hannah's Child: A Theologian's Memoir"
 plan:
   date_added: 2023-01-01
 review:

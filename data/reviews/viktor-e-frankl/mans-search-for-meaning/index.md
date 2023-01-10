@@ -12,7 +12,7 @@ book:
   series_position: '2006'
   spine_color: '#c2b68f'
   tags: ''
-  title: Man\'s Search for Meaning
+  title: "Man's Search for Meaning"
 plan:
   date_added: 2023-01-01
 review:

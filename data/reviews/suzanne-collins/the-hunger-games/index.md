@@ -9,7 +9,7 @@ book:
   pages: '374'
   publication_year: '2008'
   series: The Hunger Games
-  series_position: '2008'
+  series_position: '1'
   spine_color: '#a67540'
   tags: ''
   title: The Hunger Games

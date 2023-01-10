@@ -9,7 +9,7 @@ book:
   pages: '400'
   publication_year: '2014'
   series: The First Formic War
-  series_position: '2014'
+  series_position: '3'
   spine_color: '#bb8d2a'
   tags: ''
   title: Earth Awakens

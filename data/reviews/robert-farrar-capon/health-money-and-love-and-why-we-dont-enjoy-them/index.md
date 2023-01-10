@@ -12,7 +12,7 @@ book:
   series_position: '1990'
   spine_color: ''
   tags: ''
-  title: Health, Money, and Love-- And Why We Don\'t Enjoy Them
+  title: "Health, Money, and Love - And Why We Don't Enjoy Them"
 plan:
   date_added: 2023-01-01
 review:

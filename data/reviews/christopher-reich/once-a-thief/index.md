@@ -9,7 +9,7 @@ book:
   pages: '352'
   publication_year: '2022'
   series: Simon Riske
-  series_position: '2022'
+  series_position: '5'
   spine_color: '#4e6d8a'
   tags: ''
   title: Once a Thief

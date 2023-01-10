@@ -9,7 +9,7 @@ book:
   pages: '1103'
   publication_year: '2014'
   series: The Century Trilogy
-  series_position: '2014'
+  series_position: '3'
   spine_color: ''
   tags: ''
   title: Edge of Eternity

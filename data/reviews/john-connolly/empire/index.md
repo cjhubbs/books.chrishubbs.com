@@ -9,7 +9,7 @@ book:
   pages: '448'
   publication_year: '2015'
   series: The Chronicles of the Invaders
-  series_position: '2015'
+  series_position: '2'
   spine_color: ''
   tags: ''
   title: Empire

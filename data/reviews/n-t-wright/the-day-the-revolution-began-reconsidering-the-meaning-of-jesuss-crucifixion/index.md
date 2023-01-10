@@ -12,7 +12,7 @@ book:
   series_position: '2016'
   spine_color: '#7b574b'
   tags: ''
-  title: 'The Day the Revolution Began: Reconsidering the Meaning of Jesus\''s Crucifixion'
+  title: "The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion"
 plan:
   date_added: 2023-01-01
 review:

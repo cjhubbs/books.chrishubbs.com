@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: '#ae9790'
   tags: ''
-  title: 'The Presidents Club: Inside the World\''s Most Exclusive Fraternity'
+  title: "The Presidents Club: Inside the World's Most Exclusive Fraternity"
 plan:
   date_added: 2023-01-01
 review:

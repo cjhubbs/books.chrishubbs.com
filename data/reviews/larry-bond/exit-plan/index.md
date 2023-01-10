@@ -9,7 +9,7 @@ book:
   pages: '412'
   publication_year: '2012'
   series: Jerry Mitchell
-  series_position: '2012'
+  series_position: '3'
   spine_color: '#868a6b'
   tags: ''
   title: Exit Plan

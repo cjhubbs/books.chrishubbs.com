@@ -8,8 +8,8 @@ book:
   owned: ''
   pages: '369'
   publication_year: '2008'
-  series: Ender's Saga
-  series_position: '2008'
+  series: "Ender's Saga"
+  series_position: '6'
   spine_color: '#393848'
   tags: ''
   title: Ender in Exile

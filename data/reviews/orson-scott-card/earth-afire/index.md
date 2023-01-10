@@ -9,7 +9,7 @@ book:
   pages: '399'
   publication_year: '2013'
   series: The First Formic War
-  series_position: '2013'
+  series_position: '2'
   spine_color: '#7a4b3d'
   tags: ''
   title: Earth Afire

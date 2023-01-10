@@ -12,7 +12,7 @@ book:
   series_position: '2010'
   spine_color: '#78725f'
   tags: ''
-  title: 'The Warmth of Other Suns: the Epic Story of America\''s Great Migration'
+  title: "The Warmth of Other Suns: the Epic Story of America's Great Migration"
 plan:
   date_added: 2023-01-01
 review:

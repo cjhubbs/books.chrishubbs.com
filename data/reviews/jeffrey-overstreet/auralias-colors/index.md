@@ -12,7 +12,7 @@ book:
   series_position: '2007'
   spine_color: '#274b85'
   tags: ''
-  title: Auralia\'s Colors
+  title: "Auralia's Colors"
 plan:
   date_added: 2023-01-01
 review:

@@ -12,7 +12,7 @@ book:
   series_position: '2018'
   spine_color: ''
   tags: ''
-  title: 'Collision on Tenerife: The How and Why of the World\''s Worst Aviation Disaster'
+  title: "Collision on Tenerife: The How and Why of the World's Worst Aviation Disaster"
 plan:
   date_added: 2023-01-01
 review:

@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: '#f2e0af'
   tags: ''
-  title: 'Evolution of Adam: What the Bible Does and Doesn\''t Say about Human Origins'
+  title: "Evolution of Adam: What the Bible Does and Doesn't Say about Human Origins"
 plan:
   date_added: 2023-01-01
 review:

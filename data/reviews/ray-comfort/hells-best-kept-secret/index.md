@@ -12,7 +12,7 @@ book:
   series_position: '1989'
   spine_color: '#e27780'
   tags: ''
-  title: Hell\'s Best Kept Secret
+  title: "Hell's Best Kept Secret"
 plan:
   date_added: 2023-01-01
 review:

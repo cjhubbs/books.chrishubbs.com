@@ -9,7 +9,7 @@ book:
   pages: '364'
   publication_year: '2010'
   series: Wyman Ford
-  series_position: '2010'
+  series_position: '3'
   spine_color: ''
   tags: ''
   title: Impact

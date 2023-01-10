@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2016'
   series: Thomas Kell
-  series_position: '2016'
+  series_position: '3'
   spine_color: '#0fa4a4'
   tags: ''
   title: A Divided Spy

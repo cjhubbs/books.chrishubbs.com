@@ -12,8 +12,8 @@ book:
   series_position: '1990'
   spine_color: '#3f314d'
   tags: ''
-  title: 'My Traitor\''s Heart: A South African Exile Returns to Face His Country,
-    His Tribe, and His Conscience'
+  title: "My Traitor's Heart: A South African Exile Returns to Face His Country,
+    His Tribe, and His Conscience"
 plan:
   date_added: 2023-01-01
 review:

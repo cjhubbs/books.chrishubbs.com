@@ -9,7 +9,7 @@ book:
   pages: '159'
   publication_year: '1992'
   series: Great Plains Trilogy
-  series_position: '1992'
+  series_position: '3'
   spine_color: '#b89d6b'
   tags: ''
   title: O Pioneers!

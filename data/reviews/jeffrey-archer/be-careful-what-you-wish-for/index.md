@@ -9,7 +9,7 @@ book:
   pages: '387'
   publication_year: '2014'
   series: The Clifton Chronicles
-  series_position: '2014'
+  series_position: '4'
   spine_color: '#152032'
   tags: ''
   title: Be Careful What You Wish For

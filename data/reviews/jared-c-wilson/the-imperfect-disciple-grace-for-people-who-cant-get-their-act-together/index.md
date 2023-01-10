@@ -12,7 +12,7 @@ book:
   series_position: '2017'
   spine_color: '#4f8099'
   tags: ''
-  title: 'The Imperfect Disciple: Grace for People Who Can\''t Get Their Act Together'
+  title: "The Imperfect Disciple: Grace for People Who Can't Get Their Act Together"
 plan:
   date_added: 2023-01-01
 review:

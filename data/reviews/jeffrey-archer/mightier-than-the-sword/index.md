@@ -9,7 +9,7 @@ book:
   pages: '400'
   publication_year: '2015'
   series: The Clifton Chronicles
-  series_position: '2015'
+  series_position: '5'
   spine_color: '#443a4d'
   tags: ''
   title: Mightier Than the Sword

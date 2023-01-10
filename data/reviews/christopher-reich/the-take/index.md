@@ -9,7 +9,7 @@ book:
   pages: '390'
   publication_year: '2018'
   series: Simon Riske
-  series_position: '2018'
+  series_position: '1'
   spine_color: '#eba466'
   tags: ''
   title: The Take

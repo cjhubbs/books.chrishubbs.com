@@ -9,7 +9,7 @@ book:
   pages: '420'
   publication_year: '2007'
   series: Sean King & Michelle Maxwell
-  series_position: '2007'
+  series_position: '3'
   spine_color: '#a63134'
   tags: ''
   title: Simple Genius

@@ -12,7 +12,7 @@ book:
   series_position: '2014'
   spine_color: '#a3a284'
   tags: ''
-  title: 'It\''s Complicated: The Social Lives of Networked Teens'
+  title: "It's Complicated: The Social Lives of Networked Teens"
 plan:
   date_added: 2023-01-01
 review:

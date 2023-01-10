@@ -9,10 +9,10 @@ book:
   pages: '342'
   publication_year: '2011'
   series: Gideon Crew
-  series_position: '2011'
+  series_position: '1'
   spine_color: '#b50b0b'
   tags: ''
-  title: Gideon\'s Sword
+  title: "Gideon's Sword"
 plan:
   date_added: 2023-01-01
 review:

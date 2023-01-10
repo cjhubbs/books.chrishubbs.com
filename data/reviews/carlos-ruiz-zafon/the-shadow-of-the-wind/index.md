@@ -9,7 +9,7 @@ book:
   pages: '487'
   publication_year: '2005'
   series: The Cemetery of Forgotten Books
-  series_position: '2005'
+  series_position: '1'
   spine_color: ''
   tags: ''
   title: The Shadow of the Wind

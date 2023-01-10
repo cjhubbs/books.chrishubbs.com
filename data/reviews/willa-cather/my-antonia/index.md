@@ -9,7 +9,7 @@ book:
   pages: '232'
   publication_year: '2000'
   series: Great Plains Trilogy
-  series_position: '2000'
+  series_position: '1'
   spine_color: '#147b9b'
   tags: ''
   title: My Ántonia

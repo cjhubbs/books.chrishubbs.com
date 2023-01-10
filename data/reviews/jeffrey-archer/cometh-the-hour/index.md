@@ -9,7 +9,7 @@ book:
   pages: '404'
   publication_year: '2016'
   series: The Clifton Chronicles
-  series_position: '2016'
+  series_position: '6'
   spine_color: '#403830'
   tags: ''
   title: Cometh the Hour

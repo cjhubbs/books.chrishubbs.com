@@ -12,8 +12,8 @@ book:
   series_position: '2016'
   spine_color: '#093f5b'
   tags: ''
-  title: 'Paul and Gender: Reclaiming the Apostle\''s Vision for Men and Women in
-    Christ'
+  title: "Paul and Gender: Reclaiming the Apostle's Vision for Men and Women in
+    Christ"
 plan:
   date_added: 2023-01-01
 review:

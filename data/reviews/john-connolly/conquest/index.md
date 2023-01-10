@@ -9,7 +9,7 @@ book:
   pages: '433'
   publication_year: '2014'
   series: The Chronicles of the Invaders
-  series_position: '2014'
+  series_position: '1'
   spine_color: '#d2ad53'
   tags: ''
   title: Conquest

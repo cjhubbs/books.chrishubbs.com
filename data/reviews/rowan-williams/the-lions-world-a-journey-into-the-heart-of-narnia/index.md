@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: ''
   tags: ''
-  title: 'The Lion\''s World: A journey into the heart of Narnia'
+  title: "The Lion's World: A journey into the heart of Narnia"
 plan:
   date_added: 2023-01-01
 review:

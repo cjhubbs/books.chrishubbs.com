@@ -9,7 +9,7 @@ book:
   pages: '583'
   publication_year: '2016'
   series: The Checquy Files
-  series_position: '2016'
+  series_position: '2'
   spine_color: '#7c4440'
   tags: ''
   title: Stiletto

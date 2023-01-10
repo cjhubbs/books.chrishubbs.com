@@ -12,7 +12,7 @@ book:
   series_position: '2009'
   spine_color: '#807a60'
   tags: ''
-  title: 'Joker One: A Marine Platoon\''s Story of Courage, Leadership, and Brotherhood'
+  title: "Joker One: A Marine Platoon's Story of Courage, Leadership, and Brotherhood"
 plan:
   date_added: 2023-01-01
 review:

@@ -9,7 +9,7 @@ book:
   pages: '528'
   publication_year: '2016'
   series: Gabriel Allon
-  series_position: '2016'
+  series_position: '16'
   spine_color: '#160d24'
   tags: ''
   title: The Black Widow

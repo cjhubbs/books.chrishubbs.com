@@ -9,7 +9,7 @@ book:
   pages: '480'
   publication_year: '2010'
   series: Patrick McLanahan
-  series_position: '2010'
+  series_position: '16'
   spine_color: ''
   tags: ''
   title: Executive Intent

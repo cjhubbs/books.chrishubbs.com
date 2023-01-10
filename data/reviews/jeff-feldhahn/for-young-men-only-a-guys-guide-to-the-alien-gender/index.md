@@ -12,7 +12,7 @@ book:
   series_position: '2008'
   spine_color: '#e84a27'
   tags: ''
-  title: 'For Young Men Only: A Guy\''s Guide to the Alien Gender'
+  title: "For Young Men Only: A Guy's Guide to the Alien Gender"
 plan:
   date_added: 2023-01-01
 review:

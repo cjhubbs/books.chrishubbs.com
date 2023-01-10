@@ -9,7 +9,7 @@ book:
   pages: '377'
   publication_year: '2013'
   series: Scot Harvath
-  series_position: '2013'
+  series_position: '12'
   spine_color: '#c82226'
   tags: ''
   title: Hidden Order

@@ -9,7 +9,7 @@ book:
   pages: '364'
   publication_year: '2017'
   series: Wayfarers
-  series_position: '2017'
+  series_position: '2'
   spine_color: '#a5754e'
   tags: ''
   title: A Closed and Common Orbit

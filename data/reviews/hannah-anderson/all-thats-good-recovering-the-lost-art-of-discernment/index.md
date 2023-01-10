@@ -12,7 +12,7 @@ book:
   series_position: '2018'
   spine_color: '#f6b73a'
   tags: ''
-  title: 'All That\''s Good: Recovering the Lost Art of Discernment'
+  title: "All That's Good: Recovering the Lost Art of Discernment"
 plan:
   date_added: 2023-01-01
 review:

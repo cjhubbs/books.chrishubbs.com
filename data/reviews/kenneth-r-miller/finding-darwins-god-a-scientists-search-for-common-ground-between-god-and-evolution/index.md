@@ -12,8 +12,8 @@ book:
   series_position: '2007'
   spine_color: '#7b381c'
   tags: ''
-  title: 'Finding Darwin\''s God: A Scientist\''s Search for Common Ground Between
-    God and Evolution'
+  title: "Finding Darwin's God: A Scientist's Search for Common Ground Between
+    God and Evolution"
 plan:
   date_added: 2023-01-01
 review:

@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: '#f3e609'
   tags: ''
-  title: 'The Signal and the Noise: Why So Many Predictions Fail—But Some Don\''t'
+  title: "The Signal and the Noise: Why So Many Predictions Fail—But Some Don't"
 plan:
   date_added: 2023-01-01
 review:

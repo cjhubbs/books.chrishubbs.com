@@ -12,7 +12,7 @@ book:
   series_position: '2006'
   spine_color: '#2b180b'
   tags: ''
-  title: The Emperor\'s Children
+  title: "The Emperor's Children"
 plan:
   date_added: 2023-01-01
 review:

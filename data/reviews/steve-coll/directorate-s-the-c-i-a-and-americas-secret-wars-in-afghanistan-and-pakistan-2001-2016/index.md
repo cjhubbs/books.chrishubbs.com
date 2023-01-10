@@ -12,8 +12,8 @@ book:
   series_position: '2018'
   spine_color: ''
   tags: ''
-  title: 'Directorate S: The C.I.A. and America\''s Secret Wars in Afghanistan and
-    Pakistan, 2001-2016'
+  title: "Directorate S: The C.I.A. and America's Secret Wars in Afghanistan and
+    Pakistan, 2001-2016"
 plan:
   date_added: 2023-01-01
 review:

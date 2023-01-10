@@ -9,7 +9,7 @@ book:
   pages: '985'
   publication_year: '2010'
   series: The Century Trilogy
-  series_position: '2010'
+  series_position: '1'
   spine_color: ''
   tags: ''
   title: Fall of Giants

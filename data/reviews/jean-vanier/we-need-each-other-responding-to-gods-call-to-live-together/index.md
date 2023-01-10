@@ -12,7 +12,7 @@ book:
   series_position: '2018'
   spine_color: ''
   tags: ''
-  title: 'We Need Each Other: Responding to God\''s Call to Live Together'
+  title: "We Need Each Other: Responding to God's Call to Live Together"
 plan:
   date_added: 2023-01-01
 review:

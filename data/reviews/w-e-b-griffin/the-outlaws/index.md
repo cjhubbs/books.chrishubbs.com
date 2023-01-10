@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2010'
   series: Presidential Agent
-  series_position: '2010'
+  series_position: '6'
   spine_color: '#1078a1'
   tags: ''
   title: The Outlaws

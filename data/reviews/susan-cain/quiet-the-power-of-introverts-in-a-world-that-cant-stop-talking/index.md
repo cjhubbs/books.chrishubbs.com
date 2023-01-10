@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: '#df3227'
   tags: ''
-  title: 'Quiet: The Power of Introverts in a World That Can\''t Stop Talking'
+  title: "Quiet: The Power of Introverts in a World That Can't Stop Talking"
 plan:
   date_added: 2023-01-01
 review:

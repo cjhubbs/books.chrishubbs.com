@@ -12,8 +12,8 @@ book:
   series_position: '2013'
   spine_color: '#48686a'
   tags: ''
-  title: 'Prototype: What Happens When You Discover You\''re More Like Jesus Than
-    You Think?'
+  title: "Prototype: What Happens When You Discover You're More Like Jesus Than
+    You Think?"
 plan:
   date_added: 2023-01-01
 review:

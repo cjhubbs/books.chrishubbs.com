@@ -9,7 +9,7 @@ book:
   pages: '487'
   publication_year: '2012'
   series: Divergent
-  series_position: '2012'
+  series_position: '1'
   spine_color: '#daaf33'
   tags: ''
   title: Divergent

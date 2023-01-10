@@ -9,10 +9,10 @@ book:
   pages: '531'
   publication_year: '2009'
   series: The Cemetery of Forgotten Books
-  series_position: '2009'
+  series_position: '2'
   spine_color: '#b7844e'
   tags: ''
-  title: The Angel\'s Game
+  title: "The Angel's Game"
 plan:
   date_added: 2023-01-01
 review:

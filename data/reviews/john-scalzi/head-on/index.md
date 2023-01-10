@@ -9,7 +9,7 @@ book:
   pages: '335'
   publication_year: '2018'
   series: Lock In
-  series_position: '2018'
+  series_position: '2'
   spine_color: '#685859'
   tags: ''
   title: Head On

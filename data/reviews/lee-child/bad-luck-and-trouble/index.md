@@ -9,7 +9,7 @@ book:
   pages: '378'
   publication_year: '2007'
   series: Jack Reacher
-  series_position: '2007'
+  series_position: '11'
   spine_color: '#c90405'
   tags: ''
   title: Bad Luck and Trouble

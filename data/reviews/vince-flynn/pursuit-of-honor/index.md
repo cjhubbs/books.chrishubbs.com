@@ -9,7 +9,7 @@ book:
   pages: '431'
   publication_year: '2009'
   series: Mitch Rapp
-  series_position: '2009'
+  series_position: '10'
   spine_color: ''
   tags: ''
   title: Pursuit of Honor

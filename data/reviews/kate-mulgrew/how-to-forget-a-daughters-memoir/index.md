@@ -12,7 +12,7 @@ book:
   series_position: '2019'
   spine_color: '#af7433'
   tags: ''
-  title: 'How to Forget: A Daughter\''s Memoir'
+  title: "How to Forget: A Daughter's Memoir"
 plan:
   date_added: 2023-01-01
 review:

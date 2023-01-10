@@ -12,7 +12,7 @@ book:
   series_position: '3'
   spine_color: '#b9d0de'
   tags: ''
-  title: Death\'s End
+  title: "Death's End"
 plan:
   date_added: 2023-01-01
 review:

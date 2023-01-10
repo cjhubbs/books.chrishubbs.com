@@ -12,7 +12,7 @@ book:
   series_position: '2015'
   spine_color: '#98c1d0'
   tags: ''
-  title: 'Dreamland: The True Tale of America\''s Opiate Epidemic'
+  title: "Dreamland: The True Tale of America's Opiate Epidemic"
 plan:
   date_added: 2023-01-01
 review:

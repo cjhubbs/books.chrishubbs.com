@@ -8,7 +8,7 @@ book:
   owned: ''
   pages: '256'
   publication_year: '1977'
-  series: Ender's Saga
+  series: "Ender's Saga"
   series_position: '1'
   spine_color: '#3f616d'
   tags: ''

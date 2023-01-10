@@ -12,7 +12,7 @@ book:
   series_position: '2020'
   spine_color: '#7ba586'
   tags: ''
-  title: A Children\'s Bible
+  title: "A Children's Bible"
 plan:
   date_added: 2023-01-01
 review:

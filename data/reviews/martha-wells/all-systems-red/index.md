@@ -9,7 +9,7 @@ book:
   pages: '144'
   publication_year: '2017'
   series: The Murderbot Diaries
-  series_position: '2017'
+  series_position: '1'
   spine_color: ''
   tags: ''
   title: All Systems Red

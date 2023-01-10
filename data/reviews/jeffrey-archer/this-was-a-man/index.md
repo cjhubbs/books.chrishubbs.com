@@ -9,7 +9,7 @@ book:
   pages: '416'
   publication_year: '2016'
   series: The Clifton Chronicles
-  series_position: '2016'
+  series_position: '7'
   spine_color: '#75472e'
   tags: ''
   title: This Was a Man

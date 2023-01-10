@@ -7,7 +7,7 @@ book:
   isbn9: 0439023513
   owned: ''
   pages: '398'
-  publication_year: '2010'
+  publication_year: '3'
   series: The Hunger Games
   series_position: '2010'
   spine_color: ''

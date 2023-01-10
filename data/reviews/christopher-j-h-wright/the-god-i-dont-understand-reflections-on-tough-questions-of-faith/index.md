@@ -12,7 +12,7 @@ book:
   series_position: '2008'
   spine_color: '#b46a5c'
   tags: ''
-  title: 'The God I Don\''t Understand: Reflections on Tough Questions of Faith'
+  title: "The God I Don't Understand: Reflections on Tough Questions of Faith"
 plan:
   date_added: 2023-01-01
 review:

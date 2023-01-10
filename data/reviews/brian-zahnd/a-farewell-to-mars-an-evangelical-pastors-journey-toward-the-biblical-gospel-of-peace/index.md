@@ -12,8 +12,8 @@ book:
   series_position: '2014'
   spine_color: '#4f221f'
   tags: ''
-  title: 'A Farewell to Mars: An Evangelical Pastor\''s Journey Toward the Biblical
-    Gospel of Peace'
+  title: "A Farewell to Mars: An Evangelical Pastor's Journey Toward the Biblical
+    Gospel of Peace"
 plan:
   date_added: 2023-01-01
 review:

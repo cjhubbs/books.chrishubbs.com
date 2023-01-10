@@ -13,7 +13,7 @@ book:
   spine_color: '#af8b40'
   tags: ''
   title: 'Changing Our Mind: Definitive 3rd Edition of the Landmark Call for Inclusion
-    of Lgbtq Christians with Response to Critics'
+    of LGBTQ Christians with Response to Critics'
 plan:
   date_added: 2023-01-01
 review:

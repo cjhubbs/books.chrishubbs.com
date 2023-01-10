@@ -9,7 +9,7 @@ book:
   pages: '435'
   publication_year: '2010'
   series: Mitch Rapp
-  series_position: '2010'
+  series_position: '11'
   spine_color: ''
   tags: ''
   title: American Assassin

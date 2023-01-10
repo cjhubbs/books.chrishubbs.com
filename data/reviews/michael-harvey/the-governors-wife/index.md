@@ -12,7 +12,7 @@ book:
   series_position: '2015'
   spine_color: '#9a9891'
   tags: ''
-  title: The Governor\'s Wife
+  title: "The Governor's Wife"
 plan:
   date_added: 2023-01-01
 review:

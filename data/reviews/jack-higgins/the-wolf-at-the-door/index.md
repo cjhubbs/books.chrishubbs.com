@@ -8,8 +8,8 @@ book:
   owned: ''
   pages: '306'
   publication_year: '2010'
-  series: Sean Dillion
-  series_position: '2010'
+  series: Sean Dillon
+  series_position: '17'
   spine_color: '#b06c40'
   tags: ''
   title: The Wolf at the Door

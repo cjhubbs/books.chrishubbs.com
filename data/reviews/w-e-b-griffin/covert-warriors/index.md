@@ -9,7 +9,7 @@ book:
   pages: '384'
   publication_year: '2011'
   series: Presidential Agent
-  series_position: '2011'
+  series_position: '7'
   spine_color: '#b6682c'
   tags: ''
   title: Covert Warriors

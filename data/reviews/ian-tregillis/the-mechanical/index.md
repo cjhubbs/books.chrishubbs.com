@@ -9,7 +9,7 @@ book:
   pages: '440'
   publication_year: '2015'
   series: The Alchemy Wars
-  series_position: '2015'
+  series_position: '1'
   spine_color: '#cc2e32'
   tags: ''
   title: The Mechanical

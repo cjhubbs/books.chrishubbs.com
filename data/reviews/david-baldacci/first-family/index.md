@@ -9,7 +9,7 @@ book:
   pages: '449'
   publication_year: '2009'
   series: Sean King & Michelle Maxwell
-  series_position: '2009'
+  series_position: '4'
   spine_color: ''
   tags: ''
   title: First Family

@@ -9,7 +9,7 @@ book:
   pages: '331'
   publication_year: '2009'
   series: The Wingfeather Saga
-  series_position: '2009'
+  series_position: '2'
   spine_color: '#561e1a'
   tags: ''
   title: North! or Be Eaten

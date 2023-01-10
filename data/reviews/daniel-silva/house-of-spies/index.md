@@ -9,7 +9,7 @@ book:
   pages: '526'
   publication_year: '2017'
   series: Gabriel Allon
-  series_position: '2017'
+  series_position: '17'
   spine_color: '#a69529'
   tags: ''
   title: House of Spies

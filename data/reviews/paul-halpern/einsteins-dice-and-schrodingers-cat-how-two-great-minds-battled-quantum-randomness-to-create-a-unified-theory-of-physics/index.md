@@ -12,8 +12,8 @@ book:
   series_position: '2015'
   spine_color: '#f1b64e'
   tags: ''
-  title: 'Einstein\''s Dice and Schrödinger\''s Cat: How Two Great Minds Battled Quantum
-    Randomness to Create a Unified Theory of Physics'
+  title: "Einstein's Dice and Schrödinger's Cat: How Two Great Minds Battled Quantum
+    Randomness to Create a Unified Theory of Physics"
 plan:
   date_added: 2023-01-01
 review:

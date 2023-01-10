@@ -9,7 +9,7 @@ book:
   pages: '385'
   publication_year: '2012'
   series: Kathryn Dance
-  series_position: '2012'
+  series_position: '3'
   spine_color: ''
   tags: ''
   title: XO

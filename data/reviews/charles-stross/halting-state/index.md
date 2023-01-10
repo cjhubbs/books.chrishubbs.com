@@ -9,7 +9,7 @@ book:
   pages: '324'
   publication_year: '2008'
   series: Halting State
-  series_position: '2008'
+  series_position: '1'
   spine_color: '#b3b487'
   tags: ''
   title: Halting State

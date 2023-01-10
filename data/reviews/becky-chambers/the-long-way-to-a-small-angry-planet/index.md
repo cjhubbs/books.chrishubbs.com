@@ -9,7 +9,7 @@ book:
   pages: '443'
   publication_year: '2016'
   series: Wayfarers
-  series_position: '2016'
+  series_position: '1'
   spine_color: '#cad599'
   tags: ''
   title: The Long Way to a Small, Angry Planet

@@ -9,7 +9,7 @@ book:
   pages: '944'
   publication_year: '2009'
   series: Honor Bound
-  series_position: '2009'
+  series_position: '5'
   spine_color: '#ece51a'
   tags: ''
   title: The Honor of Spies

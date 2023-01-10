@@ -9,7 +9,7 @@ book:
   pages: '406'
   publication_year: '2012'
   series: Gabriel Allon
-  series_position: '2012'
+  series_position: '12'
   spine_color: '#c5bba2'
   tags: ''
   title: The Fallen Angel

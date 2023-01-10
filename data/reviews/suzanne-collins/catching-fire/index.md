@@ -9,7 +9,7 @@ book:
   pages: '391'
   publication_year: '2009'
   series: The Hunger Games
-  series_position: '2009'
+  series_position: '2'
   spine_color: '#c4532b'
   tags: ''
   title: Catching Fire

@@ -9,7 +9,7 @@ book:
   pages: '358'
   publication_year: '2009'
   series: Scot Harvath
-  series_position: '2009'
+  series_position: '8'
   spine_color: '#892f29'
   tags: ''
   title: The Apostle

@@ -9,7 +9,7 @@ book:
   pages: '486'
   publication_year: '2012'
   series: The Checquy Files
-  series_position: '2012'
+  series_position: '1'
   spine_color: '#a9081d'
   tags: ''
   title: The Rook

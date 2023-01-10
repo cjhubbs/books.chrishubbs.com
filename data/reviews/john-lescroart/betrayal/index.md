@@ -9,7 +9,7 @@ book:
   pages: '422'
   publication_year: '2008'
   series: Dismas Hardy
-  series_position: '2008'
+  series_position: '12'
   spine_color: '#bf312f'
   tags: ''
   title: Betrayal

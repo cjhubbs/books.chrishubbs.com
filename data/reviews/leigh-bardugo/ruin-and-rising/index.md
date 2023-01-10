@@ -9,7 +9,7 @@ book:
   pages: '422'
   publication_year: '2014'
   series: The Shadow and Bone Trilogy
-  series_position: '2014'
+  series_position: '3'
   spine_color: ''
   tags: ''
   title: Ruin and Rising

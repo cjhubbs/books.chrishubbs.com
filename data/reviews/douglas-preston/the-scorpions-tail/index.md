@@ -12,7 +12,7 @@ book:
   series_position: '2021'
   spine_color: '#ac2d29'
   tags: ''
-  title: The Scorpion\'s Tail
+  title: "The Scorpion's Tail"
 plan:
   date_added: 2023-01-01
 review:

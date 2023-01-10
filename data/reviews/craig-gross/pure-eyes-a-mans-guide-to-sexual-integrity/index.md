@@ -12,7 +12,7 @@ book:
   series_position: '2010'
   spine_color: '#423c37'
   tags: ''
-  title: 'Pure Eyes: A Man\''s Guide to Sexual Integrity'
+  title: "Pure Eyes: A Man's Guide to Sexual Integrity"
 plan:
   date_added: 2023-01-01
 review:

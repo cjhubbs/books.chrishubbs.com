@@ -12,7 +12,7 @@ book:
   series_position: '1988'
   spine_color: '#9fb48f'
   tags: ''
-  title: 'The Fatal Shore: The Epic of Australia\''s Founding'
+  title: "The Fatal Shore: The Epic of Australia's Founding"
 plan:
   date_added: 2023-01-01
 review:

@@ -9,7 +9,7 @@ book:
   pages: '337'
   publication_year: '2014'
   series: Lock In
-  series_position: '2014'
+  series_position: '1'
   spine_color: ''
   tags: ''
   title: Lock In

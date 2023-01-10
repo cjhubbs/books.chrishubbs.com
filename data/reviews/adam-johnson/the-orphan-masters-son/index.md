@@ -12,7 +12,7 @@ book:
   series_position: '2012'
   spine_color: '#e37247'
   tags: ''
-  title: The Orphan Master\'s Son
+  title: "The Orphan Master's Son"
 plan:
   date_added: 2023-01-01
 review:

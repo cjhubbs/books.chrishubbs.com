@@ -9,7 +9,7 @@ book:
   pages: '368'
   publication_year: '2012'
   series: The First Formic War
-  series_position: '2012'
+  series_position: '1'
   spine_color: '#826764'
   tags: ''
   title: Earth Unaware

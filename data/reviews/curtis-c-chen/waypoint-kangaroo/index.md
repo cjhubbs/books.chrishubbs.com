@@ -9,7 +9,7 @@ book:
   pages: '320'
   publication_year: '2016'
   series: Kangaroo
-  series_position: '2016'
+  series_position: '1'
   spine_color: '#d75d5b'
   tags: ''
   title: Waypoint Kangaroo

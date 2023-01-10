@@ -12,7 +12,7 @@ book:
   series_position: '2014'
   spine_color: '#be9f9c'
   tags: ''
-  title: Look Who\'s Back
+  title: "Look Who's Back"
 plan:
   date_added: 2023-01-01
 review:

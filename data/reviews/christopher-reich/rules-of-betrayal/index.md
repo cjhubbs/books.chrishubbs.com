@@ -9,7 +9,7 @@ book:
   pages: '372'
   publication_year: '2010'
   series: Jonathan Ransom
-  series_position: '2010'
+  series_position: '3'
   spine_color: '#1c5588'
   tags: ''
   title: Rules of Betrayal

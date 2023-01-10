@@ -12,7 +12,7 @@ book:
   series_position: '2013'
   spine_color: ''
   tags: ''
-  title: 'Jesus Feminist: An Invitation to Revisit the Bible\''s View of Women'
+  title: "Jesus Feminist: An Invitation to Revisit the Bible's View of Women"
 plan:
   date_added: 2023-01-01
 review:

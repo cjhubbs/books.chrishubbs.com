@@ -9,7 +9,7 @@ book:
   pages: '356'
   publication_year: '2011'
   series: Pendergast
-  series_position: '2011'
+  series_position: '11'
   spine_color: ''
   tags: ''
   title: Cold Vengeance

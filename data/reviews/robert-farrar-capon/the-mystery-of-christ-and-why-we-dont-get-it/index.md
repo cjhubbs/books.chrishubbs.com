@@ -12,7 +12,7 @@ book:
   series_position: '1993'
   spine_color: '#4b5c92'
   tags: ''
-  title: The Mystery of Christ . . . and Why We Don\'t Get It
+  title: "The Mystery of Christ... and Why We Don't Get It"
 plan:
   date_added: 2023-01-01
 review:

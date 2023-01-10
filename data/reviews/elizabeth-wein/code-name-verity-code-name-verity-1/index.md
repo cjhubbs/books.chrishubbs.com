@@ -8,11 +8,11 @@ book:
   owned: ''
   pages: '343'
   publication_year: '2012'
-  series: ''
-  series_position: '2012'
+  series: 'Code Name Verity'
+  series_position: '1'
   spine_color: '#c4aa8f'
   tags: ''
-  title: 'Code Name Verity (Code Name Verity #1)'
+  title: 'Code Name Verity'
 plan:
   date_added: 2023-01-01
 review:

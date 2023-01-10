@@ -9,7 +9,7 @@ book:
   pages: '358'
   publication_year: '2012'
   series: The Shadow and Bone Trilogy
-  series_position: '2012'
+  series_position: '1'
   spine_color: ''
   tags: ''
   title: Shadow and Bone

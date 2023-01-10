@@ -12,7 +12,7 @@ book:
   series_position: '2010'
   spine_color: '#af4742'
   tags: ''
-  title: 'Being Geek: The Software Developer\''s Career Handbook'
+  title: "Being Geek: The Software Developer's Career Handbook"
 plan:
   date_added: 2023-01-01
 review:

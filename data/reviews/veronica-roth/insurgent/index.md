@@ -9,7 +9,7 @@ book:
   pages: '525'
   publication_year: '2012'
   series: Divergent
-  series_position: '2012'
+  series_position: '2'
   spine_color: ''
   tags: ''
   title: Insurgent

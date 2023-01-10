@@ -9,7 +9,7 @@ book:
   pages: '383'
   publication_year: '2010'
   series: Jack Reacher
-  series_position: '2010'
+  series_position: '14'
   spine_color: '#7eb4d6'
   tags: ''
   title: 61 Hours

@@ -12,7 +12,7 @@ book:
   series_position: '2014'
   spine_color: '#b0956e'
   tags: ''
-  title: The Fiddler\'s Gun
+  title: "The Fiddler's Gun"
 plan:
   date_added: 2023-01-01
 review:

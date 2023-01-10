@@ -12,8 +12,8 @@ book:
   series_position: '2004'
   spine_color: '#9f8376'
   tags: ''
-  title: 'Scalia Dissents: Writings of the Supreme Court\''s Wittiest, Most Outspoken
-    Justice'
+  title: "Scalia Dissents: Writings of the Supreme Court's Wittiest, Most Outspoken
+    Justice"
 plan:
   date_added: 2023-01-01
 review:

@@ -9,7 +9,7 @@ book:
   pages: '480'
   publication_year: '2015'
   series: The Alchemy Wars
-  series_position: '2015'
+  series_position: '2'
   spine_color: '#0e8acb'
   tags: ''
   title: The Rising

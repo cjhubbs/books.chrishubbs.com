@@ -12,8 +12,8 @@ book:
   series_position: '2017'
   spine_color: '#2d60a2'
   tags: ''
-  title: 'My Grandmother\''s Hands: Racialized Trauma and the Mending of Our Bodies
-    and Hearts'
+  title: "My Grandmother's Hands: Racialized Trauma and the Mending of Our Bodies
+    and Hearts"
 plan:
   date_added: 2023-01-01
 review:

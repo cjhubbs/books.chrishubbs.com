@@ -12,7 +12,7 @@ book:
   series_position: '2011'
   spine_color: ''
   tags: ''
-  title: 'Inside Scientology: The Story of America\''s Most Secretive Religion'
+  title: "Inside Scientology: The Story of America's Most Secretive Religion"
 plan:
   date_added: 2023-01-01
 review:

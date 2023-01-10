@@ -9,7 +9,7 @@ book:
   pages: '373'
   publication_year: '2013'
   series: The Clifton Chronicles
-  series_position: '2013'
+  series_position: '3'
   spine_color: '#603c40'
   tags: ''
   title: Best Kept Secret

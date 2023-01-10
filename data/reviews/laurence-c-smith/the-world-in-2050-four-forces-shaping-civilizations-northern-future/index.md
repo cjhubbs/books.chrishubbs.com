@@ -12,7 +12,7 @@ book:
   series_position: '2010'
   spine_color: ''
   tags: ''
-  title: 'The World in 2050: Four Forces Shaping Civilization\''s Northern Future'
+  title: "The World in 2050: Four Forces Shaping Civilization's Northern Future"
 plan:
   date_added: 2023-01-01
 review:

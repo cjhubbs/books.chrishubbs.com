@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2007'
   series: Patrick McLanahan
-  series_position: '2007'
+  series_position: '13'
   spine_color: '#475772'
   tags: ''
   title: Strike Force

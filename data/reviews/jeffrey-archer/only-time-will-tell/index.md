@@ -9,7 +9,7 @@ book:
   pages: '386'
   publication_year: '2011'
   series: The Clifton Chronicles
-  series_position: '2011'
+  series_position: '1'
   spine_color: '#6996a6'
   tags: ''
   title: Only Time Will Tell

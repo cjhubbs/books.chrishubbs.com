@@ -12,7 +12,7 @@ book:
   series_position: '2011'
   spine_color: '#b0302c'
   tags: ''
-  title: 'Against Calvinism: Rescuing God\''s Reputation from Radical Reformed Theology'
+  title: "Against Calvinism: Rescuing God's Reputation from Radical Reformed Theology"
 plan:
   date_added: 2023-01-01
 review:

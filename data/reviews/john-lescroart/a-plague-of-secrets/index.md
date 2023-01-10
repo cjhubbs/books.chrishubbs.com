@@ -9,7 +9,7 @@ book:
   pages: '413'
   publication_year: '2009'
   series: Dismas Hardy
-  series_position: '2009'
+  series_position: '13'
   spine_color: '#b7cd66'
   tags: ''
   title: A Plague of Secrets

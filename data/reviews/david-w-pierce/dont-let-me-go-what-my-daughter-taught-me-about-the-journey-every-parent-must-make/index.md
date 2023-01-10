@@ -12,8 +12,8 @@ book:
   series_position: '2009'
   spine_color: '#9b8b6e'
   tags: ''
-  title: 'Don\''t Let Me Go: What My Daughter Taught Me about the Journey Every Parent
-    Must Make'
+  title: "Don't Let Me Go: What My Daughter Taught Me about the Journey Every Parent
+    Must Make"
 plan:
   date_added: 2023-01-01
 review:

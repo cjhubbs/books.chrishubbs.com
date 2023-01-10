@@ -12,7 +12,7 @@ book:
   series_position: '2007'
   spine_color: '#3c6788'
   tags: ''
-  title: Volk\'s Game
+  title: "Volk's Game"
 plan:
   date_added: 2023-01-01
 review:

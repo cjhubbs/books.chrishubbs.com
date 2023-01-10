@@ -9,7 +9,7 @@ book:
   pages: '290'
   publication_year: '2008'
   series: The Wingfeather Saga
-  series_position: '2008'
+  series_position: '1'
   spine_color: '#9fb7bc'
   tags: ''
   title: On the Edge of the Dark Sea of Darkness

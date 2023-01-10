@@ -12,8 +12,8 @@ book:
   series_position: '2005'
   spine_color: ''
   tags: ''
-  title: 'Kepler\''s Witch: An Astronomer\''s Discovery of Cosmic Order Amid Religious
-    War, Political Intrigue, and the Heresy Trial of His Mother'
+  title: "Kepler's Witch: An Astronomer's Discovery of Cosmic Order Amid Religious
+    War, Political Intrigue, and the Heresy Trial of His Mother"
 plan:
   date_added: 2023-01-01
 review:

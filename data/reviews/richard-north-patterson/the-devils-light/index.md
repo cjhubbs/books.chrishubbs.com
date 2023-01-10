@@ -12,7 +12,7 @@ book:
   series_position: '2011'
   spine_color: '#8c643d'
   tags: ''
-  title: The Devil\'s Light
+  title: "The Devil's Light"
 plan:
   date_added: 2023-01-01
 review:

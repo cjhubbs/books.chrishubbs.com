@@ -9,7 +9,7 @@ book:
   pages: '480'
   publication_year: '2008'
   series: Honor Bound
-  series_position: '2008'
+  series_position: '4'
   spine_color: '#b63330'
   tags: ''
   title: Death and Honor

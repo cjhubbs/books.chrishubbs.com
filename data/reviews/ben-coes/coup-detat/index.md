@@ -8,11 +8,11 @@ book:
   owned: ''
   pages: '466'
   publication_year: '2011'
-  series: Dewey Andreas
-  series_position: '2011'
+  series: 'Dewey Andreas'
+  series_position: '2'
   spine_color: '#235287'
   tags: ''
-  title: Coup d\'Etat
+  title: "Coup d'Etat"
 plan:
   date_added: 2023-01-01
 review:

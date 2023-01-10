@@ -12,8 +12,8 @@ book:
   series_position: '2008'
   spine_color: '#c1a489'
   tags: ''
-  title: 'A Romance on Three Legs: Glenn Gould\''s Obsessive Quest for the Perfect
-    Piano'
+  title: "A Romance on Three Legs: Glenn Gould's Obsessive Quest for the Perfect
+    Piano"
 plan:
   date_added: 2023-01-01
 review:

@@ -12,7 +12,7 @@ book:
   series_position: '2009'
   spine_color: '#d69338'
   tags: ''
-  title: 'A People\''s History of Christianity: The Other Side of the Story'
+  title: "A People's History of Christianity: The Other Side of the Story"
 plan:
   date_added: 2023-01-01
 review:

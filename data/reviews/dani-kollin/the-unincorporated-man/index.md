@@ -9,7 +9,7 @@ book:
   pages: '479'
   publication_year: '2009'
   series: Unincorporated Man
-  series_position: '2009'
+  series_position: '1'
   spine_color: '#6885a3'
   tags: ''
   title: The Unincorporated Man

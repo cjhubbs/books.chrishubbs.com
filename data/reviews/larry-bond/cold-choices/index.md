@@ -9,7 +9,7 @@ book:
   pages: '16'
   publication_year: '2009'
   series: Jerry Mitchell
-  series_position: '2009'
+  series_position: '2'
   spine_color: ''
   tags: ''
   title: Cold Choices

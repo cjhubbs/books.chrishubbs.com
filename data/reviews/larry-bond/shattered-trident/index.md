@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2013'
   series: Jerry Mitchell
-  series_position: '2013'
+  series_position: '4'
   spine_color: '#563849'
   tags: ''
   title: Shattered Trident

@@ -9,7 +9,7 @@ book:
   pages: '435'
   publication_year: '2009'
   series: Pendergast
-  series_position: '2009'
+  series_position: '9'
   spine_color: '#af9f5c'
   tags: ''
   title: Cemetery Dance

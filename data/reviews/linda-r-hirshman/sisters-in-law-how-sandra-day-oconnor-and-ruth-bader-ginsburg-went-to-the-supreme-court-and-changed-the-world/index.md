@@ -12,8 +12,8 @@ book:
   series_position: '2015'
   spine_color: '#bc2941'
   tags: ''
-  title: 'Sisters in Law: How Sandra Day O\''Connor and Ruth Bader Ginsburg Went to
-    the Supreme Court and Changed the World'
+  title: "Sisters in Law: How Sandra Day O'Connor and Ruth Bader Ginsburg Went to
+    the Supreme Court and Changed the World"
 plan:
   date_added: 2023-01-01
 review:

@@ -9,7 +9,7 @@ book:
   pages: '359'
   publication_year: '2018'
   series: Pendergast
-  series_position: '2018'
+  series_position: '18'
   spine_color: '#167ba8'
   tags: ''
   title: City of Endless Night

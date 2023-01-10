@@ -9,7 +9,7 @@ book:
   pages: '437'
   publication_year: '2010'
   series: John Corey
-  series_position: '2010'
+  series_position: '5'
   spine_color: ''
   tags: ''
   title: The Lion
