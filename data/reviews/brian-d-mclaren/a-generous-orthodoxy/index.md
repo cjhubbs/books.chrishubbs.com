@@ -12,7 +12,11 @@ book:
   series_position: '2004'
   spine_color: '#5d483b'
   tags: ''
+<<<<<<< HEAD
   title: A Generous Orthodoxy
+=======
+  title: 'A Generous Orthodoxy'
+>>>>>>> 674be2916847d2b61ac7262e6170a099d3d12f3a
 plan:
   date_added: 2023-01-01
 review:
