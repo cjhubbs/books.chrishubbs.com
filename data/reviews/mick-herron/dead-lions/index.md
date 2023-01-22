@@ -6,8 +6,8 @@ book:
   owned: false
   pages: '0'
   publication_year: '2014'
-  series: ''
-  series_position: ''
+  series: Slough House
+  series_position: '2'
   spine_color: '#e28f61'
   tags: ''
   title: Dead Lions

@@ -9,7 +9,7 @@ book:
   pages: '408'
   publication_year: '2020'
   series: Slough House
-  series_position: '2020'
+  series_position: '1'
   spine_color: '#dcda22'
   tags: ''
   title: Slow Horses
