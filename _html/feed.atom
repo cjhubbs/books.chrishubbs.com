@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-02-06T00:00:00Z</updated>
+  <updated>2023-02-07T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Passenger</title>
+      <link href="https://books.chrishubbs.com/cormac-mccarthy/the-passenger/" rel="alternate"/>
+      <id>urn:uuid:b61d1292-d24a-8a8c-00a4-653383e74f1a</id>
+      <updated>2023-02-07T00:00:00Z</updated>
+      <content type="html">I finished reading The Passenger by Cormac McCarthy.
+
+        
+
+        
+
+        &lt;p&gt;On one hand, it feels like if I&amp;rsquo;m not rating a McCarthy book highly, it&amp;rsquo;s a shortcoming on my part, not his. And yet it doens&amp;rsquo;t feel like top-tier McCarthy. Still distinctly his voice, but not quite in the tier of his classics.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Heretic</title>
       <link href="https://books.chrishubbs.com/jeanna-kadlec/heretic/" rel="alternate"/>
       <id>urn:uuid:bcea221f-bd84-b4d6-1a72-fd3dd4096299</id>
@@ -309,22 +325,6 @@
       <id>urn:uuid:7ac349db-a474-4695-1f3b-72d05652e2c5</id>
       <updated>2022-10-11T00:00:00Z</updated>
       <content type="html">I finished reading Sea of Tranquility by Emily St. John Mandel.
-
-        
-
-        
-
-        
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Coffin Dancer</title>
-      <link href="https://books.chrishubbs.com/jeffery-deaver/the-coffin-dancer/" rel="alternate"/>
-      <id>urn:uuid:73a384f3-8f1c-e06b-1cdf-916d289f2afc</id>
-      <updated>2022-10-02T00:00:00Z</updated>
-      <content type="html">I finished reading The Coffin Dancer by Jeffery Deaver.
 
         
 
