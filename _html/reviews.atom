@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-02-17T00:00:00Z</updated>
+  <updated>2023-02-18T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Peaceable Kingdom</title>
+      <link href="https://books.chrishubbs.com/stanley-hauerwas/the-peaceable-kingdom/" rel="alternate"/>
+      <id>urn:uuid:77f8cf59-0f43-b8fa-23bf-c410aecc490d</id>
+      <updated>2023-02-18T00:00:00Z</updated>
+      <content type="html">I finished reading The Peaceable Kingdom by Stanley Hauerwas.
+
+        
+
+        
+
+        &lt;p&gt;Maybe it&amp;rsquo;s just a bit dated, but Hauerwas seems most focused here on non-violence among all the Christian ethic, and his heavy reliance on Yoder feels painful given what we now know about Yoder&amp;rsquo;s personal conduct.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Sanctifying Interpretation</title>
       <link href="https://books.chrishubbs.com/chris-e-w-green/sanctifying-interpretation/" rel="alternate"/>
       <id>urn:uuid:394509d2-14e1-9fcd-be43-98b58a6c5f77</id>
@@ -310,22 +326,6 @@
       <id>urn:uuid:23b5a894-876b-08a9-93e5-44cb760d6803</id>
       <updated>2022-10-15T00:00:00Z</updated>
       <content type="html">I finished reading A Prayer for the Crown-Shy by Becky Chambers.
-
-        
-
-        
-
-        
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Small Things Like These</title>
-      <link href="https://books.chrishubbs.com/claire-keegan/small-things-like-these/" rel="alternate"/>
-      <id>urn:uuid:4abfea34-68a4-f7bd-fac5-58831781a2d6</id>
-      <updated>2022-10-13T00:00:00Z</updated>
-      <content type="html">I finished reading Small Things Like These by Claire Keegan.
 
         
 
