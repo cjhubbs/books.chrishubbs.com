@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-02-18T00:00:00Z</updated>
+  <updated>2023-02-19T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Three-Body Problem</title>
+      <link href="https://books.chrishubbs.com/liu-cixin/the-three-body-problem/" rel="alternate"/>
+      <id>urn:uuid:48ccab7e-34a3-e56a-85be-fdb10754b278</id>
+      <updated>2023-02-19T00:00:00Z</updated>
+      <content type="html">I finished reading The Three-Body Problem by Liu Cixin.
+
+        
+
+        
+
+        &lt;p&gt;On re-read: still one of the most inventive sci-fi books I&amp;rsquo;ve read. Liu explores what interaction with an alien race of immense technology might be like, working at the quantum level as well as the interstellar. The first half of the book struggles to get going, but once the reveal happens and the book includes the alien civilization, the story comes alive.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Peaceable Kingdom</title>
       <link href="https://books.chrishubbs.com/stanley-hauerwas/the-peaceable-kingdom/" rel="alternate"/>
       <id>urn:uuid:77f8cf59-0f43-b8fa-23bf-c410aecc490d</id>
@@ -37,22 +53,6 @@
 
         &lt;p&gt;One of the most helpful theological books I&amp;rsquo;ve read in a long time. Green looks first at the Christian vocation for the sake of others, then at how Christians are called to holiness, and only then finally to how the Scripture may be interpreted in a way that works holiness within us for the sake of others.&lt;/p&gt;
 &lt;p&gt;Really rich stuff, so much to chew on.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Three-Body Problem</title>
-      <link href="https://books.chrishubbs.com/liu-cixin/the-three-body-problem/" rel="alternate"/>
-      <id>urn:uuid:f1607a7f-31a9-56da-5092-cf8a93e2371d</id>
-      <updated>2023-02-14T00:00:00Z</updated>
-      <content type="html">I finished reading The Three-Body Problem by Liu Cixin.
-
-        
-
-        
-
-        &lt;p&gt;On re-read: still one of the most inventive sci-fi books I&amp;rsquo;ve read. Liu explores what interaction with an alien race of immense technology might be like, working at the quantum level as well as the interstellar. The first half of the book struggles to get going, but once the reveal happens and the book includes the alien civilization, the story comes alive.&lt;/p&gt;
 
         
         

@@ -18,7 +18,7 @@ plan:
 review:
   date_read:
   - 2015-08-27
-  - 2023-02-14
+  - 2023-02-19
   rating: 4
 ---
 On re-read: still one of the most inventive sci-fi books I've read. Liu explores what interaction with an alien race of immense technology might be like, working at the quantum level as well as the interstellar. The first half of the book struggles to get going, but once the reveal happens and the book includes the alien civilization, the story comes alive.
