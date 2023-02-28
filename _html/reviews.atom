@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-02-25T00:00:00Z</updated>
+  <updated>2023-02-28T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Fundamentals of Software Architecture</title>
+      <link href="https://books.chrishubbs.com/neal-ford/fundamentals-of-software-architecture/" rel="alternate"/>
+      <id>urn:uuid:890ffe57-3f94-ea91-eb98-69d4fde9829a</id>
+      <updated>2023-02-28T00:00:00Z</updated>
+      <content type="html">I finished reading Fundamentals of Software Architecture by Neal Ford.
+
+        
+
+        
+
+        &lt;p&gt;A little bit of work reading. A great summary of common software architecture patterns, their strengths and weaknesses.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Unmasking Autism</title>
       <link href="https://books.chrishubbs.com/devon-price/unmasking-autism/" rel="alternate"/>
       <id>urn:uuid:5c2003f5-ab71-e9da-faca-bb4afe35a5eb</id>
@@ -310,22 +326,6 @@
       <id>urn:uuid:8a35b750-452d-d7c4-18c6-a9a008278631</id>
       <updated>2022-11-24T00:00:00Z</updated>
       <content type="html">I finished reading Strangers in Their Own Land: Anger and Mourning on the American Right by Arlie Russell Hochschild.
-
-        
-
-        
-
-        
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Changing Our Mind: Definitive 3rd Edition of the Landmark Call for Inclusion of LGBTQ Christians with Response to Critics</title>
-      <link href="https://books.chrishubbs.com/david-p-gushee/changing-our-mind-definitive-3rd-edition-of-the-landmark-call-for-inclusion-of-lgbtq-christians-with-response-to-critics/" rel="alternate"/>
-      <id>urn:uuid:6d8decc2-09a3-4a13-e66c-4079daac2c67</id>
-      <updated>2022-11-20T00:00:00Z</updated>
-      <content type="html">I finished reading Changing Our Mind: Definitive 3rd Edition of the Landmark Call for Inclusion of LGBTQ Christians with Response to Critics by David P. Gushee.
 
         
 
