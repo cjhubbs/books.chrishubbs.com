@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-03-10T00:00:00Z</updated>
+  <updated>2023-03-11T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>A Hidden Wholeness</title>
+      <link href="https://books.chrishubbs.com/parker-j-palmer/a-hidden-wholeness/" rel="alternate"/>
+      <id>urn:uuid:45d49299-ea2d-35ed-9227-c3845eb04f47</id>
+      <updated>2023-03-11T00:00:00Z</updated>
+      <content type="html">I finished reading A Hidden Wholeness by Parker J. Palmer.
+
+        
+
+        
+
+        &lt;p&gt;Palmer sharing his wisdom and practical principles for operating a &amp;lsquo;circle of trust&amp;rsquo; - a principle where a small group of people care for each other primarily through quiet, acceptance, non-judgment, and loving, non-leading questions. An idea that speaks profoundly to me. Palmer makes me want to find and attend a Quaker meeting.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Not All Who Wander (Spiritually) Are Lost</title>
       <link href="https://books.chrishubbs.com/traci-rhoades/not-all-who-wander-spiritually-are-lost/" rel="alternate"/>
       <id>urn:uuid:08a1202b-7582-09a6-ffcf-9dc70518b5a3</id>
@@ -314,22 +330,6 @@
         
 
         &lt;p&gt;A thick book, Dr. Renn spends most of the time overviewing how human knowledge has accumulated over time. He spends frustratingly little time theorizing how those insights might lead us to think about the future. The &amp;ldquo;future&amp;rdquo; part is only about 15 pages at the end. I&amp;rsquo;m glad I read it just to stretch my brain, but I didn&amp;rsquo;t come away from it with any deep thoughts about the future.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Out of the Embers</title>
-      <link href="https://books.chrishubbs.com/bradley-jersak/out-of-the-embers/" rel="alternate"/>
-      <id>urn:uuid:63ca7771-d7d2-2438-8e99-9139c22aff94</id>
-      <updated>2023-01-14T00:00:00Z</updated>
-      <content type="html">I finished reading Out of the Embers by Bradley Jersak.
-
-        
-
-        
-
-        &lt;p&gt;Jersak describes the experience of spiritual deconstruction and the path through it to something better in gracious, loving terms. Rich in grace and wisdom, filled with the assurance of God&amp;rsquo;s love, Jersak encourages those going through deconstruction to consider the words of (among others) Doystoevski and Simone Weil. The strongest bits of the book, though, are the first and third sections where he speaks pastorally to the challenged. Wonderful stuff.&lt;/p&gt;
 
         
         
