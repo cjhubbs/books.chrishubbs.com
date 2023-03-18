@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-03-11T00:00:00Z</updated>
+  <updated>2023-03-18T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>A Closed and Common Orbit</title>
+      <link href="https://books.chrishubbs.com/becky-chambers/a-closed-and-common-orbit/" rel="alternate"/>
+      <id>urn:uuid:e2fa27fd-44ce-c431-02d1-c091a53cfbde</id>
+      <updated>2023-03-18T00:00:00Z</updated>
+      <content type="html">I finished reading A Closed and Common Orbit by Becky Chambers.
+
+        
+
+        
+
+        &lt;p&gt;Really should be 4.5 stars. Even more enjoyable than the first book in the series.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>A Hidden Wholeness</title>
       <link href="https://books.chrishubbs.com/parker-j-palmer/a-hidden-wholeness/" rel="alternate"/>
       <id>urn:uuid:45d49299-ea2d-35ed-9227-c3845eb04f47</id>
@@ -314,22 +330,6 @@
         
 
         &lt;p&gt;Second book in the series, similar to the first. A little bit oblique, written with a little more style than your usual pop spy novel.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Evolution of Knowledge</title>
-      <link href="https://books.chrishubbs.com/jurgen-renn/the-evolution-of-knowledge/" rel="alternate"/>
-      <id>urn:uuid:fc87853e-9c23-443c-34be-a2587b205597</id>
-      <updated>2023-01-17T00:00:00Z</updated>
-      <content type="html">I finished reading The Evolution of Knowledge by Jürgen Renn.
-
-        
-
-        
-
-        &lt;p&gt;A thick book, Dr. Renn spends most of the time overviewing how human knowledge has accumulated over time. He spends frustratingly little time theorizing how those insights might lead us to think about the future. The &amp;ldquo;future&amp;rdquo; part is only about 15 pages at the end. I&amp;rsquo;m glad I read it just to stretch my brain, but I didn&amp;rsquo;t come away from it with any deep thoughts about the future.&lt;/p&gt;
 
         
         
