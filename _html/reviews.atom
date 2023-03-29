@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-03-22T00:00:00Z</updated>
+  <updated>2023-03-27T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Record of a Spaceborn Few</title>
+      <link href="https://books.chrishubbs.com/becky-chambers/record-of-a-spaceborn-few/" rel="alternate"/>
+      <id>urn:uuid:3d6f60d8-fc50-7acb-702e-9dd34e0a284b</id>
+      <updated>2023-03-27T00:00:00Z</updated>
+      <content type="html">I finished reading Record of a Spaceborn Few by Becky Chambers.
+
+        
+
+        
+
+        &lt;p&gt;Becky Chambers invents a universe I would want to live in, and populates it with sympathetic, kind characters. In a genre that frequently gets dark and dystopian, she writes hopeful fiction. I need more of that.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Technology Trap</title>
       <link href="https://books.chrishubbs.com/carl-benedikt-frey/the-technology-trap/" rel="alternate"/>
       <id>urn:uuid:7ffb7ee8-2e9c-19eb-a218-b99a61cdd243</id>
@@ -315,22 +331,6 @@
 
         &lt;p&gt;This book tried to be too long with too little source material. The author (a British journalist) was working from 3 short books written by primary characters in the story, and with so little material he leaves us with nothing about Baker&amp;rsquo;s life before or after the war, and gives us large swaths of WWII history that have little to do with Baker.&lt;/p&gt;
 &lt;p&gt;I get the sense from the book that Josephine Baker was a remarkable woman, and I&amp;rsquo;d like to read a better biography of her.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>On The Soul and the Resurrection</title>
-      <link href="https://books.chrishubbs.com/saint-gregory-of-nyssa/on-the-soul-and-the-resurrection/" rel="alternate"/>
-      <id>urn:uuid:5a29cf1f-94e8-84cc-c014-b12b13f4df0e</id>
-      <updated>2023-01-25T00:00:00Z</updated>
-      <content type="html">I finished reading On The Soul and the Resurrection by Saint Gregory (of Nyssa).
-
-        
-
-        
-
-        &lt;p&gt;A lucid, short treatise from a 4th-century father. Very readable translation, too!&lt;/p&gt;
 
         
         
