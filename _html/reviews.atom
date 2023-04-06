@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-03-27T00:00:00Z</updated>
+  <updated>2023-04-06T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Tomorrow, and Tomorrow, and Tomorrow</title>
+      <link href="https://books.chrishubbs.com/gabrielle-zevin/tomorrow-and-tomorrow-and-tomorrow/" rel="alternate"/>
+      <id>urn:uuid:f2b3d4b7-56e1-9d19-db4f-6eccf2281027</id>
+      <updated>2023-04-06T00:00:00Z</updated>
+      <content type="html">I finished reading Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin.
+
+        
+
+        
+
+        &lt;p&gt;Maybe more like 4.5 stars than 4. I didn&amp;rsquo;t just &lt;em&gt;adore&lt;/em&gt; the book, but I appreciated the characters and the conflict. A memorable, warm story in its own way.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Record of a Spaceborn Few</title>
       <link href="https://books.chrishubbs.com/becky-chambers/record-of-a-spaceborn-few/" rel="alternate"/>
       <id>urn:uuid:3d6f60d8-fc50-7acb-702e-9dd34e0a284b</id>
@@ -314,23 +330,6 @@
 
         &lt;p&gt;A novel written as a series of letters from a black father to his son. There&amp;rsquo;s a huge amount of trauma being worked out in this book, both by the characters in the story and by the author who is writing this, per the Author Note in the front, as his own imaginative work of healing in his relationship with his father who is dying of Alzheimers. &lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a lot to think about with this one: generational and racial trauma, fathers and sons, hardened masculinity&amp;hellip; even as a straight white man it&amp;rsquo;ll have me thinking about my own father and how his and his father&amp;rsquo;s upbringing impacted his parenting. Phew.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Agent Josephine</title>
-      <link href="https://books.chrishubbs.com/damien-lewis/agent-josephine/" rel="alternate"/>
-      <id>urn:uuid:4e1c4eff-54d9-db09-c8b1-3d4d192ece4d</id>
-      <updated>2023-01-29T00:00:00Z</updated>
-      <content type="html">I finished reading Agent Josephine by Damien Lewis.
-
-        
-
-        
-
-        &lt;p&gt;This book tried to be too long with too little source material. The author (a British journalist) was working from 3 short books written by primary characters in the story, and with so little material he leaves us with nothing about Baker&amp;rsquo;s life before or after the war, and gives us large swaths of WWII history that have little to do with Baker.&lt;/p&gt;
-&lt;p&gt;I get the sense from the book that Josephine Baker was a remarkable woman, and I&amp;rsquo;d like to read a better biography of her.&lt;/p&gt;
 
         
         
