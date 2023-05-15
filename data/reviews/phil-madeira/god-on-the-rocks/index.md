@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=fRi5NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9781455573141'
   owned: true
-  pages: '0'
+  pages: '224'
   publication_year: '2013'
   series: ''
   series_position: ''

@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=aFhHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9781250833662'
   owned: false
-  pages: '0'
+  pages: '550'
   publication_year: '2022'
   series: ''
   series_position: ''

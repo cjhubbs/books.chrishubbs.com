@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=cueMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9780307268990'
   owned: false
-  pages: '0'
+  pages: '500'
   publication_year: '2022'
   series: ''
   series_position: ''

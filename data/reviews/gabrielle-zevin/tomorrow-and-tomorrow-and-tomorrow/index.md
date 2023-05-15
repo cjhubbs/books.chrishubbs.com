@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=Nm-TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9780593321201'
   owned: false
-  pages: '0'
+  pages: '418'
   publication_year: '2022'
   series: ''
   series_position: ''

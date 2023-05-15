@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=MSyOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9780593235232'
   owned: true
-  pages: '0'
+  pages: '304'
   publication_year: '2022'
   series: ''
   series_position: ''

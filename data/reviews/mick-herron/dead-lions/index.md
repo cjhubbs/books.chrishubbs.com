@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=FBCUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9781616953676'
   owned: false
-  pages: '0'
+  pages: '384'
   publication_year: '2014'
   series: Slough House
   series_position: '2'

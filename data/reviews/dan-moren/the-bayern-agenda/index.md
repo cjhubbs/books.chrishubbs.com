@@ -4,7 +4,7 @@ book:
   cover_image_url: http://books.google.com/books/content?id=wA5PEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9780857668196'
   owned: true
-  pages: '0'
+  pages: '385'
   publication_year: '2019'
   series: ''
   series_position: ''
