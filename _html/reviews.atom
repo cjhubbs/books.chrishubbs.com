@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-05-20T00:00:00Z</updated>
+  <updated>2023-05-26T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Out of the Wreckage</title>
+      <link href="https://books.chrishubbs.com/george-monbiot/out-of-the-wreckage/" rel="alternate"/>
+      <id>urn:uuid:5ed6c3f0-af9f-85e0-802f-df7845b6a27e</id>
+      <updated>2023-05-26T00:00:00Z</updated>
+      <content type="html">I finished reading Out of the Wreckage by George Monbiot.
+
+        
+
+        
+
+        &lt;p&gt;An optimistic view of how the political system could be changed through the encouragement and organization of communities. Nice to read something hopeful for a change!&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Mystics and Zen Masters</title>
       <link href="https://books.chrishubbs.com/thomas-merton/mystics-and-zen-masters/" rel="alternate"/>
       <id>urn:uuid:43302b1c-3b1f-ae30-d57b-6aac7704a91e</id>
@@ -313,22 +329,6 @@
         
 
         &lt;p&gt;Some really stirring stuff here. I often struggle with poetry but Wiman hits a sweet spot of poetry along with elegant prose.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Three-Body Problem</title>
-      <link href="https://books.chrishubbs.com/liu-cixin/the-three-body-problem/" rel="alternate"/>
-      <id>urn:uuid:48ccab7e-34a3-e56a-85be-fdb10754b278</id>
-      <updated>2023-02-19T00:00:00Z</updated>
-      <content type="html">I finished reading The Three-Body Problem by Liu Cixin.
-
-        
-
-        
-
-        &lt;p&gt;On re-read: still one of the most inventive sci-fi books I&amp;rsquo;ve read. Liu explores what interaction with an alien race of immense technology might be like, working at the quantum level as well as the interstellar. The first half of the book struggles to get going, but once the reveal happens and the book includes the alien civilization, the story comes alive.&lt;/p&gt;
 
         
         
