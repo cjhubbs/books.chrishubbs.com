@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-05-26T00:00:00Z</updated>
+  <updated>2023-05-28T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Morning Star</title>
+      <link href="https://books.chrishubbs.com/karl-ove-knausgaard/the-morning-star/" rel="alternate"/>
+      <id>urn:uuid:ebad0f6f-9ce0-fe3e-7bd7-7ad901da3609</id>
+      <updated>2023-05-28T00:00:00Z</updated>
+      <content type="html">I finished reading The Morning Star by Karl Ove Knausgaard.
+
+        
+
+        
+
+        &lt;p&gt;Ah, Karl Ove Knausgaard. I find his writing at once engrossing and dense. A bizarre multi-viewpoint novel that blurs the line between the living and the dead, with long excurses on the Christian perspective on death&amp;hellip; fascinating and baffling in equal measure. Not sorry I read it. Not at all.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Out of the Wreckage</title>
       <link href="https://books.chrishubbs.com/george-monbiot/out-of-the-wreckage/" rel="alternate"/>
       <id>urn:uuid:5ed6c3f0-af9f-85e0-802f-df7845b6a27e</id>
@@ -313,22 +329,6 @@
         
 
         &lt;p&gt;A fantastic primer on Autism writen by an Autistic man. Very helpful as a neurotypical person to better understand and support Autistics around me.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>My Bright Abyss</title>
-      <link href="https://books.chrishubbs.com/christian-wiman/my-bright-abyss/" rel="alternate"/>
-      <id>urn:uuid:fd844368-3fc0-1d08-2f4d-29d97320ed06</id>
-      <updated>2023-02-23T00:00:00Z</updated>
-      <content type="html">I finished reading My Bright Abyss by Christian Wiman.
-
-        
-
-        
-
-        &lt;p&gt;Some really stirring stuff here. I often struggle with poetry but Wiman hits a sweet spot of poetry along with elegant prose.&lt;/p&gt;
 
         
         
