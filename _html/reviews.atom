@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-05-30T00:00:00Z</updated>
+  <updated>2023-06-15T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Digging Up Armageddon</title>
+      <link href="https://books.chrishubbs.com/eric-h-cline/digging-up-armageddon/" rel="alternate"/>
+      <id>urn:uuid:8bda8579-98de-289a-1869-ecb5d4b6910f</id>
+      <updated>2023-06-15T00:00:00Z</updated>
+      <content type="html">I finished reading Digging Up Armageddon by Eric H. Cline.
+
+        
+
+        
+
+        &lt;p&gt;For an incredibly niche subject, this is a wonderfully interesting and accessible book. A history of the original archaelogial digs at Megiddo that happened in the 1920s and 30s. Chapters alternate between describing the people and their challenges and then the actual archaeological work. Good stuff.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Book of Genesis</title>
       <link href="https://books.chrishubbs.com/ronald-hendel/the-book-of-genesis/" rel="alternate"/>
       <id>urn:uuid:b7c3187c-1ac0-a66d-a8d0-0430cb5c41c0</id>
@@ -313,22 +329,6 @@
         
 
         &lt;p&gt;Siegel is basically advocating a practice of mindfulness and emotional integration. The first half of the book is very solid, though it would&amp;rsquo;ve benefitted from getting rid of the foofy name. &amp;ldquo;Mindsight&amp;rdquo; makes it sound like a ridiculous pop self-help book. The second half of the book, primarily made up of case stories, is less interesting and beneficial.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Fundamentals of Software Architecture</title>
-      <link href="https://books.chrishubbs.com/neal-ford/fundamentals-of-software-architecture/" rel="alternate"/>
-      <id>urn:uuid:890ffe57-3f94-ea91-eb98-69d4fde9829a</id>
-      <updated>2023-02-28T00:00:00Z</updated>
-      <content type="html">I finished reading Fundamentals of Software Architecture by Neal Ford.
-
-        
-
-        
-
-        &lt;p&gt;A little bit of work reading. A great summary of common software architecture patterns, their strengths and weaknesses.&lt;/p&gt;
 
         
         
