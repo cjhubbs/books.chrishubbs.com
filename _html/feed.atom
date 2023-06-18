@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-06-15T00:00:00Z</updated>
+  <updated>2023-06-18T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Oscar Wars</title>
+      <link href="https://books.chrishubbs.com/michael-schulman/oscar-wars/" rel="alternate"/>
+      <id>urn:uuid:2e6f62f7-8bd2-b96b-2572-62d626aaf06a</id>
+      <updated>2023-06-18T00:00:00Z</updated>
+      <content type="html">I finished reading Oscar Wars by Michael Schulman.
+
+        
+
+        
+
+        &lt;p&gt;A well-researched an engaging tale of the Academy Awards throughout their almost 100-year history. Politics, personalities, cultural influences&amp;hellip; interesting to read about. Schulman makes this book an easy read while painting a vibrant picture of a messy industry.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Digging Up Armageddon</title>
       <link href="https://books.chrishubbs.com/eric-h-cline/digging-up-armageddon/" rel="alternate"/>
       <id>urn:uuid:8bda8579-98de-289a-1869-ecb5d4b6910f</id>
@@ -313,22 +329,6 @@
         
 
         &lt;p&gt;I don&amp;rsquo;t think I was reading Joel Spolsky&amp;rsquo;s blog at the time these pieces were originally published, but it was close. The programming and computer technology he&amp;rsquo;s talking about here is of course 20 years old and thus very dated, but his commentary on management and people dynamics is still spot-on and his writing is still entertaining.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Mindsight</title>
-      <link href="https://books.chrishubbs.com/daniel-j-siegel/mindsight/" rel="alternate"/>
-      <id>urn:uuid:ef758ede-73e0-1f5d-fd28-e8e3b670bc47</id>
-      <updated>2023-03-01T00:00:00Z</updated>
-      <content type="html">I finished reading Mindsight by Daniel J. Siegel.
-
-        
-
-        
-
-        &lt;p&gt;Siegel is basically advocating a practice of mindfulness and emotional integration. The first half of the book is very solid, though it would&amp;rsquo;ve benefitted from getting rid of the foofy name. &amp;ldquo;Mindsight&amp;rdquo; makes it sound like a ridiculous pop self-help book. The second half of the book, primarily made up of case stories, is less interesting and beneficial.&lt;/p&gt;
 
         
         
