@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-06-18T00:00:00Z</updated>
+  <updated>2023-07-05T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Babel</title>
+      <link href="https://books.chrishubbs.com/r-f-kuang/babel/" rel="alternate"/>
+      <id>urn:uuid:3b4195a2-5caa-4c35-c6dc-927913ecdfeb</id>
+      <updated>2023-07-05T00:00:00Z</updated>
+      <content type="html">I finished reading Babel by R. F. Kuang.
+
+        
+
+        
+
+        &lt;p&gt;A fantasy novel that serves as a strong critique of colonialism, a meditation on technology, and remains a moving story of adventure and friendship. The best novel I&amp;rsquo;ve read in quite a while.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Oscar Wars</title>
       <link href="https://books.chrishubbs.com/michael-schulman/oscar-wars/" rel="alternate"/>
       <id>urn:uuid:2e6f62f7-8bd2-b96b-2572-62d626aaf06a</id>
@@ -313,22 +329,6 @@
         
 
         &lt;p&gt;Highly entertaining mixture of war adventure and sci-fi. Now I&amp;rsquo;m gonna have to read the rest of them.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Joel on Software</title>
-      <link href="https://books.chrishubbs.com/avram-joel-spolsky/joel-on-software/" rel="alternate"/>
-      <id>urn:uuid:562f3426-17bc-0865-3f23-d8c6ffc6e3df</id>
-      <updated>2023-03-03T00:00:00Z</updated>
-      <content type="html">I finished reading Joel on Software by Avram Joel Spolsky.
-
-        
-
-        
-
-        &lt;p&gt;I don&amp;rsquo;t think I was reading Joel Spolsky&amp;rsquo;s blog at the time these pieces were originally published, but it was close. The programming and computer technology he&amp;rsquo;s talking about here is of course 20 years old and thus very dated, but his commentary on management and people dynamics is still spot-on and his writing is still entertaining.&lt;/p&gt;
 
         
         
