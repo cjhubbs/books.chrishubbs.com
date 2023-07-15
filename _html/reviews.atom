@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-07-06T00:00:00Z</updated>
+  <updated>2023-07-15T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Secular Faith</title>
+      <link href="https://books.chrishubbs.com/mark-a-smith/secular-faith/" rel="alternate"/>
+      <id>urn:uuid:34126070-4742-56d3-e68b-cb8a15153409</id>
+      <updated>2023-07-15T00:00:00Z</updated>
+      <content type="html">I finished reading Secular Faith by Mark A. Smith.
+
+        
+
+        
+
+        &lt;p&gt;Smith argues from history that American religious beliefs largely eventually adopt broader secular trends. He uses topics like feminism and abortion as examples. The book was published in 2015 - would be very interesting to get his take now after the strong religious backlash and rise of Christian nationalist fascism since 2016.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Trauma-Informed Evangelism</title>
       <link href="https://books.chrishubbs.com/charles-kiser/trauma-informed-evangelism/" rel="alternate"/>
       <id>urn:uuid:64a9aa18-b56c-9412-f2dd-eb894aaf7f02</id>
@@ -313,22 +329,6 @@
 
         &lt;p&gt;Flimsy, not particularly well written, and&amp;hellip; naive, maybe? Basically 150 pages of &amp;ldquo;yes, people go to different kinds of churches and sometimes move between them&amp;rdquo;. Not sure that qualifies as &amp;ldquo;wandering&amp;rdquo;. &lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not sure who this book was aimed for but it wasn&amp;rsquo;t for me.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Art and Faith</title>
-      <link href="https://books.chrishubbs.com/makoto-fujimura/art-and-faith/" rel="alternate"/>
-      <id>urn:uuid:dac261e3-f601-27a5-70d3-5cc4ba0704e9</id>
-      <updated>2023-03-09T00:00:00Z</updated>
-      <content type="html">I finished reading Art and Faith by Makoto Fujimura.
-
-        
-
-        
-
-        &lt;p&gt;A world-class artist and thoughtful believer articulating the deep connection between artistry and faith. Beautiful.&lt;/p&gt;
 
         
         
