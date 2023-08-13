@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-08-04T00:00:00Z</updated>
+  <updated>2023-08-12T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>How Far the Light Reaches</title>
+      <link href="https://books.chrishubbs.com/sabrina-imbler/how-far-the-light-reaches/" rel="alternate"/>
+      <id>urn:uuid:070c4dde-d8a6-d0fd-25e5-e6a1c8aeeee4</id>
+      <updated>2023-08-12T00:00:00Z</updated>
+      <content type="html">I finished reading How Far the Light Reaches by Sabrina Imbler.
+
+        
+
+        
+
+        &lt;p&gt;A short memoir of sorts, fascinating stuff, beautifully written.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Birth of a Dancing Star</title>
       <link href="https://books.chrishubbs.com/ilia-delio/birth-of-a-dancing-star/" rel="alternate"/>
       <id>urn:uuid:6e31cfdb-b914-db49-75d1-b4e36c1f76fa</id>
@@ -311,23 +327,6 @@
         
 
         &lt;p&gt;Becky Chambers invents a universe I would want to live in, and populates it with sympathetic, kind characters. In a genre that frequently gets dark and dystopian, she writes hopeful fiction. I need more of that.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Technology Trap</title>
-      <link href="https://books.chrishubbs.com/carl-benedikt-frey/the-technology-trap/" rel="alternate"/>
-      <id>urn:uuid:7ffb7ee8-2e9c-19eb-a218-b99a61cdd243</id>
-      <updated>2023-03-22T00:00:00Z</updated>
-      <content type="html">I finished reading The Technology Trap by Carl Benedikt Frey.
-
-        
-
-        
-
-        &lt;p&gt;An interesting overview of the impact of revolutionary technology on society at large. In general, the recurring theme, says the author, is that people whose jobs are eliminated are worse off in the short run, but in the longer run everyone is better off. &lt;/p&gt;
-&lt;p&gt;Interesting to read his thoughts on the upcoming &amp;ldquo;AI revolution&amp;rdquo; as he wrote in the 2019 timeframe, prior to COVID, ChatCPT, and the like. Some of his predictions about the immediate ascent of AI have already flopped; others are certainly not moving as fast as he anticipated. Time will tell.&lt;/p&gt;
 
         
         
