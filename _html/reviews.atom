@@ -2,13 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-10-14T00:00:00Z</updated>
+  <updated>2023-10-20T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Quantum Reality</title>
+      <link href="https://books.chrishubbs.com/nick-herbert/quantum-reality/" rel="alternate"/>
+      <id>urn:uuid:943e1ae6-bb50-47cd-df89-181fb7aa7c76</id>
+      <updated>2023-10-20T00:00:00Z</updated>
+      <content type="html">I finished reading Quantum Reality by Nick Herbert.
+
+        
+
+        
+
+        &lt;p&gt;A little bit dated at this point, but a very digestible introduction to quantum theory.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
+      <title>The Left Hand of Darkness</title>
+      <link href="https://books.chrishubbs.com/ursula-k-le-guin/the-left-hand-of-darkness/" rel="alternate"/>
+      <id>urn:uuid:300a4727-cb97-9d78-a446-9654fe15be02</id>
+      <updated>2023-10-19T00:00:00Z</updated>
+      <content type="html">I finished reading The Left Hand of Darkness by Ursula K. Le Guin.
+
+        
+
+        
+
+        &lt;p&gt;I get what LeGuin was going for, but this one just didn&amp;rsquo;t land for me. Plenty of idea, not enough story.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>On the Origin of Time</title>
       <link href="https://books.chrishubbs.com/thomas-hertog/on-the-origin-of-time/" rel="alternate"/>
       <id>urn:uuid:e04410c1-4bf9-9c89-f37e-4a385d525393</id>
@@ -292,38 +324,6 @@
         
 
         &lt;p&gt;For an incredibly niche subject, this is a wonderfully interesting and accessible book. A history of the original archaelogial digs at Megiddo that happened in the 1920s and 30s. Chapters alternate between describing the people and their challenges and then the actual archaeological work. Good stuff.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Book of Genesis</title>
-      <link href="https://books.chrishubbs.com/ronald-hendel/the-book-of-genesis/" rel="alternate"/>
-      <id>urn:uuid:b7c3187c-1ac0-a66d-a8d0-0430cb5c41c0</id>
-      <updated>2023-05-30T00:00:00Z</updated>
-      <content type="html">I finished reading The Book of Genesis by Ronald Hendel.
-
-        
-
-        
-
-        &lt;p&gt;A delightful short excursion through the &amp;ldquo;biography&amp;rdquo; of Genesis examining the perspectives and interpretations of the church fathers, reformers, and philosophers up to the modern day. Very readable, and a nice introduction that takes a broader view than just the JEDP theories of textual criticism.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Morning Star</title>
-      <link href="https://books.chrishubbs.com/karl-ove-knausgaard/the-morning-star/" rel="alternate"/>
-      <id>urn:uuid:ebad0f6f-9ce0-fe3e-7bd7-7ad901da3609</id>
-      <updated>2023-05-28T00:00:00Z</updated>
-      <content type="html">I finished reading The Morning Star by Karl Ove Knausgaard.
-
-        
-
-        
-
-        &lt;p&gt;Ah, Karl Ove Knausgaard. I find his writing at once engrossing and dense. A bizarre multi-viewpoint novel that blurs the line between the living and the dead, with long excurses on the Christian perspective on death&amp;hellip; fascinating and baffling in equal measure. Not sorry I read it. Not at all.&lt;/p&gt;
 
         
         
