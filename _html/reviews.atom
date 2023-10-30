@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-10-23T00:00:00Z</updated>
+  <updated>2023-10-29T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Transitions</title>
+      <link href="https://books.chrishubbs.com/william-bridges/transitions/" rel="alternate"/>
+      <id>urn:uuid:a2569807-9d39-b391-03b8-61703b0d006b</id>
+      <updated>2023-10-29T00:00:00Z</updated>
+      <content type="html">I finished reading Transitions by William Bridges.
+
+        
+
+        
+
+        &lt;p&gt;As with all self help books, you&amp;rsquo;ve gotta eat the meat and spit out the bones. Some good stuff here particularly about what he terms the &amp;ldquo;Neutral Zone&amp;rdquo; between the old thing and the new thing.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Fifth Season</title>
       <link href="https://books.chrishubbs.com/n-k-jemisin/the-fifth-season/" rel="alternate"/>
       <id>urn:uuid:8e98e8f7-e6b0-929d-670d-695150430fdc</id>
@@ -308,22 +324,6 @@
         
 
         &lt;p&gt;A fantasy novel that serves as a strong critique of colonialism, a meditation on technology, and remains a moving story of adventure and friendship. The best novel I&amp;rsquo;ve read in quite a while.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Oscar Wars</title>
-      <link href="https://books.chrishubbs.com/michael-schulman/oscar-wars/" rel="alternate"/>
-      <id>urn:uuid:2e6f62f7-8bd2-b96b-2572-62d626aaf06a</id>
-      <updated>2023-06-18T00:00:00Z</updated>
-      <content type="html">I finished reading Oscar Wars by Michael Schulman.
-
-        
-
-        
-
-        &lt;p&gt;A well-researched an engaging tale of the Academy Awards throughout their almost 100-year history. Politics, personalities, cultural influences&amp;hellip; interesting to read about. Schulman makes this book an easy read while painting a vibrant picture of a messy industry.&lt;/p&gt;
 
         
         
