@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-11-23T00:00:00Z</updated>
+  <updated>2023-11-26T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Titanium Noir</title>
+      <link href="https://books.chrishubbs.com/nick-harkaway/titanium-noir/" rel="alternate"/>
+      <id>urn:uuid:38f6730f-cb59-91c1-9db0-e60c34553e8e</id>
+      <updated>2023-11-26T00:00:00Z</updated>
+      <content type="html">I finished reading Titanium Noir by Nick Harkaway.
+
+        
+
+        
+
+        &lt;p&gt;Cyberpunk hard boiled noir detective story. Entertaining stuff.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The New Being</title>
       <link href="https://books.chrishubbs.com/paul-tillich/the-new-being/" rel="alternate"/>
       <id>urn:uuid:711c63fa-a4b8-4b76-0d46-cce0f1633ee4</id>
@@ -308,22 +324,6 @@
         
 
         &lt;p&gt;The bits where Greene is explaining physics are wonderful. The bits where he tries to theorize about how the effects of physics manifest in things like meaning and belief are pretty weak.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Being Heumann</title>
-      <link href="https://books.chrishubbs.com/judith-heumann/being-heumann/" rel="alternate"/>
-      <id>urn:uuid:6364e60e-42e4-ed63-bf35-472426f89e84</id>
-      <updated>2023-08-14T00:00:00Z</updated>
-      <content type="html">I finished reading Being Heumann by Judith Heumann.
-
-        
-
-        
-
-        &lt;p&gt;A brisk, moving memoir of a leader in the American movement for disabled rights. I had no idea that the Americans with Disabilities Act wasn&amp;rsquo;t passed until I was in high school.&lt;/p&gt;
 
         
         
