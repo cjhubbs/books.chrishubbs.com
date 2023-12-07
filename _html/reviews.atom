@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-11-26T00:00:00Z</updated>
+  <updated>2023-12-06T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Making It So</title>
+      <link href="https://books.chrishubbs.com/patrick-stewart/making-it-so/" rel="alternate"/>
+      <id>urn:uuid:8ad40b23-a506-bd94-9e45-c2ff5ed50237</id>
+      <updated>2023-12-06T00:00:00Z</updated>
+      <content type="html">I finished reading Making It So by Patrick Stewart.
+
+        
+
+        
+
+        &lt;p&gt;Sir Patrick&amp;rsquo;s memoir is just as delightful as you would hope. From stories about his humble beginnings in Yorkshire to tales about making ST:TNG, Stewart&amp;rsquo;s tone is engaging. I don&amp;rsquo;t typically do audiobooks but I would go listen to this one simply to hear the book in his own voice. A truly lovely book.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Titanium Noir</title>
       <link href="https://books.chrishubbs.com/nick-harkaway/titanium-noir/" rel="alternate"/>
       <id>urn:uuid:38f6730f-cb59-91c1-9db0-e60c34553e8e</id>
@@ -308,22 +324,6 @@
         
 
         &lt;p&gt;I&amp;rsquo;ve been a fan of other books in this Lives of Great Religious Books series, but this one didn&amp;rsquo;t really do it for me. Less about how Job came about and more about how it has been interpreted through time. Which isn&amp;rsquo;t &lt;em&gt;bad&lt;/em&gt;&amp;hellip; just wasn&amp;rsquo;t what I was looking for.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Until the End of Time</title>
-      <link href="https://books.chrishubbs.com/brian-greene/until-the-end-of-time/" rel="alternate"/>
-      <id>urn:uuid:8afff93a-6de4-1c84-65d8-fa82945a79eb</id>
-      <updated>2023-08-20T00:00:00Z</updated>
-      <content type="html">I finished reading Until the End of Time by Brian Greene.
-
-        
-
-        
-
-        &lt;p&gt;The bits where Greene is explaining physics are wonderful. The bits where he tries to theorize about how the effects of physics manifest in things like meaning and belief are pretty weak.&lt;/p&gt;
 
         
         
