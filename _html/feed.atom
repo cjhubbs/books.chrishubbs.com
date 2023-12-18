@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-12-06T00:00:00Z</updated>
+  <updated>2023-12-17T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>My Old Home</title>
+      <link href="https://books.chrishubbs.com/orville-schell/my-old-home/" rel="alternate"/>
+      <id>urn:uuid:4b83e26f-32b8-72ab-f57f-18456fb9d7b8</id>
+      <updated>2023-12-17T00:00:00Z</updated>
+      <content type="html">I finished reading My Old Home by Orville Schell.
+
+        
+
+        
+
+        &lt;p&gt;A beautiful, sweeping epic of life in China through the 20th century.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Making It So</title>
       <link href="https://books.chrishubbs.com/patrick-stewart/making-it-so/" rel="alternate"/>
       <id>urn:uuid:8ad40b23-a506-bd94-9e45-c2ff5ed50237</id>
@@ -308,22 +324,6 @@
         
 
         &lt;p&gt;A short handbook intro to the Episcopal Church. The subtitle &amp;ldquo;A Geek&amp;rsquo;s Guide to The Episcopal Church&amp;rdquo; tells you where it&amp;rsquo;s going, and it goes HARD. Some of the geek references were helpful; some of them seemed pretty over-the-top, but you can&amp;rsquo;t deny the author&amp;rsquo;s commitment to the bit. Still, it&amp;rsquo;s a book I might hand to my college aged kid if they had any interested in attending.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Book of Job - a Biography</title>
-      <link href="https://books.chrishubbs.com/mark-larrimore/the-book-of-job/" rel="alternate"/>
-      <id>urn:uuid:c0e9e150-8798-85f1-20f4-bf315731e8da</id>
-      <updated>2023-08-28T00:00:00Z</updated>
-      <content type="html">I finished reading The Book of Job - a Biography by Mark Larrimore.
-
-        
-
-        
-
-        &lt;p&gt;I&amp;rsquo;ve been a fan of other books in this Lives of Great Religious Books series, but this one didn&amp;rsquo;t really do it for me. Less about how Job came about and more about how it has been interpreted through time. Which isn&amp;rsquo;t &lt;em&gt;bad&lt;/em&gt;&amp;hellip; just wasn&amp;rsquo;t what I was looking for.&lt;/p&gt;
 
         
         
