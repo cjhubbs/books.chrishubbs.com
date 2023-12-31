@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2023-12-28T00:00:00Z</updated>
+  <updated>2023-12-30T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Case Against Reality</title>
+      <link href="https://books.chrishubbs.com/donald-d-hoffman/the-case-against-reality/" rel="alternate"/>
+      <id>urn:uuid:73551bb1-3a69-4f68-497c-2856eb536375</id>
+      <updated>2023-12-30T00:00:00Z</updated>
+      <content type="html">I finished reading The Case Against Reality by Donald D. Hoffman.
+
+        
+
+        
+
+        &lt;p&gt;A very thought-provoking book and a great way to end my 2023 reading. Hoffman proposes that humans have evolved not to perceive the &amp;ldquo;objective&amp;rdquo; universe, but rather a view of the universe that is useful for &amp;ldquo;fitness&amp;rdquo;. So what, begs the question, is &amp;lsquo;objective&amp;rsquo; reality? Hoffman doesn&amp;rsquo;t have an answer for that question, but suggests that reality may be more defined by the interaction between conscious beings than by some objective &lt;em&gt;stuff&lt;/em&gt;. This goes down the same lines I&amp;rsquo;ve heard Ilia Delio suggest, that quantum reality is about the relationships between observers. Fascinating stuff.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Collector</title>
       <link href="https://books.chrishubbs.com/daniel-silva/the-collector/" rel="alternate"/>
       <id>urn:uuid:15cb5a9f-dad4-0dce-5486-10151e4f85d5</id>
@@ -308,22 +324,6 @@
         
 
         &lt;p&gt;Entertaining detective novel. Nothing deep, but a nice palate cleanser.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Odyssey</title>
-      <link href="https://books.chrishubbs.com/homer/the-odyssey/" rel="alternate"/>
-      <id>urn:uuid:8cface0f-afce-59e3-a0af-a6ec5fc0d0e4</id>
-      <updated>2023-09-29T00:00:00Z</updated>
-      <content type="html">I finished reading The Odyssey by Homer.
-
-        
-
-        
-
-        &lt;p&gt;Emily Wilson&amp;rsquo;s translation of The Odyssey pulled me in in a way that other translations have failed to grab me. Obviously an epic story, but her translation choices made it come alive in reading.&lt;/p&gt;
 
         
         
