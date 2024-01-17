@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-01-10T00:00:00Z</updated>
+  <updated>2024-01-16T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Varieties of Christian Universalism</title>
+      <link href="https://books.chrishubbs.com/david-w-congdon/varieties-of-christian-universalism/" rel="alternate"/>
+      <id>urn:uuid:7177ac7e-27fb-fe34-958b-9ec5627dbd4d</id>
+      <updated>2024-01-16T00:00:00Z</updated>
+      <content type="html">I finished reading Varieties of Christian Universalism by David W. Congdon.
+
+        
+
+        
+
+        &lt;p&gt;Four chapters, containing four distinct perspectives on Christian Universalism. Some more familiar than others, all helpful as an exploration of various angles Christian theologians have taken in support of that view. Aimed probably a little bit above my head, but still manageable and accessible. The fourth option, Existential Universalism, was new to me and will have me thinking for a while.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Downloaded</title>
       <link href="https://books.chrishubbs.com/robert-j-sawyer/the-downloaded/" rel="alternate"/>
       <id>urn:uuid:50091294-cbc5-3377-e680-3167f2bb2061</id>
@@ -308,22 +324,6 @@
         
 
         &lt;p&gt;A little bit dated at this point, but a very digestible introduction to quantum theory.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Left Hand of Darkness</title>
-      <link href="https://books.chrishubbs.com/ursula-k-le-guin/the-left-hand-of-darkness/" rel="alternate"/>
-      <id>urn:uuid:300a4727-cb97-9d78-a446-9654fe15be02</id>
-      <updated>2023-10-19T00:00:00Z</updated>
-      <content type="html">I finished reading The Left Hand of Darkness by Ursula K. Le Guin.
-
-        
-
-        
-
-        &lt;p&gt;I get what LeGuin was going for, but this one just didn&amp;rsquo;t land for me. Plenty of idea, not enough story.&lt;/p&gt;
 
         
         
