@@ -2,13 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-01-16T00:00:00Z</updated>
+  <updated>2024-01-20T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Hell Is a World Without You</title>
+      <link href="https://books.chrishubbs.com/jason-kirk/hell-is-a-world-without-you/" rel="alternate"/>
+      <id>urn:uuid:66c23237-00a9-a17a-4092-23b86dbd7606</id>
+      <updated>2024-01-20T00:00:00Z</updated>
+      <content type="html">I finished reading Hell Is a World Without You by Jason Kirk.
+
+        
+
+        
+
+        &lt;p&gt;Oh man. A coming of age story full of spiritual awakening, but an awakening that is more like deconstruction. Kirk captures the authentic inner and outer voices of youth growing up in conservative Evangelical circles, grappling with love, loss, and church teachings that just don&amp;rsquo;t make sense.&lt;/p&gt;
+&lt;p&gt;It may not be for everyone, but it hits me right between the eyes, and makes me wish my awakening and deconstruction had come at 18 and not 38.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Varieties of Christian Universalism</title>
       <link href="https://books.chrishubbs.com/david-w-congdon/varieties-of-christian-universalism/" rel="alternate"/>
       <id>urn:uuid:7177ac7e-27fb-fe34-958b-9ec5627dbd4d</id>
@@ -308,22 +325,6 @@
         
 
         &lt;p&gt;Fantastic world building and beautiful writing. Deserving of the awards it won.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Quantum Reality</title>
-      <link href="https://books.chrishubbs.com/nick-herbert/quantum-reality/" rel="alternate"/>
-      <id>urn:uuid:943e1ae6-bb50-47cd-df89-181fb7aa7c76</id>
-      <updated>2023-10-20T00:00:00Z</updated>
-      <content type="html">I finished reading Quantum Reality by Nick Herbert.
-
-        
-
-        
-
-        &lt;p&gt;A little bit dated at this point, but a very digestible introduction to quantum theory.&lt;/p&gt;
 
         
         
