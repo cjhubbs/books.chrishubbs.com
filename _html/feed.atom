@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-01-27T00:00:00Z</updated>
+  <updated>2024-02-02T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Finding Zero</title>
+      <link href="https://books.chrishubbs.com/amir-d-aczel/finding-zero/" rel="alternate"/>
+      <id>urn:uuid:1d3cf56b-6f01-fec9-dd29-5ad38a398d60</id>
+      <updated>2024-02-02T00:00:00Z</updated>
+      <content type="html">I finished reading Finding Zero by Amir D. Aczel.
+
+        
+
+        
+
+        &lt;p&gt;Less a treatise on ancient mathematics, more an adventure story of the author&amp;rsquo;s quest to find an ancient Cambodian stele with the oldest known inscription of the digit zero on it. Still, the guy knows how to tell a story.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Lost World of the Prophets</title>
       <link href="https://books.chrishubbs.com/john-h-walton/the-lost-world-of-the-prophets/" rel="alternate"/>
       <id>urn:uuid:f0103f3c-3ff0-9d69-79d3-636038955fd6</id>
@@ -309,22 +325,6 @@
         
 
         &lt;p&gt;A whole lot to unpack here as Teilhard sees the vision of an evolutionary universe powered by love.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Transitions</title>
-      <link href="https://books.chrishubbs.com/william-bridges/transitions/" rel="alternate"/>
-      <id>urn:uuid:a2569807-9d39-b391-03b8-61703b0d006b</id>
-      <updated>2023-10-29T00:00:00Z</updated>
-      <content type="html">I finished reading Transitions by William Bridges.
-
-        
-
-        
-
-        &lt;p&gt;As with all self help books, you&amp;rsquo;ve gotta eat the meat and spit out the bones. Some good stuff here particularly about what he terms the &amp;ldquo;Neutral Zone&amp;rdquo; between the old thing and the new thing.&lt;/p&gt;
 
         
         
