@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-02-02T00:00:00Z</updated>
+  <updated>2024-02-10T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Murder of Professor Schlick</title>
+      <link href="https://books.chrishubbs.com/david-edmonds/the-murder-of-professor-schlick/" rel="alternate"/>
+      <id>urn:uuid:09f2d717-0bd0-3ec0-b257-99eb2f338f38</id>
+      <updated>2024-02-10T00:00:00Z</updated>
+      <content type="html">I finished reading The Murder of Professor Schlick by David Edmonds.
+
+        
+
+        
+
+        &lt;p&gt;A remarkably engaging and readable introduction to the Vienna Circle and the dynamics in Vienna leading up to the Second World War.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Finding Zero</title>
       <link href="https://books.chrishubbs.com/amir-d-aczel/finding-zero/" rel="alternate"/>
       <id>urn:uuid:1d3cf56b-6f01-fec9-dd29-5ad38a398d60</id>
@@ -309,22 +325,6 @@
         
 
         &lt;p&gt;Framed as an oral history of an old, dying gay man telling his story to a younger gay man. Mesmerizing.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Phenomenon of Man</title>
-      <link href="https://books.chrishubbs.com/pierre-teilhard-de-chardin/the-phenomenon-of-man/" rel="alternate"/>
-      <id>urn:uuid:e9a770c4-0c94-fbfc-d625-8eb5bf12a216</id>
-      <updated>2023-11-01T00:00:00Z</updated>
-      <content type="html">I finished reading The Phenomenon of Man by Pierre Teilhard de Chardin.
-
-        
-
-        
-
-        &lt;p&gt;A whole lot to unpack here as Teilhard sees the vision of an evolutionary universe powered by love.&lt;/p&gt;
 
         
         
