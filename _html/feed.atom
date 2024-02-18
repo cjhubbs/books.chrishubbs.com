@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-02-10T00:00:00Z</updated>
+  <updated>2024-02-16T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>In Universes</title>
+      <link href="https://books.chrishubbs.com/emet-north/in-universes/" rel="alternate"/>
+      <id>urn:uuid:620f5892-1fb8-2ef8-4da8-d8107120ab86</id>
+      <updated>2024-02-16T00:00:00Z</updated>
+      <content type="html">I finished reading In Universes by Emet North.
+
+        
+
+        
+
+        &lt;p&gt;Not fully sold on this one. I think I see what the author is trying to do, but there is too much disconnect in the middle chapters for it to hold together and make sense to me.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>The Murder of Professor Schlick</title>
       <link href="https://books.chrishubbs.com/david-edmonds/the-murder-of-professor-schlick/" rel="alternate"/>
       <id>urn:uuid:09f2d717-0bd0-3ec0-b257-99eb2f338f38</id>
@@ -309,22 +325,6 @@
         
 
         &lt;p&gt;Ridiculous, cheesy fun.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Blackouts</title>
-      <link href="https://books.chrishubbs.com/justin-torres/blackouts/" rel="alternate"/>
-      <id>urn:uuid:6c507233-75ea-d68a-0f6e-cd1781ea998c</id>
-      <updated>2023-11-05T00:00:00Z</updated>
-      <content type="html">I finished reading Blackouts by Justin Torres.
-
-        
-
-        
-
-        &lt;p&gt;Framed as an oral history of an old, dying gay man telling his story to a younger gay man. Mesmerizing.&lt;/p&gt;
 
         
         
