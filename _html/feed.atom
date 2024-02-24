@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-02-16T00:00:00Z</updated>
+  <updated>2024-02-23T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>Ringmaster</title>
+      <link href="https://books.chrishubbs.com/abraham-riesman/ringmaster/" rel="alternate"/>
+      <id>urn:uuid:167ff694-8d38-2ba3-5343-b3f8aaac94d2</id>
+      <updated>2024-02-23T00:00:00Z</updated>
+      <content type="html">I finished reading Ringmaster by Abraham Riesman.
+
+        
+
+        
+
+        &lt;p&gt;Painstakingly researched and grippingly told, this story of Vince McMahon&amp;rsquo;s life running the WWF kept me reading, and I care nothing for professional wrestling.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>In Universes</title>
       <link href="https://books.chrishubbs.com/emet-north/in-universes/" rel="alternate"/>
       <id>urn:uuid:620f5892-1fb8-2ef8-4da8-d8107120ab86</id>
@@ -309,22 +325,6 @@
         
 
         &lt;p&gt;A beautiful first-person narrative that considers Jesus&amp;rsquo; life from a different-than-usual perspective.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>Starter Villain</title>
-      <link href="https://books.chrishubbs.com/john-scalzi/starter-villain/" rel="alternate"/>
-      <id>urn:uuid:aa6fcee8-f730-8444-ca3c-7d621366fb4d</id>
-      <updated>2023-11-11T00:00:00Z</updated>
-      <content type="html">I finished reading Starter Villain by John Scalzi.
-
-        
-
-        
-
-        &lt;p&gt;Ridiculous, cheesy fun.&lt;/p&gt;
 
         
         
