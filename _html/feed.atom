@@ -2,13 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.chrishubbs.com/feed.atom</id>
   <title>The Bookshelf: Chris's book log</title>
-  <updated>2024-03-15T00:00:00Z</updated>
+  <updated>2024-03-16T00:00:00Z</updated>
   <author>
     <name>Chris Hubbs</name>
     <email>chris@chrishubbs.com</email>
   </author>
   <link href="https://books.chrishubbs.com/" rel="alternate"/>
   <link href="https://books.chrishubbs.com/feed.atom" rel="self"/><entry>
+      <title>The Grand Contraption</title>
+      <link href="https://books.chrishubbs.com/david-park/the-grand-contraption/" rel="alternate"/>
+      <id>urn:uuid:45e8f910-07f7-010d-fcdc-b767b98b82a3</id>
+      <updated>2024-03-16T00:00:00Z</updated>
+      <content type="html">I finished reading The Grand Contraption by David Park.
+
+        
+
+        
+
+        &lt;p&gt;An engaging history of science from our earliest history to the present. Not too stuffy or too detailed; manages to hit the high points and explain them well without bogging down.&lt;/p&gt;
+
+        
+        
+    </content>
+    </entry><entry>
       <title>Exordia</title>
       <link href="https://books.chrishubbs.com/seth-dickinson/exordia/" rel="alternate"/>
       <id>urn:uuid:c577f5e3-e336-680c-6192-4dc9ec7677ca</id>
@@ -309,22 +325,6 @@
         
 
         &lt;p&gt;A little bit sci-fi, a little bit adventure thriller. An entertaining easy read.&lt;/p&gt;
-
-        
-        
-    </content>
-    </entry><entry>
-      <title>The Talmud</title>
-      <link href="https://books.chrishubbs.com/barry-scott-wimpfheimer/the-talmud/" rel="alternate"/>
-      <id>urn:uuid:eeda6435-aa99-eafa-0941-9d2e123206d3</id>
-      <updated>2023-11-16T00:00:00Z</updated>
-      <content type="html">I finished reading The Talmud by Barry Scott Wimpfheimer.
-
-        
-
-        
-
-        &lt;p&gt;I&amp;rsquo;ve enjoyed a lot of the Biographies of Ancient Books series but this one left me flat.&lt;/p&gt;
 
         
         
