@@ -6,7 +6,11 @@ book:
   owned: false
   spine_color: '#21437c'
   pages: '392'
-  series: Space Unbound
+  publication_year: '2020'
+  series: 'Space Unbound'
+  series_position: '2'
+  spine_color: '#ba7b4c'
+  tags: ''
   title: Sun Wolf
 plan:
   date_added: 2024-04-25
