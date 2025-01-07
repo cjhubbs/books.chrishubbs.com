@@ -1,6 +1,7 @@
 import colorsys
 from collections import defaultdict
 from statistics import median_high
+import click
 
 import requests
 from PIL import Image
@@ -42,7 +43,8 @@ def choose_spine_color(review, cluster_count=3):
 
 
 def get_google_data(isbn):
-    url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{isbn}"
+    url = f"https://www.googleapis.com/books/v1/volumes?q=ISBN:{isbn}&key=AIzaSyAaI9rp4RgQMUpbF-mxxYuRmA5FS_uaZyE"
+    click.echo(url,err=True)
     response = requests.get(url).json()
     google_id = response["items"][0]["id"]
     data = requests.get(

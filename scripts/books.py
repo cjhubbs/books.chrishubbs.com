@@ -320,7 +320,7 @@ class Review:
 
     def get_google_info(self,isbn):
         with suppress(Exception):
-            url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{self.isbn}"
+            url = f"https://www.googleapis.com/books/v1/volumes?q=ISBN:{self.isbn}&key=AIzaSyAaI9rp4RgQMUpbF-mxxYuRmA5FS_uaZyE"
             data = requests.get(url).json()['items'][0]['volumeInfo']
             self.metadata['book']['title'] = data['title']
             self.metadata['book']['author'] = data['authors'][0]
