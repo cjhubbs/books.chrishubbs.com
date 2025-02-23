@@ -12,12 +12,12 @@ book:
   series_position: '2005'
   spine_color: '#af6743'
   tags: ''
-  title: 'The Professor and the Madman: A Tale of Murder, Insanity and the Making
-    of the Oxford English Dictionary'
+  title: 'The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary'
 plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2015-12-20
-  rating: 0
+  - 2025-02-22
+  rating: 5
 ---
+A fascinating story and easy read. 
