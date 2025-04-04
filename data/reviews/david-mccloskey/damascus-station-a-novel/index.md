@@ -6,7 +6,7 @@ book:
   owned: false
   pages: '347'
   publication_year: '2021'
-  series: ''
+  series: 'Damascus Station'
   series_position: ''
   spine_color: '#e33927'
   tags: ''
