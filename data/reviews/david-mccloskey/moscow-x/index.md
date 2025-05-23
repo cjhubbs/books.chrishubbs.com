@@ -7,7 +7,7 @@ book:
   pages: '529'
   publication_year: '2023'
   series: 'Damascus Station'
-  series_position: ''
+  series_position: '2'
   spine_color: '#ebdd0c'
   tags: ''
   title: Moscow X

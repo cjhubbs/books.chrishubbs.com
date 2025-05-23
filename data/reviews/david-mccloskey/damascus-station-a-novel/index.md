@@ -7,7 +7,7 @@ book:
   pages: '347'
   publication_year: '2021'
   series: 'Damascus Station'
-  series_position: ''
+  series_position: '1'
   spine_color: '#e33927'
   tags: ''
   title: 'Damascus Station: A Novel'
