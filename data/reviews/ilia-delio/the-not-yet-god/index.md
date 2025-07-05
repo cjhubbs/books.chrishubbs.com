@@ -1,6 +1,6 @@
 ---
 book:
-  author: Delio, Ilia
+  author: Ilia Delio
   cover_image_url: http://books.google.com/books/content?id=jWKqzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   isbn13: '9781626985353'
   owned: true
