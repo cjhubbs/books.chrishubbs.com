@@ -5,8 +5,8 @@ book:
   owned: false
   pages: '269'
   publication_year: '2021'
-  series: ''
-  series_position: ''
+  series: 'NeoG'
+  series_position: '2'
   tags: ''
   title: Hold Fast Through the Fire
 plan:
