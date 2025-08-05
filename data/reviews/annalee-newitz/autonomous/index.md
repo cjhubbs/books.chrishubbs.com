@@ -18,5 +18,6 @@ plan:
 review:
   date_read:
   - 2017-11-19
+  - 2025-08-04
   rating: 4
 ---
