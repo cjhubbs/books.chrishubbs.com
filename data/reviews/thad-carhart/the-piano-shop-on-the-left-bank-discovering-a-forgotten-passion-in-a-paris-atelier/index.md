@@ -18,6 +18,7 @@ plan:
   date_added: 2023-01-01
 review:
   date_read:
-  - 2010-07-14
-  rating: 0
+  - 2025-09-06
+  rating: 5
 ---
+As a pianist and the son of a piano technician, I'm basically the ideal target demographic for this book... and it doesn't disappoint. Beautifully written, capturing the magic of the piano as an instrument and of music as a thing to be shared and enjoyed. Lovely.
