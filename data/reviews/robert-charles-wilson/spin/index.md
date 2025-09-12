@@ -6,8 +6,8 @@ book:
   owned: false
   pages: '468'
   publication_year: '2006'
-  series: ''
-  series_position: ''
+  series: 'Spin'
+  series_position: '1'
   spine_color: '#5b6069'
   tags: ''
   title: Spin
