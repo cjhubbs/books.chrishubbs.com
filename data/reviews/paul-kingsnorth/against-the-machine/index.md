@@ -18,4 +18,4 @@ review:
   - 2025-11-01
   rating: 3
 ---
-So many thoughts. I'll write a separate blog post.
+So many thoughts. [I wrote a separate blog post](https://chrishubbs.com/2025/11/02/against-the-machine-paul-kingsnorths/).
