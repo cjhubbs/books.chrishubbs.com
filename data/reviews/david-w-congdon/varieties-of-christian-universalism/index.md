@@ -16,6 +16,7 @@ plan:
 review:
   date_read:
   - 2024-01-16
+  - 2026-02-05
   rating: 4
 ---
 Four chapters, containing four distinct perspectives on Christian Universalism. Some more familiar than others, all helpful as an exploration of various angles Christian theologians have taken in support of that view. Aimed probably a little bit above my head, but still manageable and accessible. The fourth option, Existential Universalism, was new to me and will have me thinking for a while.
