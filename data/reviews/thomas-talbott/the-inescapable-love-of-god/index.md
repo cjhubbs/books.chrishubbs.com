@@ -18,5 +18,7 @@ plan:
 review:
   date_read:
   - 2021-11-12
+  - 2026-02-06
   rating: 5
 ---
+Talbott's combination of theology and logic is, for me, inescapable. Fresh and brilliant.
