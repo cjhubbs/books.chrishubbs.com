@@ -6,8 +6,8 @@ book:
   owned: true
   pages: '368'
   publication_year: '2018'
-  series: ''
-  series_position: ''
+  series: 'Wayfarers'
+  series_position: '3'
   spine_color: '#4b2426'
   tags: ''
   title: Record of a Spaceborn Few
