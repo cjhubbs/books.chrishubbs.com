@@ -18,5 +18,7 @@ plan:
 review:
   date_read:
   - 2018-07-29
+  - 2026-02-28
   rating: 5
 ---
+Jersak, in his own personal and yet theologically deep way, paints a picture of eternal hope for all in a New Jerusalem whose gates are always open.
