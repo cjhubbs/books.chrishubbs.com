@@ -1,0 +1,8 @@
+click
+python-frontmatter
+inquirer
+requests
+Unidecode
+beautifulsoup4
+Pillow
+scikit-learn

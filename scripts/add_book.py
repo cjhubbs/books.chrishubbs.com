@@ -1,23 +1,39 @@
 from books import Review
 import inquirer
 import click 
-import glob
 import datetime as dt
 import os
+import json
+from pathlib import Path
 
+INDEX_FILE = Path('./data/index.json')
 
-reviews = []
-isbns = {}
+def load_index():
+    """Load the ISBN index from JSON file."""
+    if INDEX_FILE.exists():
+        with open(INDEX_FILE, 'r') as f:
+            return json.load(f)
+    return {}
+
+def save_index(index):
+    """Save the ISBN index to JSON file."""
+    INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(INDEX_FILE, 'w') as f:
+        json.dump(index, f, indent=2)
+
+def update_index(isbn13, title, entry_type):
+    """Add a new book to the index."""
+    index = load_index()
+    index[isbn13] = {
+        'title': title,
+        'type': entry_type,
+        'added': dt.date.today().isoformat()
+    }
+    save_index(index)
 
 if __name__ == "__main__":
 
-    review_files = glob.glob('./data/reviews/**/index.md', recursive=True)
-    to_read_files = glob.glob('./data/to-read/**/index.md', recursive=True)
-    datafiles = review_files + to_read_files
-    for d in datafiles:
-        r = Review(path=d)
-        reviews.append(r)
-        isbns[r.metadata['book']['isbn13']] = r 
+    isbns = load_index()
 
     questions = [
         inquirer.Text("isbn", "Input the ISBN13:"),
@@ -33,7 +49,7 @@ if __name__ == "__main__":
     )
     response = inquirer.prompt(questions)
     if response['isbn'] in isbns.keys():
-        click.echo("ISBN " + response['isbn'] + " already exists: " + isbns[response['isbn']].metadata['book']['title'])
+        click.echo("ISBN " + response['isbn'] + " already exists: " + isbns[response['isbn']]['title'])
         click.echo("Exiting.")
     else:
         metadata = {'book': {'isbn13': response['isbn']}}
@@ -59,6 +75,7 @@ if __name__ == "__main__":
             )
             r.metadata['book']['owned'] = owned
         r.save()
+        update_index(response['isbn'], r.metadata['book'].get('title', 'Unknown'), entry_type)
         r.find_google_cover()
         r.save()
         os.system('vi' + ' "' + str(r.path) + '" </dev/tty >/dev/tty 2>&1')

@@ -318,21 +318,64 @@ class Review:
             )
         return False
 
-    def get_google_info(self,isbn):
+    def get_google_info(self, isbn=None):
+        """
+        Populate book metadata from Google Books. Prefer an env var GOOGLE_BOOKS_API_KEY
+        but work without a key. Returns True on success, False otherwise.
+        """
+        if isbn is None:
+            isbn = self.isbn
+        if not isbn:
+            return False
+
         with suppress(Exception):
-            url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{self.isbn}&key=AIzaSyAaI9rp4RgQMUpbF-mxxYuRmA5FS_uaZyE"
-            data = requests.get(url).json()['items'][0]['volumeInfo']
-            self.metadata['book']['title'] = data['title']
-            self.metadata['book']['author'] = data['authors'][0]
-            self.metadata['book']['pages'] = str(data['pageCount'])
-            self.metadata['book']['publication_year'] = data['publishedDate'][0:4]
-            self.metadata['book']['owned'] = ''
-            self.metadata['book']['series'] = ''
-            self.metadata['book']['series_position'] = ''
-            self.metadata['book']['tags'] = ''
-            self.metadata['plan'] = {}
-            self.metadata['plan']['date_added'] = dt.date.today()
+            key = os.environ.get("GOOGLE_BOOKS_API_KEY")
+            url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{isbn}"
+            if key:
+                url = f"{url}&key={key}"
+            resp = requests.get(url, timeout=10)
+            if resp.status_code != 200:
+                return False
+            data = resp.json()
+            items = data.get("items")
+            if not items:
+                return False
+
+            volume = items[0]
+            info = volume.get("volumeInfo", {})
+
+            self.metadata.setdefault("book", {})
+            self.metadata["book"]["title"] = info.get("title", self.metadata["book"].get("title", ""))
+            authors = info.get("authors") or []
+            if authors:
+                self.metadata["book"]["author"] = authors[0]
+            self.metadata["book"]["pages"] = str(info.get("pageCount")) if info.get("pageCount") else ""
+            pub = info.get("publishedDate", "")
+            self.metadata["book"]["publication_year"] = pub[:4] if pub else ""
+            # keep existing fields empty/default if not provided
+            self.metadata["book"].setdefault("owned", "")
+            self.metadata["book"].setdefault("series", "")
+            self.metadata["book"].setdefault("series_position", "")
+            self.metadata["book"].setdefault("tags", "")
+
+            # cover image: prefer imageLinks thumbnail, ensure https, else build content URL via id
+            image_url = None
+            image_links = info.get("imageLinks") or {}
+            image_url = image_links.get("thumbnail") or image_links.get("smallThumbnail")
+            if image_url:
+                image_url = image_url.replace("http://", "https://")
+            else:
+                vid = volume.get("id")
+                if vid:
+                    image_url = f"https://books.google.com/books/content?id={vid}&printsec=frontcover&img=1&zoom=1&source=gbs-api"
+            if image_url:
+                self.metadata["book"]["cover_image_url"] = image_url
+
+            # plan metadata
+            self.metadata.setdefault("plan", {})
+            self.metadata["plan"]["date_added"] = dt.date.today()
             return True
+        return False
 
 
     def find_google_cover(self, force_new=False):
